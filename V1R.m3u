@@ -213,11 +213,11 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
 https://tgn.bozztv.com/dvrfl05/gin-ntvtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Turk
-https://youtu.be/VXMR3YQ7W3s
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/3926
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="hhttps://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",HABERTURK
 https://tgn.bozztv.com/dvrfl05/gin-haberturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
-https://youtu.be/erCmQucF6_U
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/119550
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-name="TV 100"tvg-id="Haber_TV100"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd"group-title="Haber":http-referrer="":http-user-agent="",TV 100
@@ -267,19 +267,50 @@ http://stream.tvcdn.net/muzik/number-1-damar.m3u8
 http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 #EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="Muzik",Muzik TV
 http://stream.tvcdn.net/muzik/muzik-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|BG| MTV HD+" tvg-logo="" group-title="Muzik",|BG| MTV HD+
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112529
-#EXTINF:-1 tvg-id="" tvg-name="|BG| City TV" tvg-logo="" group-title="Muzik",|BG| City TV
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112530
-#EXTINF:-1 tvg-id="" tvg-name="|BG| City Music" tvg-logo="" group-title="Muzik",|BG| City Music
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112531
-#EXTINF:-1 tvg-id="" tvg-name="|BG| BG Music HD+" tvg-logo="" group-title="Muzik",|BG| BG Music HD+
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112532
-#EXTINF:-1 tvg-id="" tvg-name="|BG| Balkanika Music HD+" tvg-logo="" group-title="Muzik",|BG| Balkanika Music HD+
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112533
-#EXTINF:-1 tvg-id="" tvg-name="|BG| The Voice" tvg-logo="" group-title="Muzik",|BG| The Voice
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMu7baN2jvE9-gISboqZtwT2Nwni31bNflHw&s" tvg-name="|BG| The Voice" tvg-logo="" group-title="Muzik",|BG| The Voice
 http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112534
-#EXTINF:-1 tvg-id="" tvg-name="|BG| Planeta 4K+" tvg-logo="" group-title="Muzik",|BG| Planeta 4K+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Planeta_New_Logo_2020.png/revision/latest?cb=20201123062209" tvg-name="|BG| Planeta 4K+" tvg-logo="" group-title="Muzik",|BG| Planeta 4K+
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112535
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| MTV HD+" tvg-logo="" group-title="Muzik",|BG| MTV HD+
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112529
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| City TV" tvg-logo="" group-title="Muzik",|BG| City TV
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112530
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| City Music" tvg-logo="" group-title="Muzik",|BG| City Music
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112531
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| BG Music HD+" tvg-logo="" group-title="Muzik",|BG| BG Music HD+
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112532
+
+
+
+# * » RADYO « * #
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",PAL STATİON
+https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",METRO FM
+https://17773.live.streamtheworld.com/METRO_FM128AAC.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Number One FM
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Hot Hits FM
+https://hothitsfm.com/hothitsfm128kbps.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Tomorrowland Live
+http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",PAL FM
+https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KAMPUS FM
+http://193.255.97.57/;stream/1
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KUPE FM
+https://icecast.netmedya.net/kupefm
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",The Rock Radio
+https://moondigitaledge.radyotvonline.net/therockradio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KAFA RADYO
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Alem FM
+https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KRAL FM
+https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KRAL POP
+http://46.20.3.201/;type=mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Arabesk Damar FM
+https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
 
 # * » COCUK « * #
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk",TRT Cocuk
