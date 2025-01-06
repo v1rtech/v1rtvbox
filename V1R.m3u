@@ -267,6 +267,19 @@ http://stream.tvcdn.net/muzik/number-1-damar.m3u8
 http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 #EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="Muzik",Muzik TV
 http://stream.tvcdn.net/muzik/muzik-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|BG| MTV HD+" tvg-logo="" group-title="Muzik",|BG| MTV HD+
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112529
+#EXTINF:-1 tvg-id="" tvg-name="|BG| City TV" tvg-logo="" group-title="Muzik",|BG| City TV
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112530
+#EXTINF:-1 tvg-id="" tvg-name="|BG| City Music" tvg-logo="" group-title="Muzik",|BG| City Music
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112531
+#EXTINF:-1 tvg-id="" tvg-name="|BG| BG Music HD+" tvg-logo="" group-title="Muzik",|BG| BG Music HD+
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112532
+#EXTINF:-1 tvg-id="" tvg-name="|BG| Balkanika Music HD+" tvg-logo="" group-title="Muzik",|BG| Balkanika Music HD+
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112533
+#EXTINF:-1 tvg-id="" tvg-name="|BG| The Voice" tvg-logo="" group-title="Muzik",|BG| The Voice
+http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112534
+#EXTINF:-1 tvg-id="" tvg-name="|BG| Planeta 4K+" tvg-logo="" group-title="Muzik",|BG| Planeta 4K+
 
 # * » COCUK « * #
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk",TRT Cocuk
