@@ -23,25 +23,24 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 
 # * » SPOR « * #
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 1
-https://v.arectv11.sbs/static/bs1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://s0.b4c8d3e9f1a2b7c5d68.cfd/yayinzirve.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 2
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/420541
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://ordu.locabahistv3.com/yayinb2.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 3
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/406019
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://ordu.locabahistv3.com/yayinb3.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 4
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/273
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://ordu.locabahistv3.com/yayinb4.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 5
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/416137
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 6
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/476135
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 7
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/354
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 8
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/468718
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 9
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/427767
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1 | 10
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/438497
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",BEIN SPORTS 2 | A
 https://y0.trgoalshls37.cfd/yayinb2.m3u8
