@@ -22,30 +22,30 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 
 
 # * » SPOR « * #
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1222.xyz/
 https://o0.b4c8d3e9f1a2b7c5d85.cfd/yayinzirve.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 2
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1222.xyz/
 https://o0.b4c8d3e9f1a2b7c5d85.cfd/yayinb2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 3
+#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1222.xyz/
 https://o0.b4c8d3e9f1a2b7c5d85.cfd/yayinb3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 4
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://ordu.locabahistv3.com/yayinb4.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1222.xyz/
+https://o0.b4c8d3e9f1a2b7c5d85.cfd/yayinb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 5
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://ordu.locabahistv3.com/yayinb5.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1222.xyz/
+https://o0.b4c8d3e9f1a2b7c5d85.cfd/yayinb5.m3u8
 
 #EXTINF:-1 tvg-id="TRTspor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT SPOR
 https://v.zirvedeyim41.cfd/yayintrtspor.m3u8
