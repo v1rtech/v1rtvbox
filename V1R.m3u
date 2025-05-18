@@ -259,7 +259,7 @@ http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/377
 
 
 
-# * » FİLM« * #
+# * » FİLMLER « * #
 #EXTINF:-1 tvg-name="Dune Part 1"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg"FİLM:http-referrer="":http-user-agent="",Dune Part 1
 https://cdn.dzeninfra.com/vod/converted-video/vod-content/18/93/75/33/32/52/33/34/34/8/f1b955dc-7edd-48d6-b0e0-1b1edb622790/kaltura/desc_bba61a89168a85e0a90e6ffa0c0f4eb4/vzks49DtGf0s/vw=1920,vh=804,fps=24.00,vbrt=1289977,abrt=129378,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
 #EXTINF:-1 tvg-name="Fight Club"tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDG6gZG_HgZwEmGn7jlbmZFZa0A_EkYGYC9Pwk1ZfdFNpN.jpg"FİLM:http-referrer="":http-user-agent="",Fight Club
@@ -7950,19 +7950,11 @@ http://13.60.64.58/yt/yt.m3u8?kanal=@zenginkizfakiroglantrt
 
 
 # * » Liste1 « * #
-#EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Liste 1":http-referrer="":http-user-agent="",Tabii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Liste 1":http-referrer="":http-user-agent="",Tabii TV Yedek
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="TRT Nostalji"tvg-id="TRT Nostalji.tr"tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj"group-title="Liste 1":http-referrer="":http-user-agent="",TRT Nostalji
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-name="BluTV Play 1"tvg-id="BluTV Play1.tr"tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png"group-title="Liste 1":http-referrer="":http-user-agent="",BluTV Play 1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="BluTV Play 2"tvg-id="BluTV Play 2.tr"tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png"group-title="Liste 1":http-referrer="":http-user-agent="",BluTV Play 2
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSOGkX2Qk6vJNpLURcTRszAeGqH1MpGGBbA&s" group-title="Liste 1",Cine 6
+#EXTINF:-1 tvg-name="Cine 6" tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSOGkX2Qk6vJNpLURcTRszAeGqH1MpGGBbA&s" group-title="Liste 1",Cine 6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkh5TKIGqVDOVvENkPUC01wj5G9pBmfQvj0lmGkGfbrHQO4sH1qbstFk&s=10" group-title="Liste 1",Cine 6 Max
+#EXTINF:-1 tvg-name="Cine 6 Max" tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkh5TKIGqVDOVvENkPUC01wj5G9pBmfQvj0lmGkGfbrHQO4sH1qbstFk&s=10" group-title="Liste 1",Cine 6 Max
 https://canli.cinemax6.com:3220/stream/play.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Premiere" tvg-id="TR: beIN Movies Premiere" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png" group-title="Liste 1",beIN Movies Premiere
 http://norsvpx.top:8080/231679575500969074/1511679575500969/57863
@@ -7999,8 +7991,10 @@ https://trt.daioncdn.net/trt-1/master.m3u8
 
 
 # * » hbomax « * #
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8
+#EXTINF:-1 tvg-name="HBO Max 1"tvg-id="BluTV Play1.tr"tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png"group-title="Liste 1":http-referrer="":http-user-agent="",BluTV Play 1
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Max 2"tvg-id="BluTV Play 2.tr"tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png"group-title="Liste 1":http-referrer="":http-user-agent="",BluTV Play 2
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
 
 
 # * » prime « * #
@@ -8024,8 +8018,10 @@ https://trt.daioncdn.net/trt-1/master.m3u8
 
 
 # * » tabii « * #
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8
+#EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Liste 1":http-referrer="":http-user-agent="",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Liste 1":http-referrer="":http-user-agent="",Tabii TV Yedek
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 
 
 # * » tod « * #
