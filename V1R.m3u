@@ -7961,28 +7961,8 @@ https://vidmody.com/vs/tt28249919
 https://vidmody.com/vs/tt21158338
 
 # * » yabancidiziler « * #
-#EXTINF:-1 tvg-name="Çok Güzel Hareketler 2"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/%C3%87ghb2.png"group-title="Dizi":http-referrer="":http-user-agent="",Çok Güzel Hareketler 2
-http://13.60.64.58/yt/yt.m3u8?kanal=@çokgüzelhareketler
-#EXTINF:-1 tvg-name="Güldür Güldür Show"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/rNHSrjlwi1tNLVrIpy6T0EP6qJUQCvocL1CfYWk8D7B_n4AGm599SMKoggEz65xRFB7gqpza=s900-c-k-c0x00ffffff-no-rj"group-title="Dizi":http-referrer="":http-user-agent="",Güldür Güldür Show
-http://13.60.64.58/yt/yt.m3u8?kanal=@guldurguldurtv
-#EXTINF:-1 tvg-name="Kemal Sunal"tvg-id=""tvg-logo="https://i.ytimg.com/vi/hfx8H7YrmTw/sddefault_live.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Kemal Sunal
-http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
-#EXTINF:-1 tvg-name="Çocuklar Duymasın Eski"tvg-id=""tvg-logo="https://i.ytimg.com/vi/BjEBboWV_G0/maxresdefault.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Çocuklar Duymasın(Eski)
-http://13.60.64.58/yt/yt.m3u8?kanal=@CocuklarDuymasindizi
-#EXTINF:-1 tvg-name="Çocuklar Duymasın Yeni"tvg-id=""tvg-logo="https://i.ytimg.com/vi/EVZmJPw-7hY/hq720_live.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBPeHtIfmeAiZvMEtxckn94G3HlnA"group-title="Dizi":http-referrer="":http-user-agent="",Çocuklar Duymasın(Yeni)
-http://13.60.64.58/yt/yt.m3u8?kanal=@CocuklarDuymasnKanalD
-#EXTINF:-1 tvg-name="Cennet Mahellesi"tvg-id=""tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/hq720.jpg?v=657aa9b3&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvTQN8qJC3qcTrDZCnld9d9jyTiw"group-title="Dizi":http-referrer="":http-user-agent="",Cennet Mahellesi
-http://13.60.64.58/yt/yt.m3u8?kanal=@cennetmahallesishowtv
-#EXTINF:-1 tvg-name="Sihirli Annem"tvg-id=""tvg-logo="https://i.ytimg.com/vi/KCejwr4z7NQ/hq720.jpg?v=67bc1621&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCp0gMe4EwxJuySjV8TmqZ3AS5a8w"group-title="Dizi":http-referrer="":http-user-agent="",Sihirli Annem
-http://13.60.64.58/yt/yt.m3u8?kanal=@SIHIRLIANNEMKANALDOFFICIAL
-#EXTINF:-1 tvg-name="Adanalı"tvg-id=""tvg-logo="https://i.ytimg.com/vi/sF1AgroEr60/maxresdefault.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Adanalı
-http://13.60.64.58/yt/yt.m3u8?kanal=@Adanali
-#EXTINF:-1 tvg-name="Seksenler"tvg-id=""tvg-logo="https://i.ytimg.com/vi/8-uHZ4CCb-E/maxresdefault.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Seksenler
-http://13.60.64.58/yt/yt.m3u8?kanal=@seksenlertrt
-#EXTINF:-1 tvg-name="Kardeşlerim"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVIz4McaRis5EyT4CkUaP-wKiHLhEGpVSKw&s"group-title="Dizi":http-referrer="":http-user-agent="",Kardeşlerim
-http://13.60.64.58/yt/yt.m3u8?kanal=@Kardeslerim
-#EXTINF:-1 tvg-name="Zengin Kız Fakir Oğlan"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9b/ZenginKizFakirOglan-afis.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Zengin Kız Fakir Oğlan
-http://13.60.64.58/yt/yt.m3u8?kanal=@zenginkizfakiroglantrt
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 1. Bölüm(Geri Sayım)
+https://storage.diziyou6.com/episodes/91301_tr/play.m3u8
 
 # * » yerlidiziler « * #
 #EXTINF:-1 tvg-id="33" tvg-name="SİHİRLİ ANNEM" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/Sihirli-Annem.jpg" group-title="[🇹🇷]Eğlence",SİHİRLİ ANNEM
