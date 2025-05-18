@@ -250,11 +250,11 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk"tvg-id="Minika Çocuk.tr"tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Baby TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2VlAS12mj5Mo6ZhM-pF0C9d_2fZUtZmxfoA&s"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",Baby TV
+#EXTINF:-1 tvg-name="Baby TV"tvg-id="Baby TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2VlAS12mj5Mo6ZhM-pF0C9d_2fZUtZmxfoA&s"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",Baby TV
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10007
-#EXTINF:-1 tvg-name=""tvg-id="Çocuk Smart.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/Smart_%C3%87ocuk_2015.png"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",Çocuk Smart
+#EXTINF:-1 tvg-name="Çocuk Smart"tvg-id="Çocuk Smart.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/Smart_%C3%87ocuk_2015.png"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",Çocuk Smart
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/379
-#EXTINF:-1 tvg-name=""tvg-id="Nick Jr.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",Nick JR
+#EXTINF:-1 tvg-name="Nick JR"tvg-id="Nick Jr.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",Nick JR
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/377
 
 
