@@ -22,22 +22,83 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 
 # * » SPOR « * #
-#EXTINF:-1 tvg-name="beIN SPORTS Haber"tvg-id="beIN SPORTS Haber.tr"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS Haber
-http://13.60.64.58/stream/yt/beinsportsturkiye.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 1"tvg-id="beIN Sports 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10"group-title="Spor",beIN Sports 1
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS HABER" tvg-id="BeINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
+https://tinyurl.com/SyndraxicBsHaberHD
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
+#EXTVLCOPT:http-origin=https://acartv53.com
+#EXTVLCOPT:http-referrer=https://acartv53.com
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinkral.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [C]
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayininat.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BEIN SPORTS 1 [D]" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://r14.af92.workers.dev/static/bs11.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BEIN SPORTS 1 [E]" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [E]
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs1.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 2"tvg-id="beIN Sports 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="Spor",beIN Sports 2
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BeIN SPORTS 2 [A]" tvg-id="BeIN SPORTS 2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [A]
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb2.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 2 [B]" tvg-id="BeIN SPORTS 2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [B]
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs2.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 3"tvg-id="beIN Sports 3.tr"tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="Spor",beIN Sports 3
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 3 [A]" tvg-id="BeIN SPORTS 3.tr"  tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [A]
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb3.m3u8
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 3 [B] tvg-id="BeIN SPORTS 3.tr" "tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [B]
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs3.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 4"tvg-id="beIN Sports 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"group-title="Spor",beIN Sports 4
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 4 [A]" tvg-id="BeIN SPORTS 4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [A]
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb4.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 4 [B]" tvg-id="BeIN SPORTS 4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [B]
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs4.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 5"tvg-id="beIN Sports 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="Spor",beIN Sports 5
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BeIN SPORTS 5" tvg-id="BeIN SPORTS 5.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",BeIN SPORTS 5 [A]
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb5.m3u8
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="tvg-id="BeIN SPORTS 5.tr" tvg-name="beIN SPORTS 5 [B]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs5.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Max 1"tvg-id="beIN Sports Max 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiQzN4iFLdekCGK5CnQeTphahiSJzFLrzsX1pqFDnIJImcNfJ7FiniXFY&s=10"group-title="Spor",beIN Sports Max 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -7924,28 +7985,32 @@ http://13.60.64.58/yt/yt.m3u8?kanal=@Kardeslerim
 http://13.60.64.58/yt/yt.m3u8?kanal=@zenginkizfakiroglantrt
 
 # * » yerlidiziler « * #
-#EXTINF:-1 tvg-name="Çok Güzel Hareketler 2"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/%C3%87ghb2.png"group-title="Dizi":http-referrer="":http-user-agent="",Çok Güzel Hareketler 2
-http://13.60.64.58/yt/yt.m3u8?kanal=@çokgüzelhareketler
-#EXTINF:-1 tvg-name="Güldür Güldür Show"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/rNHSrjlwi1tNLVrIpy6T0EP6qJUQCvocL1CfYWk8D7B_n4AGm599SMKoggEz65xRFB7gqpza=s900-c-k-c0x00ffffff-no-rj"group-title="Dizi":http-referrer="":http-user-agent="",Güldür Güldür Show
-http://13.60.64.58/yt/yt.m3u8?kanal=@guldurguldurtv
-#EXTINF:-1 tvg-name="Kemal Sunal"tvg-id=""tvg-logo="https://i.ytimg.com/vi/hfx8H7YrmTw/sddefault_live.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Kemal Sunal
-http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
-#EXTINF:-1 tvg-name="Çocuklar Duymasın Eski"tvg-id=""tvg-logo="https://i.ytimg.com/vi/BjEBboWV_G0/maxresdefault.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Çocuklar Duymasın(Eski)
-http://13.60.64.58/yt/yt.m3u8?kanal=@CocuklarDuymasindizi
-#EXTINF:-1 tvg-name="Çocuklar Duymasın Yeni"tvg-id=""tvg-logo="https://i.ytimg.com/vi/EVZmJPw-7hY/hq720_live.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBPeHtIfmeAiZvMEtxckn94G3HlnA"group-title="Dizi":http-referrer="":http-user-agent="",Çocuklar Duymasın(Yeni)
-http://13.60.64.58/yt/yt.m3u8?kanal=@CocuklarDuymasnKanalD
-#EXTINF:-1 tvg-name="Cennet Mahellesi"tvg-id=""tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/hq720.jpg?v=657aa9b3&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvTQN8qJC3qcTrDZCnld9d9jyTiw"group-title="Dizi":http-referrer="":http-user-agent="",Cennet Mahellesi
-http://13.60.64.58/yt/yt.m3u8?kanal=@cennetmahallesishowtv
-#EXTINF:-1 tvg-name="Sihirli Annem"tvg-id=""tvg-logo="https://i.ytimg.com/vi/KCejwr4z7NQ/hq720.jpg?v=67bc1621&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCp0gMe4EwxJuySjV8TmqZ3AS5a8w"group-title="Dizi":http-referrer="":http-user-agent="",Sihirli Annem
+#EXTINF:-1 tvg-id="33" tvg-name="SİHİRLİ ANNEM" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/Sihirli-Annem.jpg" group-title="[🇹🇷]Eğlence",SİHİRLİ ANNEM
 http://13.60.64.58/yt/yt.m3u8?kanal=@SIHIRLIANNEMKANALDOFFICIAL
-#EXTINF:-1 tvg-name="Adanalı"tvg-id=""tvg-logo="https://i.ytimg.com/vi/sF1AgroEr60/maxresdefault.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Adanalı
+
+#EXTINF:-1 tvg-id="33" tvg-name="KURTLAR VADİSİ" https://sezonlukdizi6.com/i/dizi400/d/b/1275.jpg" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ
+http://13.60.64.58/yt/yt.m3u8?kanal=@KurtlarVadisiOfficial
+
+#EXTINF:-1 tvg-id="33" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2022/05/valley-of-the-wolves-ambush.jpg" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ PUSU
+http://13.60.64.58/yt/yt.m3u8?kanal=@KurtlarVadisi
+
+#EXTINF:-1 tvg-id="33" tvg-name="ÇOCUKLAR DUYMASIN" tvg-logo="https://iaatv.tmgrup.com.tr/217a30/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/07/28/1440x268/1627476758215.jpg" group-title="[🇹🇷]Eğlence",ÇOCUKLAR DUYMASIN
+http://13.60.64.58/yt/yt.m3u8?kanal=@cocuklarduymasındizi
+
+#EXTINF:-1 tvg-id="33" tvg-name="CENNET MAHALLESİ" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2022/10/cennet-mahallesi.jpg" group-title="[🇹🇷]Eğlence",CENNET MAHALLESİ
+http://13.60.64.58/yt/yt.m3u8?kanal=@cennetmahallesishowtv
+
+#EXTINF:-1 tvg-id="33" tvg-name="YAPRAK DÖKÜMÜ" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2021/05/yaprak-dokumu.jpg" group-title="[🇹🇷]Eğlence",YAPRAK DÖKÜMÜ
+http://13.60.64.58/yt/yt.m3u8?kanal=@YaprakDokumuKanalD
+
+#EXTINF:-1 tvg-id="33" tvg-name="ADANALI" tvg-logo="https://i.ytimg.com/vi/QJQZBA3pVeU/maxresdefault.jpg" group-title="[🇹🇷]Eğlence",ADANALI
 http://13.60.64.58/yt/yt.m3u8?kanal=@Adanali
-#EXTINF:-1 tvg-name="Seksenler"tvg-id=""tvg-logo="https://i.ytimg.com/vi/8-uHZ4CCb-E/maxresdefault.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Seksenler
+
+#EXTINF:-1 tvg-id="33" tvg-name="YENİ GELİN" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/yeni-gelin-izle.jpg" group-title="[🇹🇷]Eğlence",YENİ GELİN
+http://13.60.64.58/yt/yt.m3u8?kanal=@yenigelindizi
+
+#EXTINF:-1 tvg-id="33" tvg-name="SEKSENLER" tvg-logo="" group-title="[🇹🇷]Eğlence",SEKSENLER
 http://13.60.64.58/yt/yt.m3u8?kanal=@seksenlertrt
-#EXTINF:-1 tvg-name="Kardeşlerim"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVIz4McaRis5EyT4CkUaP-wKiHLhEGpVSKw&s"group-title="Dizi":http-referrer="":http-user-agent="",Kardeşlerim
-http://13.60.64.58/yt/yt.m3u8?kanal=@Kardeslerim
-#EXTINF:-1 tvg-name="Zengin Kız Fakir Oğlan"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9b/ZenginKizFakirOglan-afis.jpg"group-title="Dizi":http-referrer="":http-user-agent="",Zengin Kız Fakir Oğlan
-http://13.60.64.58/yt/yt.m3u8?kanal=@zenginkizfakiroglantrt
 
 
 
