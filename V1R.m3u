@@ -7995,9 +7995,8 @@ https://trt.daioncdn.net/trt-1/master.m3u8
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Max 2"tvg-id="BluTV Play 2.tr"tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png"group-title="Liste 1":http-referrer="":http-user-agent="",BluTV Play 2
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Hizli ve Ofkeli 1"tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDYmLWmCBgPZhZFUVX8wTfZwSZPDblYPgBG3SX18fdFNpN.jpg"group-title="Filmler":http-referrer="":http-user-agent="",Hizli ve Ofkeli
-https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
-
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzg1OTU4M15BMl5BanBnXkFtZTcwMjcyMjI5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="⚡SERI FILM⚡ The Transporter",The.Transporter.3.2008
+http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11846.mp4
 
 # * » prime « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
