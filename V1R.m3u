@@ -1,6 +1,6 @@
 #EXTM3U
 
-# * » ULUSAL « * #
+# * » Ulusal « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
@@ -21,7 +21,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 
-# * » SPOR « * #
+# * » Spor « * #
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS HABER" tvg-id="BeINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
 https://tinyurl.com/SyndraxicBsHaberHD
 
@@ -178,7 +178,7 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 
 
-# * » BELGESEL « * #
+# * » Belgesel « * #
 #EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="TRT Belgesel.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnFHissiR4VjIVzjEYmUC8SLYsVuBXYohpw&s"group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TGRT Belgesel"tvg-id="TGRT Belgesel.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EdQmSk_6N4a8xW97Ux-t-qdYfvks72jZcVQAeol56Pgo8VWuL7idj2Q&s=10"group-title="Belgesel":http-referrer="":http-user-agent="Lavf53.32.100",TGRT Belgesel
@@ -229,7 +229,7 @@ http://185.234.111.229:8000/play/a011
 
 
 
-# * » HABER « * #
+# * » Haber « * #
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
@@ -250,7 +250,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
 
-# * » MUZIK « * #
+# * » Müzik « * #
 #EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRTMuzik.tr"tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png"group-title="Müzik":http-referrer="":http-user-agent="",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="DREAM TÜRK TV"tvg-id="" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="Müzik",Dream Türk TV
@@ -297,7 +297,7 @@ http://46.20.3.201/;type=mp3
 #EXTINF:-1 tvg-name="Arabesk Damar FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Arabesk Damar FM
 https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
 
-# * » COCUK « * #
+# * » Çocuk « * #
 #EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="TRT Çocuk.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJdXDQVyNqYJHsbkH0Gl2aQW_dGh2kD7lsQ&usqp=CAU"group-title="Çocuk":http-referrer="":http-user-agent="",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="TRT Diyanet Çocuk.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwBQtkeuk0a1Ofxhin7lGP_VtWNecIwOsSA&s"group-title="Çocuk":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
@@ -351,7 +351,7 @@ https://vidrame.pro/vr/get/a14f25a6/1080.txt
 https://vidrame.pro/vr/get/a33a29dd/1080.txt
 
 
-# * » yabancidiziler « * #
+# * » Yabancı Diziler « * #
 #EXTM3U
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 1. Bölüm(Geri Sayım)
 https://storage.diziyou6.com/episodes/91301_tr/play.m3u8
@@ -18573,7 +18573,7 @@ https://storage.diziyou6.com/episodes/90841_tr/play.m3u8
 
 
 
-# * » yerlidiziler « * #
+# * » Yerli Diziler « * #
 #EXTINF:-1 tvg-id="33" tvg-name="SİHİRLİ ANNEM" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/Sihirli-Annem.jpg" group-title="[🇹🇷]Eğlence",SİHİRLİ ANNEM
 http://13.60.64.58/yt/yt.m3u8?kanal=@SIHIRLIANNEMKANALDOFFICIAL
 
@@ -18603,7 +18603,7 @@ http://13.60.64.58/yt/yt.m3u8?kanal=@seksenlertrt
 
 
 
-# * » Liste1 « * #
+# * » Liste 1 « * #
 #EXTINF:-1 tvg-name="TRT Nostalji"tvg-id="TRT Nostalji.tr"tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj"group-title="Liste 1":http-referrer="":http-user-agent="",TRT Nostalji
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-name="Cine 6" tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSOGkX2Qk6vJNpLURcTRszAeGqH1MpGGBbA&s" group-title="Liste 1",Cine 6
@@ -18639,7 +18639,7 @@ http://norsvpx.top:8080/231679575500969074/1511679575500969/58031
 http://norsvpx.top:8080/231679575500969074/1511679575500969/58032
 
 
-# * » netflix « * #
+# * » Netflix « * #
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/4PLY6WSRgBKMY9Wc7npJA5f28lc.jpg" group-title="Queenmaker",Queenmaker-1. Sezon 1. Bölüm(Episode 1)
 https://storage.diziyou6.com/episodes/70101_tr/play.m3u8
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/4PLY6WSRgBKMY9Wc7npJA5f28lc.jpg" group-title="Queenmaker",Queenmaker-1. Sezon 2. Bölüm(Episode 2)
@@ -28792,7 +28792,7 @@ https://storage.diziyou6.com/episodes/94105_tr/play.m3u8
 https://storage.diziyou6.com/episodes/94106_tr/play.m3u8
 
 
-# * » hbomax « * #
+# * » HBO MAX « * #
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/tzVUZxNwntAS8Gk3WF2DCcI8x1B.jpg" group-title="Sex and the City",Sex and the City-1. Sezon 1. Bölüm(1. Bölüm)
 https://storage.diziyou6.com/episodes/82701_tr/play.m3u8
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/tzVUZxNwntAS8Gk3WF2DCcI8x1B.jpg" group-title="Sex and the City",Sex and the City-1. Sezon 2. Bölüm(2. Bölüm)
@@ -29186,12 +29186,12 @@ https://storage.diziyou6.com/episodes/86415_tr/play.m3u8
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg" group-title="Euphoria",Euphoria-2. Sezon 8. Bölüm(8. Bölüm)
 https://storage.diziyou6.com/episodes/86416_tr/play.m3u8
 
-# * » prime « * #
+# * » Amazon Prime « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8
 
 
-# * » disney « * #
+# * » Disney+ « * #
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/2IkYQJlT26yXef2iot7dhRtavSC.jpg" group-title="The Resident",The Resident-1. Sezon 1. Bölüm(1. İlk Bölüm)
 https://storage.diziyou6.com/episodes/105301_tr/play.m3u8
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/2IkYQJlT26yXef2iot7dhRtavSC.jpg" group-title="The Resident",The Resident-1. Sezon 2. Bölüm(2. Bağımsızlık Günü)
@@ -31534,24 +31534,24 @@ https://storage.diziyou6.com/episodes/114005_tr/play.m3u8
 https://storage.diziyou6.com/episodes/114006_tr/play.m3u8
 
 
-# * » exxen « * #
+# * » EXXEN « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8
 
 
-# * » gain « * #
+# * » Gain « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8
 
 
-# * » tabii « * #
+# * » Tabii « * #
 #EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Liste 1":http-referrer="":http-user-agent="",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Liste 1":http-referrer="":http-user-agent="",Tabii TV Yedek
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 
 
-# * » tod « * #
+# * » TOD « * #
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg" group-title="Yellowstone",Yellowstone-1. Sezon 1. Bölüm(Tan Vakti)
 https://storage.diziyou6.com/episodes/90901_tr/play.m3u8
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg" group-title="Yellowstone",Yellowstone-1. Sezon 2. Bölüm(Elçiyi Öldür)
@@ -31762,8 +31762,3 @@ https://storage.diziyou6.com/episodes/114413_tr/play.m3u8
 https://storage.diziyou6.com/episodes/114414_tr/play.m3u8
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/w0zeTmejqPqVw07jVDkeQqJvxqq.jpg" group-title="Accused",Accused-1. Sezon 15. Bölüm(Billy's Story)
 https://storage.diziyou6.com/episodes/114415_tr/play.m3u8
-
-
-# * » netflix « * #
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8
