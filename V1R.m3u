@@ -31762,8 +31762,3 @@ https://storage.diziyou6.com/episodes/114413_tr/play.m3u8
 https://storage.diziyou6.com/episodes/114414_tr/play.m3u8
 #EXTINF:-1  tvg-series="dizi" tvg-logo="https://image.tmdb.org/t/p/w500/w0zeTmejqPqVw07jVDkeQqJvxqq.jpg" group-title="Accused",Accused-1. Sezon 15. Bölüm(Billy's Story)
 https://storage.diziyou6.com/episodes/114415_tr/play.m3u8
-
-
-# * » netflix « * #
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8
