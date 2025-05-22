@@ -1,5 +1,42 @@
 #EXTM3U
 
+
+# * » Liste1 « * #
+#EXTINF:-1 tvg-name="TRT Nostalji"tvg-id="TRT Nostalji.tr"tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj"group-title="Liste 1":http-referrer="":http-user-agent="",TRT Nostalji
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-name="Cine 6" tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSOGkX2Qk6vJNpLURcTRszAeGqH1MpGGBbA&s" group-title="Liste 1",Cine 6
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+#EXTINF:-1 tvg-name="Cine 6 Max" tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkh5TKIGqVDOVvENkPUC01wj5G9pBmfQvj0lmGkGfbrHQO4sH1qbstFk&s=10" group-title="Liste 1",Cine 6 Max
+https://canli.cinemax6.com:3220/stream/play.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Premiere" tvg-id="TR: beIN Movies Premiere" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png" group-title="Liste 1",beIN Movies Premiere
+http://norsvpx.top:8080/231679575500969074/1511679575500969/57863
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Premiere 2" tvg-id="TR: beIN Movies Premiere 2" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-2-hd-tr.png" group-title="Liste 1",beIN Movies Premiere 2
+http://norsvpx.top:8080/231679575500969074/1511679575500969/57864
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Stars" tvg-id="TR: beIN Movies Stars" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-stars-hd-tr.png" group-title="Liste 1",beIN Movies Stars
+https://huhu.to/play/2500913164/index.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Turk" tvg-id="TR: beIN Movies Turk" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-turk-hd-tr.png" group-title="Liste 1",beIN Movies Turk
+http://norsvpx.top:8080/231679575500969074/1511679575500969/57866
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Cine 1" tvg-id="Cine1 Tv.tr" tvg-logo="https://pbs.twimg.com/profile_images/1859948416903593984/-3arVFel_400x400.jpg" group-title="Liste 1",Cine 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Moviesmart Türk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Liste 1",Moviesmart Türk
+https://tv1.arectv30.sbs/live/mvturk.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Moviesmart Classic" tvg-id="MovieSmart Classic.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="Liste 1",Moviesmart Classic
+http://norsvpx.top:8080/231679575500969074/1511679575500969/57988
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TR: DiziSmart Premium" tvg-id="Dizi Smart Premium.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Liste 1",TR: DiziSmart Premium
+http://norsvpx.top:8080/231679575500969074/1511679575500969/57895
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-tv2-tr.png" group-title="Liste 1",Sinema 2
+http://aybytv.xyz:8080/nuran01/nuran01/123920
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema Aile" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-aile-tr.png" group-title="Liste 1",Sinema Aile
+http://norsvpx.top:8080/231679575500969074/1511679575500969/58028
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema Aksiyon" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-aksiyon-tr.png" group-title="Liste 1",Sinema Aksiyon
+http://norsvpx.top:8080/231679575500969074/1511679575500969/58030
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema Komedi" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-komedi-tr.png" group-title="Liste 1",Sinema Komedi
+http://norsvpx.top:8080/231679575500969074/1511679575500969/58031
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema TV" tvg-id="Sinema Tv.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-tv-tr.png" group-title="Liste 1",Sinema TV
+http://norsvpx.top:8080/231679575500969074/1511679575500969/58032
+
+
 # * » Ulusal « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8
@@ -18601,42 +18638,6 @@ http://13.60.64.58/yt/yt.m3u8?kanal=@yenigelindizi
 #EXTINF:-1 tvg-id="33" tvg-name="SEKSENLER" tvg-logo="" group-title="[🇹🇷]Eğlence",SEKSENLER
 http://13.60.64.58/yt/yt.m3u8?kanal=@seksenlertrt
 
-
-
-# * » Liste1 « * #
-#EXTINF:-1 tvg-name="TRT Nostalji"tvg-id="TRT Nostalji.tr"tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj"group-title="Liste 1":http-referrer="":http-user-agent="",TRT Nostalji
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-name="Cine 6" tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSOGkX2Qk6vJNpLURcTRszAeGqH1MpGGBbA&s" group-title="Liste 1",Cine 6
-https://canli.cine6tv.com.tr:3614/stream/play.m3u8
-#EXTINF:-1 tvg-name="Cine 6 Max" tvg-country="TR" tvg-language="TR" tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkh5TKIGqVDOVvENkPUC01wj5G9pBmfQvj0lmGkGfbrHQO4sH1qbstFk&s=10" group-title="Liste 1",Cine 6 Max
-https://canli.cinemax6.com:3220/stream/play.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Premiere" tvg-id="TR: beIN Movies Premiere" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png" group-title="Liste 1",beIN Movies Premiere
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57863
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Premiere 2" tvg-id="TR: beIN Movies Premiere 2" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-2-hd-tr.png" group-title="Liste 1",beIN Movies Premiere 2
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57864
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Stars" tvg-id="TR: beIN Movies Stars" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-stars-hd-tr.png" group-title="Liste 1",beIN Movies Stars
-https://huhu.to/play/2500913164/index.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN Movies Turk" tvg-id="TR: beIN Movies Turk" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-turk-hd-tr.png" group-title="Liste 1",beIN Movies Turk
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57866
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Cine 1" tvg-id="Cine1 Tv.tr" tvg-logo="https://pbs.twimg.com/profile_images/1859948416903593984/-3arVFel_400x400.jpg" group-title="Liste 1",Cine 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Moviesmart Türk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Liste 1",Moviesmart Türk
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Moviesmart Classic" tvg-id="MovieSmart Classic.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="Liste 1",Moviesmart Classic
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57988
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TR: DiziSmart Premium" tvg-id="Dizi Smart Premium.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Liste 1",TR: DiziSmart Premium
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57895
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-tv2-tr.png" group-title="Liste 1",Sinema 2
-http://aybytv.xyz:8080/nuran01/nuran01/123920
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema Aile" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-aile-tr.png" group-title="Liste 1",Sinema Aile
-http://norsvpx.top:8080/231679575500969074/1511679575500969/58028
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema Aksiyon" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-aksiyon-tr.png" group-title="Liste 1",Sinema Aksiyon
-http://norsvpx.top:8080/231679575500969074/1511679575500969/58030
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema Komedi" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-komedi-tr.png" group-title="Liste 1",Sinema Komedi
-http://norsvpx.top:8080/231679575500969074/1511679575500969/58031
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sinema TV" tvg-id="Sinema Tv.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-tv-tr.png" group-title="Liste 1",Sinema TV
-http://norsvpx.top:8080/231679575500969074/1511679575500969/58032
 
 
 # * » Netflix « * #
