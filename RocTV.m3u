@@ -57,160 +57,82 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 
-# * » Spor « * #
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS HABER" tvg-id="BeINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Spor",beIN SPORTS HABER
-https://tinyurl.com/SyndraxicBsHaberHD
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="Spor",beIN SPORTS 1 [A]
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinzirve.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="Spor",beIN SPORTS 1 [B]
-#EXTVLCOPT:http-origin=https://acartv53.com
-#EXTVLCOPT:http-referrer=https://acartv53.com
-https://t6co.32ufajdjfnsa32.workers.dev/list/yayinkral.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="Spor",beIN SPORTS 1 [C]
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayininat.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BEIN SPORTS 1 [D]" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="Spor",beIN SPORTS 1 [D]
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs11.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BEIN SPORTS 1 [E]" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="Spor",beIN SPORTS 1 [E]
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs1.m3u8
-
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BeIN SPORTS 2 [A]" tvg-id="BeIN SPORTS 2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="Spor",beIN SPORTS 2 [A]
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb2.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 2 [B]" tvg-id="BeIN SPORTS 2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="Spor",beIN SPORTS 2 [B]
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs2.m3u8
-
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 3 [A]" tvg-id="BeIN SPORTS 3.tr"  tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="Spor",beIN SPORTS 3 [A]
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb3.m3u8
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 3 [B] tvg-id="BeIN SPORTS 3.tr" "tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="Spor",beIN SPORTS 3 [B]
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs3.m3u8
-
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 4 [A]" tvg-id="BeIN SPORTS 4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="Spor",beIN SPORTS 4 [A]
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb4.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 4 [B]" tvg-id="BeIN SPORTS 4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="Spor",beIN SPORTS 4 [B]
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs4.m3u8
-
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BeIN SPORTS 5" tvg-id="BeIN SPORTS 5.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Spor",BeIN SPORTS 5 [A]
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb5.m3u8
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="tvg-id="BeIN SPORTS 5.tr" tvg-name="beIN SPORTS 5 [B]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Spor",beIN SPORTS 5 [C]
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs5.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Max 1"tvg-id="beIN Sports Max 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiQzN4iFLdekCGK5CnQeTphahiSJzFLrzsX1pqFDnIJImcNfJ7FiniXFY&s=10"group-title="Spor",beIN Sports Max 1
+# * » SPOR « * #
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Spor" tvg-id="160",S Sport Plus (HD)
+https://tv1.arectv30.sbs/live/pl1.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Spor" tvg-id="157",TABİİ SPOR (HD)
+https://tv1.arectv30.sbs/live/tabi.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Spor" tvg-id="149",Bein Sports 1 (HD)
+https://8.arectv30.sbs/static/bs1.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Spor" tvg-id="148",Bein Sports 2 (HD)
+https://8.arectv30.sbs/static/bs2.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="Spor" tvg-id="147",Bein Sports 3 (HD)
+https://8.arectv30.sbs/static/bs3.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="Spor" tvg-id="146",Bein Sports 4 (HD)
+https://8.arectv30.sbs/static/bs4.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="Spor" tvg-id="145",Bein Sports 5 (HD)
+https://8.arectv30.sbs/static/bs5.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="Spor" tvg-id="144",Bein Sports Max 1
 https://tv1.arectv30.sbs/live/bm1.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Max 2"tvg-id="beIN Sports Max 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3wvS_Ii7v6FGHBaq9Cm5CBqCKrB5qxQfU6WNNCGsXto33aOA6FgIUCXc&s=10"group-title="Spor",beIN Sports Max 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="Spor" tvg-id="142",Bein Sports Max 2
 https://tv1.arectv30.sbs/live/bm2.m3u8
-#EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="Spor":http-referrer="":http-user-agent="",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRT Spor.tr"tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor&dfp_paln=AQzzBGQEgCRcf_WAZicRz-M1KieikSgFLDj203aRTx6OPWmFR-Y_opWbjFmN30KkANjbC0Cyx4fs5Q6QVuLi62BtGhJ_cBdr24SVPCz7prEAL2wadcHneIIdw6BlulQRu9gkBJ_dxSoNypBSwsPMZhnIpwtZejaMdbYweERSUuuh1CE4sQrLWr2btMJWJenD8n3gZQ3c6j9RvA4EHKDi94DaBPR-ektZozqbVrGdlvJ-fjXSQlnSfzuYjrAETUnzN0i2XlRQeNOmU3_R--on7qvK4U6DBmoBuOZ9YMAlW4rHI9MuynRT6NX4ee6XQEC59kbDKgDzHg8zvNrX5So4bMZYX8HFWRGmj198idUZW1fgtNPrapDSMtKampqT-OhCmL567GjkhtFhSG2yPITF2Q__ch7ciyCWnf3HgciU6uUZlTRcL0H7Lz5N6vOpcMPFUN3qmeECdEZTbDLB5xkSQuRF3DttNCxP0s_DgEX7CHdbdHj5nbkyEm6M1Q54n6TpnvlID-VDGVQg2kSPcnQmA_j021nMEJa4X7_Rc_w0uZd5HW4PPYlxn_RGT26Wdm99Aobec0x7A6_KEKWioZxEYaOyL9Wg4ZkSYqaD6naxgqm2cYyh6pgSh2tzOj8R4aAXdYy-AYYyYISDAxf__V-i6FG9JsaL6F-0CM3fRSdV6HEMvyMozjBFpRnx3wbTYJlIv2j4L0AmQK49gje2KY17lpR80c3tqAqrRyZuC-tkN2j5EAJW7IhBbDFY3V0Ujs5GhvZ-NBYznzpPlw9qmy3GI1zmascCNVlNfTVQFqo57QSTfA7aomqBo5acb_Vsixm6cKV6u5D0x17GLUIx26HzeT-0bxg4ZEShZM_8LKGSbTcXBjc0yaOgv6VIgShjzEJxR--5VD_1pgoccrqx5gKd0Q4cK0WOGIet5QG9n05FoS5QIDwAUJprvkZTiIW7f5_W8_PGBWCxGWHCmCckYjjLO6MJ4qwRnnx8EzUBp6-PG6GPScu20IlZK4dgs1NtlQ9o3CTnvlxTUlbMKtaHRzkhd3fZ708ouqCgN-hX4DNh8bIAX7Ae6b_pvGzLFtc75mJQmOEoc4xTMJedi5WK3Jb2cqeCeH1gQiTqbaO4
-#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="TRT Spor Yıldız.tr"tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="HT Spor"tvg-id="HT Spor.tr"tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="":http-user-agent="",HT Spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:-1 tvg-name="Sports TV"tvg-id="Sports Tv.tr"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="Spor":http-referrer="":http-user-agent="",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="Tivibu Spor.tr"tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png"group-title="Spor":http-referrer="":http-user-agent="",Tivibu Spor
-#EXTVLCOPT:http-referrer=https://www.canlitv.my/
-https://yayin2.canlitv.fun/live/tivibuspor.stream/playlist.m3u8?hash=3dd06ecfbcc65b7ae798a9ffb82986b6
-#EXTINF:-1 tvg-name="GS TV.tr"tvg-id="GS   TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="Spor":http-referrer="":http-user-agent="",GS TV
-http://13.60.64.58/spor/gs-tv.m3u8
-#EXTINF:-1 tvg-name="FB TV.tr"tvg-id="FB TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqzS70I58r2o70L-oPmTBqtL--C_sv4vR1Pw&s"group-title="Spor":http-referrer="":http-user-agent="",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CBC Sport"tvg-id="CBCSport.tr"tvg-logo="https://yt3.googleusercontent.com/ubgxXRHHBpYSYirb0Q4NiE4ShU6xky0lJNVdprmG_wh02onNddnjMD_NUswONU2DjOeqkYcJ=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",CBC Sport
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-https://cdn401.canlitv.vip/cbcsport.m3u8?tkn=rSUr_Xj1GYVPhu_QZiXmMA&tms=1746296845&hst=tv.canlitv.vip&ip=159.146.110.45
-#EXTINF:-1 tvg-name="TJK TV"tvg-id="Spor_TJKTV"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="Spor":http-referrer="":http-user-agent="",TJK TV
-https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
-#EXTINF:-1 tvg-name="TJK TV 2"tvg-id="Spor_TJKTV_2"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="Spor":http-referrer="":http-user-agent="",TJK TV 2
-https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:-1 tvg-name="TR: NBA Sport HD"tvg-id="NBA Sport.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="":http-user-agent="",NBA TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af92.workers.dev/list/yayinnbatv.m3u8
-#EXTINF:-1 tvg-name="TR: Euro Sport 1 HD"tvg-id="Euro Sport 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyTmKyFtCEqSd0tetBweF9b8hMYYFDMRdug&s"group-title="Spor":http-referrer="":http-user-agent="",Euro Sport 1
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10027
-#EXTINF:-1 tvg-name="TR: Euro Sport 2 HD"tvg-id="Euro Sport 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJ1cv0VwYzIIVdJ8bYp3sxDldKGQGFL4uPloKNJvam0P9H2O2w_LUnt2e-SOVKlbSv0I&usqp=CAU"group-title="Spor":http-referrer="":http-user-agent="",Euro Sport 2
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10026
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 1 FHD"tvg-id="Tivibu Spor 1.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png"group-title="Spor":http-referrer="":http-user-agent="",Tivibu Sport 1
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="Spor" tvg-id="141",S SPORT 1 (HD)
+https://8.arectv30.sbs/static/ss11.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/t1.m3u8
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 2 FHD"tvg-id="Tivibu Spor 2.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png"group-title="Spor":http-referrer="":http-user-agent="",Tivibu Sport 2
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="Spor" tvg-id="140",S SPORT 2 (HD)
+https://8.arectv30.sbs/static/ss2.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/t2.m3u8
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 3 FHD"tvg-id="Tivibu Spor 3.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889044.png"group-title="Spor":http-referrer="":http-user-agent="",Tivibu Sport 3
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/t3.m3u8
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 4 FHD"tvg-id="Tivibu Spor 4.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png"group-title="Spor":http-referrer="":http-user-agent="",Tivibu Sport 4
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/t4.m3u8
-#EXTINF:-1 tvg-name="Sport Smart"tvg-id=""tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png"group-title="Spor":http-referrer="":http-user-agent="",Spor Smart 1
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="Spor" tvg-id="139",Spor Smart 1 (HD)
 https://tv1.arectv30.sbs/live/smart1.m3u8
-#EXTINF:-1 tvg-name="Sport Smart 2"tvg-id=""tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png"group-title="Spor":http-referrer="":http-user-agent="",Spor Smart 2
-#EXTVLCOPT:http-referrer=https://trgoals1201.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://yukari.markajtv359.xyz/yayinsms2.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S SPORT 2" tvg-id="S SPORT 2.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor HD"tvg-id="Tabii Spor.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 1 HD"tvg-id="Tabii Spor 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 1
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 2 HD"tvg-id="Tabii Spor 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 2
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 3 HD"tvg-id="Tabii Spor 3.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 3
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 4 HD"tvg-id="Tabii Spor 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 4
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 5 HD"tvg-id="Tabii Spor 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 5
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 6 HD"tvg-id="Tabii Spor 6.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="Lavf53.32.100",Tabii Spor 6
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" group-title="Spor" tvg-id="138",Spor Smart 2 (SD)
+https://tv1.arectv30.sbs/live/smart2.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" group-title="Spor" tvg-id="137",Euro Sport 1 (HD)
+https://tv1.arectv30.sbs/live/euro1.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png" group-title="Spor" tvg-id="135",Euro Sport 2 (HD)
+https://tv1.arectv30.sbs/live/euro2.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" group-title="Spor" tvg-id="134",Tivibu Spor 1 (HD)
+https://tv1.arectv30.sbs/live/t1.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" group-title="Spor" tvg-id="133",Tivibu Spor 2 (HD)
+https://tv1.arectv30.sbs/live/t2.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" group-title="Spor" tvg-id="132",Tivibu Spor 3 (HD)
+https://tv1.arectv30.sbs/live/t3.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg" group-title="Spor" tvg-id="131",Trt Spor HD (HD)
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor" tvg-id="130",A Spor HD (HD)
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg" group-title="Spor" tvg-id="129",GS TV (HD)
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg" group-title="Spor" tvg-id="128",FB TV (HD)
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="Spor" tvg-id="127",Nba TV (HD)
+https://8.arectv30.sbs/list/yayinnbatv.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/4c02bd56395b0a27eab964656b1bb379.jpg" group-title="Spor" tvg-id="126",FightBox (HD)
+https://tv1.arectv30.sbs/live/fight.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg" group-title="Spor" tvg-id="122",Sports TV (HD)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 
 
