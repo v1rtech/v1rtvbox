@@ -40,21 +40,21 @@ http://norsvpx.top:8080/231679575500969074/1511679575500969/58032
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Kanal D
-http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="showTV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="Ulusal",SHOW TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal",ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="starTV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg" group-title="Ulusal",STAR TV
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
+https://dogus.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg" group-title="Ulusal",NOW TV
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg" group-title="Ulusal",TV8
-http://stream.tvcdn.net/ulusal/tv8.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png" group-title="Ulusal",Beyaz TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9ebd243aafd11f7e8bd8409e04a13860.jpg" group-title="Ulusal",Kanal 7
-http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 
 # * » SPOR « * #
