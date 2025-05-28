@@ -242,14 +242,42 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
 
 
 # * » Filmler « * #
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/f7daf086ec4cc0ceafca3242f399248e.jpg" group-title="Canlı" tvg-id="8856",Daha İyi Bir Yarın
-https://load.rectv2024live.com/hls/8/cdn1611/dkj6xxZS3jALB67GwojqBFW36lI750mga1zXepdA.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/004ac2261ac0f59d2553e8c538c2986b.jpg" group-title="Canlı" tvg-id="8855",Horoz Dövüşü
-https://load.rectv2024live.com/hls/8/cdn1611/oGCin23xOdIeaqfFGA8ELwGV5O5LEG8tZKJwp7mE.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/PNG/f18e775efb339a8320c015cb1b31178c.PNG" group-title="Canlı" tvg-id="32",Superman: Kızıl Evlat (HD)
+https://load.rectv2024live.com/hls/6/cdn3/filmler/Dublaj/kizilevlat.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/a770b8dd8a5077b3f98530423506b7d2.jpg" group-title="Canlı" tvg-id="8854",Kurt Adam - Wolf Man
-https://load.rectv2024live.com/hls/8/cdn1611/4gPwDl0cJcpGBaTG9zqIinKvWDZXCDeMvelaNr6G.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/cfd840f86585e58291a0d4eeec1c5f93.jpg" group-title="Canlı" tvg-id="31",Bir Şans Daha – Last Christmas
+https://load.rectv2024live.com/hls/2/cdn7/Filmler/29.08.2021/last-christmas.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/639d52f9b4c3cdcf05d85cb3219d845c.jpg" group-title="Canlı" tvg-id="29",Joker (1080P)
+https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/trdublaj/joker.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/a5254dd0c8cedcbe445aee750915c0c4.jpg" group-title="Canlı" tvg-id="28",O Bölüm 2
+https://load.rectv2024live.com/hls/4/cdn1/Filmler/Dublaj/ItChapterTwo.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/cc9a4948ba4fd2163b8aea8a6c423984.jpg" group-title="Canlı" tvg-id="20",The Revenant | Diriliş
+https://load.rectv2024live.com/hls/11/cdn60/1b9e42f4acbedc219b9894512dcb96ac17197867228.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/f1847cd321c2e4fdac5a8e89624c2002.jpg" group-title="Canlı" tvg-id="15",Çılgın Aptal Aşk (HD)
+https://load.rectv2024live.com/hls/5/cdn8/yeni/Film/CrazyStupid.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/22fe400de61a0a9280cd095266e320bf.jpg" group-title="Canlı" tvg-id="11",Doktor Uyku (HD)
+https://load.rectv2024live.com/hls/5/cdn8/yeni/Film/DoctorSleep.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpeg/998f035d490ae7ee2098ee54d549b40a.jpeg" group-title="Canlı" tvg-id="8",Salgın (HD)
+https://load.rectv2024live.com/hls/2/cdn5/cdn/filmler/Contagion%20-%20Salg%C4%B1n%20izle%20-%20BolumD.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/46f68481e2de3f115bc19fffd5c59a7d.jpg" group-title="Canlı" tvg-id="6",Spenser Kanunları
+https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/SpenserKanunlariDub/v.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/c36be6aec3d47c12c1a69226d0d67a71.jpg" group-title="Canlı" tvg-id="5",1917 (HD)
+https://load.rectv2024live.com/hls/6/cdn22/Film/2022/1917.2019.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/9ef5dd28fc65b2c9abf42e8749663732.jpg" group-title="Canlı" tvg-id="4",Escape from Pretoria
+https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/EscapefromPretoria/v.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/728bd34a59e110b8b35c12d39e3e4515.jpg" group-title="Canlı" tvg-id="2",7. Koğuştaki Mucize (HD)
+https://load.rectv2024live.com/hls/5/ax61/mp4/6f2d352276001a5e7013b732c63aa0ed.mp4/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/22/12/15/21/07/1814165.jpg" group-title="Filmler",Sevda Mecburi istikamet (2023)
 http://162.19.177.70:8080/movie/ytr21s2az/f98d23asac/12035.mkv
