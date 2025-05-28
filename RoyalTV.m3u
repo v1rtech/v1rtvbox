@@ -31,7 +31,9 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://bs.arectv31.sbs/static/bs1.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Spor" tvg-id="148",Bein Sports 2 (HD)
-https://bs.arectv31.sbs/static/bs2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://hkCmpibbf5GrpesQC1Cwi18QQRaqmWOdgrUw3UowubrR4WXIaF.abov/
+https://vavoosaku.global.ssl.fastly.net/ahmetgaya?id=593493860
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="Spor" tvg-id="147",Bein Sports 3 (HD)
 https://bs.arectv31.sbs/static/bs3.m3u8
@@ -248,5 +250,26 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6918/index.m3u8
 https://vidrame.pro/vr/get/63a10802/1080.txt
 
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="7644" tvg-name="Ters Yüz 2" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/aaf40f5203bfddbc4bce97da39ef7613.jpg" group-title="Filmler" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Ters Yüz 2
-https://load.rectv2024live.com/hls/9/cdn501/13cb2864644e0a59aae7c986fc1e78b3172433805613.mp4
+#EXTINF:-1 tvg-id="8840" tvg-name="Havacılığın Sınırlarını Zorlayanlar: Thunderbirds" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/40664dfb9ca9339546c042653700ad91.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Havacılığın Sınırlarını Zorlayanlar: Thunderbirds
+#EXTGRP:Canlı
+https://load.rectv2024live.com/hls/8/cdn1611/yl1XFsrufYn0UpAyUynCBM6bgSnC79BVoJIEcwsd.mp4/index.m3u8
+
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="8833" tvg-name="Parça Parça" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/32f24ac67f7fda7772b6f78194d40b78.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Parça Parça
+#EXTGRP:Canlı
+https://load.rectv2024live.com/hls/8/cdn1611/ooZQTx4fSwzTmlKV1JCc0E2Hbun7ygERc9ItTEEy.mp4/index.m3u8
+
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="8826" tvg-name="Dokunduğum Yürekler" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/de2b2fc48014de800ebd2df8e4f46eb7.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Dokunduğum Yürekler
+#EXTGRP:Canlı
+https://load.rectv2024live.com/hls/8/cdn1611/do1JWuFXcvGGSQX3mrd6kn5vEf3wdnwSKoMoqmIE.mp4/index.m3u8
+
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="8824" tvg-name="Gidecek Yer Yok" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/3a2297d73f8437ef80731e1d6cea6489.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Gidecek Yer Yok
+#EXTGRP:Canlı
+https://load.rectv2024live.com/hls/8/cdn1611/EaEuOlXkWO36YitBwanXkeah7MFBhabADj66zlAd.mp4/index.m3u8
+
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="8795" tvg-name="Vini Jr." tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/bccca2c0ecab2eedee3295f339b8cb7f.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Vini Jr.
+#EXTGRP:Canlı
+https://load.rectv2024live.com/hls/8/cdn1611/dKSHTXPWxBwhgvtQyXUqJKLUC8PPHS52Splm6eOq.mp4/index.m3u8
