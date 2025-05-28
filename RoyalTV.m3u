@@ -249,27 +249,5 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6918/index.m3u8
 #EXTINF:-1 tvg-name="Benjamin Button’ın Tuhaf Hikayesi"tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAj3Z9mNimX_jXmCZeCN2vVeV9l7kqYJbPaZl1ffdFNpN.jpg"FİLM:http-referrer="":http-user-agent="",Benjamin Button’ın Tuhaf Hikayesi
 https://vidrame.pro/vr/get/63a10802/1080.txt
 
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="8840" tvg-name="Havacılığın Sınırlarını Zorlayanlar: Thunderbirds" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/40664dfb9ca9339546c042653700ad91.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Havacılığın Sınırlarını Zorlayanlar: Thunderbirds
-#EXTGRP:Canlı
-https://load.rectv2024live.com/hls/8/cdn1611/yl1XFsrufYn0UpAyUynCBM6bgSnC79BVoJIEcwsd.mp4/index.m3u8
-
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="8833" tvg-name="Parça Parça" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/32f24ac67f7fda7772b6f78194d40b78.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Parça Parça
-#EXTGRP:Canlı
-https://load.rectv2024live.com/hls/8/cdn1611/ooZQTx4fSwzTmlKV1JCc0E2Hbun7ygERc9ItTEEy.mp4/index.m3u8
-
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="8826" tvg-name="Dokunduğum Yürekler" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/de2b2fc48014de800ebd2df8e4f46eb7.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Dokunduğum Yürekler
-#EXTGRP:Canlı
-https://load.rectv2024live.com/hls/8/cdn1611/do1JWuFXcvGGSQX3mrd6kn5vEf3wdnwSKoMoqmIE.mp4/index.m3u8
-
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="8824" tvg-name="Gidecek Yer Yok" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/3a2297d73f8437ef80731e1d6cea6489.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Gidecek Yer Yok
-#EXTGRP:Canlı
-https://load.rectv2024live.com/hls/8/cdn1611/EaEuOlXkWO36YitBwanXkeah7MFBhabADj66zlAd.mp4/index.m3u8
-
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="8795" tvg-name="Vini Jr." tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/bccca2c0ecab2eedee3295f339b8cb7f.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Vini Jr.
-#EXTGRP:Canlı
-https://load.rectv2024live.com/hls/8/cdn1611/dKSHTXPWxBwhgvtQyXUqJKLUC8PPHS52Splm6eOq.mp4/index.m3u8
+#EXTINF:-1 tvg-name="Kurtlar Vadisi" tvg-logo="https://i.ytimg.com/vi/BhUr9G4e2s4/maxresdefault.jpg" group-title="Filmler",Kurtlar Vadisi
+https://yotubesakuapi.global.ssl.fastly.net/playlist/27.m3u8
