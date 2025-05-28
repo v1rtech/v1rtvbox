@@ -171,56 +171,24 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
 
 # * » Müzik « * #
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",TRT Muzik
-http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Muzik",Dream Turk
-http://stream.tvcdn.net/muzik/dream-turk.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" group-title="Muzik",Powerturk TV
-http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="Muzik",Power TV
-http://stream.tvcdn.net/muzik/power-tv.m3u8
-#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="Muzik",Kral Pop TV
-http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
-#EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="Muzik",Number one TV
-http://stream.tvcdn.net/muzik/number-one-tv.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="Muzik",Number one Turk
-http://stream.tvcdn.net/muzik/number-one-turk.m3u8
-#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="Muzik",Milyon TV
-http://stream.tvcdn.net/muzik/milyon-tv.m3u8
-#EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="Muzik",Tatlises TV
-http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
-#EXTINF:-1 tvg-id="TMB.tr" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" group-title="Muzik",TMB
-http://stream.tvcdn.net/muzik/tmb.m3u8
-#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="http://assets.tvcdn.net/aca9e643-a4b0-4f01-abd5-66a5a2fc1042.png" group-title="Muzik",Power Dance
-http://stream.tvcdn.net/muzik/power-dance.m3u8
-#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="Muzik",Power Love
-http://stream.tvcdn.net/muzik/power-love.m3u8
-#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="Muzik",Powerturk Akustik
-http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
-#EXTINF:-1 tvg-id="PowerTurkslow.tr" tvg-logo="http://assets.tvcdn.net/fcec79e5-9d47-4812-86ac-00728538ad7f.png" group-title="Muzik",Powerturk slow
-http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="Muzik",Powerturk Taptaze
-http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
-#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="Muzik",Number 1 Ask
-http://stream.tvcdn.net/muzik/number-1-ask.m3u8
-#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="Muzik",Number 1 Damar
-http://stream.tvcdn.net/muzik/number-1-damar.m3u8
-#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="Muzik",Number 1 Dance
-http://stream.tvcdn.net/muzik/number-1-dance.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="Muzik",Muzik TV
-http://stream.tvcdn.net/muzik/muzik-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMu7baN2jvE9-gISboqZtwT2Nwni31bNflHw&s" tvg-name="|BG| The Voice" tvg-logo="" group-title="Muzik",|BG| The Voice
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112534
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Planeta_New_Logo_2020.png/revision/latest?cb=20201123062209" tvg-name="|BG| Planeta 4K+" tvg-logo="" group-title="Muzik",|BG| Planeta 4K+
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112535
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| MTV HD+" tvg-logo="" group-title="Muzik",|BG| MTV HD+
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112529
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| City TV" tvg-logo="" group-title="Muzik",|BG| City TV
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112530
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| City Music" tvg-logo="" group-title="Muzik",|BG| City Music
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112531
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| BG Music HD+" tvg-logo="" group-title="Muzik",|BG| BG Music HD+
-http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112532
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="Muzik",Number One TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="Muzik",Number One Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",PAL STATİON
 https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",METRO FM
@@ -258,27 +226,18 @@ http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk",TRT Diyanet Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="Çocuk",Minika Cocuk
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EBATVortaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk",TRT EBA
-http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6849/index.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="Çocuk",Minika Go
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/255087c9-0b06-471a-8c46-502c825a4797.jpg" group-title="Çocuk",Bilsem Bizim TV
-http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="Çocuk",Cocuklara Özel TV
-http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Çocuk",Cizgi Film TV
-http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/11f87958-d4f4-4c66-8701-5b8f967f3e8b.jpeg" group-title="Çocuk",Konusan Tom ve Arkadaslari
-http://stream.tvcdn.net/cocuk-egitim/konusan-tom-ve-arkadaslari.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/5bc78cad-9532-427d-91c2-683ea2b63318.jpeg" group-title="Çocuk",Mutlu Cocuk
-http://stream.tvcdn.net/cocuk-egitim/mutlu-cocuk.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/7e5a471b-d773-4b32-9866-e0f1672bfafb.png" group-title="Çocuk",Kukuli
-http://stream.tvcdn.net/cocuk-egitim/kukuli.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/98504028-b6b2-4651-9d10-1437ef368f5f.png" group-title="Çocuk",Diyanet Cocuk
-http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
+https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-rec="3",TRT Eba TV Ilkokul HD
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
+#EXTINF:-1 tvg-rec="3",TRT Eba TV Ortaokul HD
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6920/index.m3u8
+#EXTINF:-1 tvg-rec="3",TRT Eba TV Lise HD
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6918/index.m3u8
+
 
 
 
