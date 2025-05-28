@@ -1,6 +1,6 @@
 #EXTM3U
 
-# * » ULUSAL « * #
+# * » Ulusal « * #
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Kanal D
@@ -100,7 +100,7 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 
 
-# * » BELGESEL « * #
+# * » Belgesel « * #
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
@@ -112,138 +112,9 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 tvg-name="Yaban TV"tvg-id="yabantv.tr"tvg-logo="http://logoxc.xyz:8080/logo/900003.png"group-title="Belgesel":http-referrer="":http-user-agent="",Yaban TV 2
 http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2412
 
-#EXTINF:-1 tvg-name="National Geographic"tvg-id="natgeo.tr"tvg-logo="http://logoxc.xyz:8080/logo/390358.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geographic
-https://tv.prectv5.sbs/live/natgeo.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="natgeowild.tr"tvg-logo="http://logoxc.xyz:8080/logo/889246.png"group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo Wild
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2379
-#EXTINF:-1 tvg-name="Discovery ID"tvg-id="discoveryid.tr"tvg-logo="http://logoxc.xyz:8080/logo/433995.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery ID
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2385
-#EXTINF:-1 tvg-name="Discovery Channel"tvg-id="discoverychannel.tr"tvg-logo="http://logoxc.xyz:8080/logo/642009.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery Channel
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2381
-#EXTINF:-1 tvg-name="Viasat History"tvg-id="viasathistory.tr"tvg-logo="http://logoxc.xyz:8080/logo/250355.png"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat History
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2395
-#EXTINF:-1 tvg-name="Viasat Explore"tvg-id="viasatexplore.tr"tvg-logo="http://logoxc.xyz:8080/logo/226098.png"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat Explore
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/266843
-#EXTINF:-1 tvg-name="Viasat Nature"tvg-id="viasatnature.tr"tvg-logo="http://logoxc.xyz:8080/logo/145805.png"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat Nature
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/467968
-#EXTINF:-1 tvg-name="History Channel"tvg-id="historychannel.tr"tvg-logo="http://logoxc.xyz:8080/logo/933313.png"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2402
-#EXTINF:-1 tvg-name="Love Nature 4K"tvg-id="Love Nature"tvg-logo="http://logoxc.xyz:8080/logo/600544.png"group-title="Belgesel":http-referrer="":http-user-agent="",Love Nature 4K
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/350487
-#EXTINF:-1 tvg-name="Love Nature"tvg-id="Love Nature"tvg-logo="http://logoxc.xyz:8080/logo/226127.png"group-title="Belgesel":http-referrer="":http-user-agent="",Love Nature
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2393
-#EXTINF:-1 tvg-name="beIN H&E"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/772285.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN H&E
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/280860
-#EXTINF:-1 tvg-name="beIN GURME"tvg-id="beIN GURME"tvg-logo="http://logoxc.xyz:8080/logo/968380.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN GURME
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2408
-#EXTINF:-1 tvg-name="beIN İZ"tvg-id="beIN İZ"tvg-logo="http://logoxc.xyz:8080/logo/527157.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN İZ
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2406
-#EXTINF:-1 tvg-name="Tarih TV"tvg-id="tarih.tr"tvg-logo="http://logoxc.xyz:8080/logo/699608.png"group-title="Belgesel":http-referrer="":http-user-agent="",Tarih TV
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/211418
-#EXTINF:-1 tvg-name="Habitat TV"tvg-id="HABİTAT TV"tvg-logo="http://logoxc.xyz:8080/logo/193527.png"group-title="Belgesel":http-referrer="":http-user-agent="",Habitat TV
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/211478
-#EXTINF:-1 tvg-name="BBC Earth"tvg-id="bbcearth.tr"tvg-logo="http://logoxc.xyz:8080/logo/583423.png"group-title="Belgesel":http-referrer="":http-user-agent="",BBC Earth
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2391
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/822470.png"group-title="Belgesel":http-referrer="":http-user-agent="",Animal Planet
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/419784
-#EXTINF:-1 tvg-name="Animaux"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/279100.png"group-title="Belgesel":http-referrer="":http-user-agent="",Animaux
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/419783
-
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="Belgesel",Belgesel TV
-http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
-#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="Belgesel",CiftCi TV
-http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
-#EXTINF:-1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="Belgesel",Tarim TV
-http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-#EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="Belgesel",Agro TV
-http://stream.tvcdn.net/belgesel/agro-tv.m3u8
-#EXTINF:-1 tvg-id="KoyTV.tr" tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png" group-title="Belgesel",Koy TV
-http://stream.tvcdn.net/belgesel/koy-tv.m3u8
-#EXTINF:-1 tvg-id="Genel" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel",Toprak TV
-http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
-
-#EXTINF:-1 tvg-name="DocuBox"tvg-id="docubox.tr"tvg-logo="http://logoxc.xyz:8080/logo/815788.png"group-title="Belgesel":http-referrer="":http-user-agent="",DocuBox
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/2400
-#EXTINF:-1 tvg-name="Insight TV"tvg-id="Insight TV"tvg-logo="http://logoxc.xyz:8080/logo/913557.png"group-title="Belgesel":http-referrer="":http-user-agent="",Insight TV
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/212168
-#EXTINF:-1 tvg-name="FightBox"tvg-id="fightbox.tr"tvg-logo="http://logoxc.xyz:8080/logo/775718.png"group-title="Belgesel":http-referrer="":http-user-agent="",FightBox
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/211421
-#EXTINF:-1 tvg-name="Da Vinci Learning"tvg-id="davinci.tr"tvg-logo="http://logoxc.xyz:8080/logo/987549.png"group-title="Belgesel":http-referrer="":http-user-agent="",Da Vinci Learning
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/211479
-#EXTINF:-1 tvg-name="Nasa TV"tvg-id="PTVNASA"tvg-logo="http://logoxc.xyz:8080/logo/362472.png"group-title="Belgesel":http-referrer="":http-user-agent="",Nasa TV
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/253262
-#EXTINF:-1 tvg-name="Woman TV"tvg-id="Woman TV"tvg-logo="http://logoxc.xyz:8080/logo/389866.png"group-title="Belgesel":http-referrer="":http-user-agent="",Woman TV
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/258563
-#EXTINF:-1 tvg-name="Doğa Belgeselleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/712818.png"group-title="Belgesel":http-referrer="":http-user-agent="",Doğa Belgeselleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/452160
-#EXTINF:-1 tvg-name="Titan Belgesel 1"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/443681.png"group-title="Belgesel":http-referrer="":http-user-agent="",Titan Belgesel 1
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/452161
-#EXTINF:-1 tvg-name="Titan Belgesel 2"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/615358.png"group-title="Belgesel":http-referrer="":http-user-agent="",Titan Belgesel 2
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/452356
-#EXTINF:-1 tvg-name="Titan Belgesel 4"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/386585.png"group-title="Belgesel":http-referrer="":http-user-agent="",Titan Belgesel 4
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/452354
-#EXTINF:-1 tvg-name="Titan Belgesel 5"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/411060.png"group-title="Belgesel":http-referrer="":http-user-agent="",Titan Belgesel 5
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/454230
-#EXTINF:-1 tvg-name="Altın Peşinde"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/130216.png"group-title="Belgesel":http-referrer="":http-user-agent="",Altın Peşinde
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/444584
-#EXTINF:-1 tvg-name="Antik Mısır"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/741943.png"group-title="Belgesel":http-referrer="":http-user-agent="",Antik Mısır
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/444583
-#EXTINF:-1 tvg-name="Bilinmeyene Yolculuk"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/188463.png"group-title="Belgesel":http-referrer="":http-user-agent="",Bilinmeyene Yolculuk
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/444582
-#EXTINF:-1 tvg-name="Çifte Kurtuluş"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/680403.png"group-title="Belgesel":http-referrer="":http-user-agent="",Çifte Kurtuluş
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/444581
-#EXTINF:-1 tvg-name="Suç Dosyası"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/869235.png"group-title="Belgesel":http-referrer="":http-user-agent="",Suç Dosyası
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/444580
-#EXTINF:-1 tvg-name="Tadilat Tamirat"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/893680.png"group-title="Belgesel":http-referrer="":http-user-agent="",Tadilat Tamirat
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/444579
-#EXTINF:-1 tvg-name="Tamir Ustası"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/223215.png"group-title="Belgesel":http-referrer="":http-user-agent="",Tamir Ustası
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/444578
-#EXTINF:-1 tvg-name="Restoration"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/150693.png"group-title="Belgesel":http-referrer="":http-user-agent="",Restoration
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/409607
-#EXTINF:-1 tvg-name="Kore Üretim"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/233596.png"group-title="Belgesel":http-referrer="":http-user-agent="",Kore Üretim
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/409608
-#EXTINF:-1 tvg-name="Nasıl Yapılır?"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/353585.png"group-title="Belgesel":http-referrer="":http-user-agent="",Nasıl Yapılır?
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/409021
-#EXTINF:-1 tvg-name="How It's Made?"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/273781.png"group-title="Belgesel":http-referrer="":http-user-agent="",How It's Made?
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/409135
-#EXTINF:-1 tvg-name="Türkiye İller Belgeseli"tvg-id=""tvg-logo="https://i.ibb.co/4RKtDJv/Turkiye-iller-belgeseli.png"group-title="Belgesel":http-referrer="":http-user-agent="",Türkiye İller Belgeseli
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408805
-#EXTINF:-1 tvg-name="Sokak Yemekleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/221838.png"group-title="Belgesel":http-referrer="":http-user-agent="",Sokak Yemekleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408804
-#EXTINF:-1 tvg-name="Ülke Belgeselleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/249860.png"group-title="Belgesel":http-referrer="":http-user-agent="",Ülke Belgeselleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408803
-#EXTINF:-1 tvg-name="Ülke Seyahat"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/776197.png"group-title="Belgesel":http-referrer="":http-user-agent="",Ülke Seyahat
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/369502
-#EXTINF:-1 tvg-name="Anadolu'da Yaşam"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/552779.png"group-title="Belgesel":http-referrer="":http-user-agent="",Anadolu'da Yaşam
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408801
-#EXTINF:-1 tvg-name="Mega Yapılar"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/158744.png"group-title="Belgesel":http-referrer="":http-user-agent="",Mega Yapılar
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408800
-#EXTINF:-1 tvg-name="İnsanlar ve İnançlar"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/372985.png"group-title="Belgesel":http-referrer="":http-user-agent="",İnsanlar ve İnançlar
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408799
-#EXTINF:-1 tvg-name="İpekyolu"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/868250.png"group-title="Belgesel":http-referrer="":http-user-agent="",İpekyolu
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408798
-#EXTINF:-1 tvg-name="Yeniden Keşif"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/637104.png"group-title="Belgesel":http-referrer="":http-user-agent="",Yeniden Keşif
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408797
-#EXTINF:-1 tvg-name="Tarihin Efsaneleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/578406.png"group-title="Belgesel":http-referrer="":http-user-agent="",Tarihin Efsaneleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408796
-#EXTINF:-1 tvg-name="Uzay Bilimleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/867741.png"group-title="Belgesel":http-referrer="":http-user-agent="",Uzay Bilimleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408795
-#EXTINF:-1 tvg-name="Medeniyetler"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/425878.png"group-title="Belgesel":http-referrer="":http-user-agent="",Medeniyetler
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408794
-#EXTINF:-1 tvg-name="Tarihin Önemli İnsanları"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/765105.png"group-title="Belgesel":http-referrer="":http-user-agent="",Tarihin Önemli İnsanları
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408793
-#EXTINF:-1 tvg-name="Amerikan Sokak Yemekleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/924991.png"group-title="Belgesel":http-referrer="":http-user-agent="",Amerikan Sokak Yemekleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/409610
-#EXTINF:-1 tvg-name="Kore Sokak Yemekleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/147718.png"group-title="Belgesel":http-referrer="":http-user-agent="",Kore Sokak Yemekleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/409609
-#EXTINF:-1 tvg-name="Şaşırtan Gerçekler"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/742417.png"group-title="Belgesel":http-referrer="":http-user-agent="",Şaşırtan Gerçekler
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/408792
-#EXTINF:-1 tvg-name="Savaşın Efsaneleri"tvg-id=""tvg-logo="http://logoxc.xyz:8080/logo/737588.png"group-title="Belgesel":http-referrer="":http-user-agent="",Savaşın Efsaneleri
-http://tv390.dynu.net:8080/umran7663/RBXVBschnJ8M/298480
 
 
-
-# * » HABER « * #
+# * » Haber « * #
 #EXTINF:-1 ttvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
@@ -264,7 +135,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 
-# * » MUZIK « * #
+# * » Müzik « * #
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",TRT Muzik
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Muzik",Dream Turk
@@ -315,38 +186,38 @@ http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112530
 http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112531
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngwing.com/tr/free-png-xswnz" tvg-name="|BG| BG Music HD+" tvg-logo="" group-title="Muzik",|BG| BG Music HD+
 http://megaott.live:8080/Wolfplay/9yMvdjhWfsBD/112532
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",PAL STATİON
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",PAL STATİON
 https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",METRO FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",METRO FM
 https://17773.live.streamtheworld.com/METRO_FM128AAC.aac
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Number One FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Number One FM
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Hot Hits FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Hot Hits FM
 https://hothitsfm.com/hothitsfm128kbps.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Tomorrowland Live
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Tomorrowland Live
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",PAL FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",PAL FM
 https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KAMPUS FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KAMPUS FM
 http://193.255.97.57/;stream/1
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KUPE FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KUPE FM
 https://icecast.netmedya.net/kupefm
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",The Rock Radio
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",The Rock Radio
 https://moondigitaledge.radyotvonline.net/therockradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KAFA RADYO
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KAFA RADYO
 https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Alem FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Alem FM
 https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KRAL FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KRAL FM
 https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KRAL POP
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KRAL POP
 http://46.20.3.201/;type=mp3
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Arabesk Damar FM
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Arabesk Damar FM
 https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
 
 
 
-# * » COCUK « * #
+# * » Çocuk « * #
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk",TRT Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk",TRT Diyanet Cocuk
@@ -376,6 +247,6 @@ http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
 
 
 
-# * » FİLM « * #
+# * » Filmler « * #
 #EXTINF:-1 tvg-name="Benjamin Button’ın Tuhaf Hikayesi"tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAj3Z9mNimX_jXmCZeCN2vVeV9l7kqYJbPaZl1ffdFNpN.jpg"FİLM:http-referrer="":http-user-agent="",Benjamin Button’ın Tuhaf Hikayesi
 https://vidrame.pro/vr/get/63a10802/1080.txt
