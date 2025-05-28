@@ -242,42 +242,36 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
 
 
 # * » Filmler « * #
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/PNG/f18e775efb339a8320c015cb1b31178c.PNG" group-title="Canlı" tvg-id="32",Superman: Kızıl Evlat (HD)
-https://load.rectv2024live.com/hls/6/cdn3/filmler/Dublaj/kizilevlat.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/cfd840f86585e58291a0d4eeec1c5f93.jpg" group-title="Canlı" tvg-id="31",Bir Şans Daha – Last Christmas
-https://load.rectv2024live.com/hls/2/cdn7/Filmler/29.08.2021/last-christmas.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/639d52f9b4c3cdcf05d85cb3219d845c.jpg" group-title="Canlı" tvg-id="29",Joker (1080P)
-https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/trdublaj/joker.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/a5254dd0c8cedcbe445aee750915c0c4.jpg" group-title="Canlı" tvg-id="28",O Bölüm 2
-https://load.rectv2024live.com/hls/4/cdn1/Filmler/Dublaj/ItChapterTwo.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/cc9a4948ba4fd2163b8aea8a6c423984.jpg" group-title="Canlı" tvg-id="20",The Revenant | Diriliş
-https://load.rectv2024live.com/hls/11/cdn60/1b9e42f4acbedc219b9894512dcb96ac17197867228.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/f1847cd321c2e4fdac5a8e89624c2002.jpg" group-title="Canlı" tvg-id="15",Çılgın Aptal Aşk (HD)
-https://load.rectv2024live.com/hls/5/cdn8/yeni/Film/CrazyStupid.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/22fe400de61a0a9280cd095266e320bf.jpg" group-title="Canlı" tvg-id="11",Doktor Uyku (HD)
-https://load.rectv2024live.com/hls/5/cdn8/yeni/Film/DoctorSleep.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpeg/998f035d490ae7ee2098ee54d549b40a.jpeg" group-title="Canlı" tvg-id="8",Salgın (HD)
-https://load.rectv2024live.com/hls/2/cdn5/cdn/filmler/Contagion%20-%20Salg%C4%B1n%20izle%20-%20BolumD.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/46f68481e2de3f115bc19fffd5c59a7d.jpg" group-title="Canlı" tvg-id="6",Spenser Kanunları
-https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/SpenserKanunlariDub/v.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/c36be6aec3d47c12c1a69226d0d67a71.jpg" group-title="Canlı" tvg-id="5",1917 (HD)
-https://load.rectv2024live.com/hls/6/cdn22/Film/2022/1917.2019.mp4/index.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/9ef5dd28fc65b2c9abf42e8749663732.jpg" group-title="Canlı" tvg-id="4",Escape from Pretoria
-https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/EscapefromPretoria/v.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/728bd34a59e110b8b35c12d39e3e4515.jpg" group-title="Canlı" tvg-id="2",7. Koğuştaki Mucize (HD)
-https://load.rectv2024live.com/hls/5/ax61/mp4/6f2d352276001a5e7013b732c63aa0ed.mp4/index.m3u8
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU0NGM3YTQtOTNkNi00ZTAzLTlmODItNDVkMDk0Y2I0M2VkXkEyXkFqcGc@._V1_.jpg" group-title="2023 ✨ 2024",Yalanların Anası 2023
+https://vidmody.com/vs/tt15307068
+#EXTINF:-1  tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/56/48/56489f3a8521b3ad33dcc3700c29e320.jpg" group-title="2023 ✨ 2024",Yalnız Öl
+https://vidmody.com/vs/tt21097192
+#EXTINF:-1  tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/24/01/16/18/10/3048174.jpg" group-title="2023 ✨ 2024",Yangın Yeri
+https://vidmody.com/vs/tt30629563
+#EXTINF:-1  tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/23/09/25/10/14/1469035.jpg" group-title="2023 ✨ 2024",Yaratıcı
+https://vidmody.com/vs/tt11858890
+#EXTINF:-1  tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/cd/0d/cd0d8d0e6b767257a44b435bf4fac8ad.jpg" group-title="2023 ✨ 2024",Yaratık: Romulus
+https://vidmody.com/vs/tt18412256
+#EXTINF:-1  tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/23/01/02/08/30/3801066.jpg" group-title="2023 ✨ 2024",Yarınki İş
+https://vidmody.com/vs/tt14672882
+#EXTINF:-1  tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/23/03/21/10/52/2635617.jpg" group-title="2023 ✨ 2024",Yedi Kral Ölmeli
+https://vidmody.com/vs/tt15767808
+#EXTINF:-1  tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/23/11/29/08/55/1503226.jpg" group-title="2023 ✨ 2024",Zamana Karşı
+https://vidmody.com/vs/tt14773940
+#EXTINF:-1  tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/12/4e/124e24c1de29e00790397f924701f51d.jpg" group-title="2023 ✨ 2024",Zamanda Bir Kesik
+https://vidmody.com/vs/tt14857528
+#EXTINF:-1  tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/23/05/11/12/35/4742714.jpg" group-title="2023 ✨ 2024",Zihin Avı
+https://vidmody.com/vs/tt8080204
+#EXTINF:-1  tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/23/03/27/10/17/4752816.jpg" group-title="2023 ✨ 2024",Zodyak Şövalyeleri
+https://vidmody.com/vs/tt6528290
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EukULuv5FVCTGpGfC6LZBV4dsc.jpg" group-title="2021 ✨ 2022",Aquarium of the Dead-Korku-Aksiyon-Komedi (2021)
+https://vidmody.com/vs/tt13835046/
+#EXTINF:-1  tvg-logo="https://img05.imgsinemalar.com/images/afis_dev/a/another-earth-1660920398.jpg" group-title="2021 ✨ 2022",Başka Bir Dünya -Dram-Bilimkurgu (2021)
+https://vidmody.com/vs/tt1549572/
+#EXTINF:-1  tvg-logo="https://turkcealtyazi.org/film/200/9274670.jpg" group-title="2021 ✨ 2022",13 Dakika
+https://vidmody.com/vs/tt9274670
+#EXTINF:-1  tvg-logo="https://turkcealtyazi.org/film/200/4959750.jpg" group-title="2021 ✨ 2022",1992
+https://vidmody.com/vs/tt4959750
 
 #EXTINF:-1  tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/22/12/15/21/07/1814165.jpg" group-title="Filmler",Sevda Mecburi istikamet (2023)
 http://162.19.177.70:8080/movie/ytr21s2az/f98d23asac/12035.mkv
