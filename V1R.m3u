@@ -40,20 +40,30 @@ http://norsvpx.top:8080/231679575500969074/1511679575500969/58032
 # * » Ulusal « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8
+
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="showTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="starTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",STAR TV
-https://dogus.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-id="STAR TV" tvg-language="Turkish" tvg-country="TR" group-title="Ulusal",STAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://hkCmpibbf5GrpesQC1Cwi18QQRaqmWOdgrUw3UowubrR4WXIaF.abov/
+https://vavoosaku.global.ssl.fastly.net/ahmetgaya?id=699305923
+
 #EXTINF:-1 tvg-name="NOW TV" tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
+
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
 #EXTINF:-1 tvg-name="Kanal 7" tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
@@ -61,7 +71,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 # * » Spor « * #
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS HABER" tvg-id="BeINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Spor",beIN SPORTS HABER
 https://tinyurl.com/SyndraxicBsHaberHD
-
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN SPORTS.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="Spor",beIN SPORTS 1 [A]
 #EXTVLCOPT:http-origin=https://evabet1.tv
@@ -88,8 +97,6 @@ https://r14.af92.workers.dev/static/bs11.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs1.m3u8
 
-
-
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BeIN SPORTS 2 [A]" tvg-id="BeIN SPORTS 2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="Spor",beIN SPORTS 2 [A]
 #EXTVLCOPT:http-origin=https://evabet1.tv
 #EXTVLCOPT:http-referrer=https://evabet1.tv
@@ -100,20 +107,15 @@ https://xn--tdaaa.mevzuhls37.cfd/yayinb2.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs2.m3u8
 
-
-
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 3 [A]" tvg-id="BeIN SPORTS 3.tr"  tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="Spor",beIN SPORTS 3 [A]
 #EXTVLCOPT:http-origin=https://evabet1.tv
 #EXTVLCOPT:http-referrer=https://evabet1.tv
 https://xn--tdaaa.mevzuhls37.cfd/yayinb3.m3u8
 
-
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 3 [B] tvg-id="BeIN SPORTS 3.tr" "tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="Spor",beIN SPORTS 3 [B]
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs3.m3u8
-
-
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS 4 [A]" tvg-id="BeIN SPORTS 4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="Spor",beIN SPORTS 4 [A]
 #EXTVLCOPT:http-origin=https://evabet1.tv
@@ -125,13 +127,10 @@ https://xn--tdaaa.mevzuhls37.cfd/yayinb4.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs4.m3u8
 
-
-
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BeIN SPORTS 5" tvg-id="BeIN SPORTS 5.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Spor",BeIN SPORTS 5 [A]
 #EXTVLCOPT:http-origin=https://evabet1.tv
 #EXTVLCOPT:http-referrer=https://evabet1.tv
 https://xn--tdaaa.mevzuhls37.cfd/yayinb5.m3u8
-
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="tvg-id="BeIN SPORTS 5.tr" tvg-name="beIN SPORTS 5 [B]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Spor",beIN SPORTS 5 [C]
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -334,31 +333,31 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE"tvg-id="" tvg-logo="https://i.ibb.co/F5K5xs9/powerturk-taptaze.png7LIft8zClTwqxsJ3rTwu61KNKhI8juH5lsihBFyiNehN00VdT41Vzq54hIqLpjQ9gI9pSfiTk6kc1DTlhbkBrUsrvJp1fw/s1600/pt" group-title="Müzik",PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PAL STATİON" tvg-id="palstation" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",PAL STATİON
-https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-name="METRO FM" tvg-id="metrofm" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",METRO FM
+#EXTINF:-1 tvg-name="PAL STATİON" tvg-id="palstation" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",PAL STATİON
+https://moondigitaledge.Müziktvonline.net/palfm/playlist.m3u8
+#EXTINF:-1 tvg-name="METRO FM" tvg-id="metrofm" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",METRO FM
 https://17773.live.streamtheworld.com/METRO_FM128AAC.aac
-#EXTINF:-1 tvg-name="Number One FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Number One FM
+#EXTINF:-1 tvg-name="Number One FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",Number One FM
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hot Hits FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Hot Hits FM
+#EXTINF:-1 tvg-name="Hot Hits FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",Hot Hits FM
 https://hothitsfm.com/hothitsfm128kbps.m3u
-#EXTINF:-1 tvg-name="Tomorrowland Live" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Tomorrowland Live
+#EXTINF:-1 tvg-name="Tomorrowland Live" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",Tomorrowland Live
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
-#EXTINF:-1 tvg-name="PAL FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",PAL FM
-https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
-#EXTINF:-1 tvg-name="KAMPUS FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KAMPUS FM
+#EXTINF:-1 tvg-name="PAL FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",PAL FM
+https://moondigitaledge.Müziktvonline.net/palstation/playlist.m3u8
+#EXTINF:-1 tvg-name="KAMPUS FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",KAMPUS FM
 http://193.255.97.57/;stream/1
-#EXTINF:-1 tvg-name="KUPE FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KUPE FM
+#EXTINF:-1 tvg-name="KUPE FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",KUPE FM
 https://icecast.netmedya.net/kupefm
-#EXTINF:-1 tvg-name="The Rock Radio" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",The Rock Radio
-https://moondigitaledge.radyotvonline.net/therockradio/playlist.m3u8
-#EXTINF:-1 tvg-name="KAFA RADYO" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KAFA RADYO
-https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:-1 tvg-name="Alem FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Alem FM
-https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="KRAL FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KRAL FM
-https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
-#EXTINF:-1 ttvg-name="KRAL POP" vg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",KRAL POP
+#EXTINF:-1 tvg-name="The Rock Radio" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",The Rock Radio
+https://moondigitaledge.Müziktvonline.net/therockradio/playlist.m3u8
+#EXTINF:-1 tvg-name="KAFA Müzik" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",KAFA Müzik
+https://moondigitalmaster.Müziktvonline.net/kafaMüzik/playlist.m3u8
+#EXTINF:-1 tvg-name="Alem FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",Alem FM
+https://turkmedya.Müziktvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="KRAL FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",KRAL FM
+https://ssldyg.Müziktvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+#EXTINF:-1 ttvg-name="KRAL POP" vg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",KRAL POP
 http://46.20.3.201/;type=mp3
-#EXTINF:-1 tvg-name="Arabesk Damar FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Radyo",Arabesk Damar FM
+#EXTINF:-1 tvg-name="Arabesk Damar FM" tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",Arabesk Damar FM
 https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
