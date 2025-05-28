@@ -235,12 +235,8 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6849/index.m3u8
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk",Cartoon Network
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-id="EBATVilk.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT Eba TV Ilkokul HD
+#EXTINF:-1 tvg-id="EBATVilk.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk",TRT EBA
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
-#EXTINF:-1 tvg-id="EBATVortaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT Eba TV Ortaokul HD
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6920/index.m3u8
-#EXTINF:-1 tvg-id="EBATVlise.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT Eba TV Lise HD
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6918/index.m3u8
 
 
 
