@@ -242,6 +242,15 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
 
 
 # * » Filmler « * #
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/f7daf086ec4cc0ceafca3242f399248e.jpg" group-title="Canlı" tvg-id="8856",Daha İyi Bir Yarın
+https://load.rectv2024live.com/hls/8/cdn1611/dkj6xxZS3jALB67GwojqBFW36lI750mga1zXepdA.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/004ac2261ac0f59d2553e8c538c2986b.jpg" group-title="Canlı" tvg-id="8855",Horoz Dövüşü
+https://load.rectv2024live.com/hls/8/cdn1611/oGCin23xOdIeaqfFGA8ELwGV5O5LEG8tZKJwp7mE.mp4/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/a770b8dd8a5077b3f98530423506b7d2.jpg" group-title="Canlı" tvg-id="8854",Kurt Adam - Wolf Man
+https://load.rectv2024live.com/hls/8/cdn1611/4gPwDl0cJcpGBaTG9zqIinKvWDZXCDeMvelaNr6G.mp4/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/22/12/15/21/07/1814165.jpg" group-title="Filmler",Sevda Mecburi istikamet (2023)
 http://162.19.177.70:8080/movie/ytr21s2az/f98d23asac/12035.mkv
 #EXTINF:-1  tvg-logo="https://tr.web.img3.acsta.net/c_310_420/img/09/e2/09e21eda20f5275294f9fb894b867b06.jpg" group-title="Filmler",Gelin Takimi (2024)
@@ -1408,30 +1417,30 @@ http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/7562.mkv
 
 
 # * » Yabancı Diziler « * #
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 1. Bölüm(Geri Sayım)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 1. Bölüm(Geri Sayım)
 https://storage.diziyou5.com/episodes/91301_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 2. Bölüm(Kızıl Kıyı)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 2. Bölüm(Kızıl Kıyı)
 https://storage.diziyou5.com/episodes/91302_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 3. Bölüm(Dünyaların Yok Edicisi)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 3. Bölüm(Dünyaların Yok Edicisi)
 https://storage.diziyou5.com/episodes/91303_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 4. Bölüm(Efendimiz)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 4. Bölüm(Efendimiz)
 https://storage.diziyou5.com/episodes/91304_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 5. Bölüm(Mahşer Günü)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 5. Bölüm(Mahşer Günü)
 https://storage.diziyou5.com/episodes/91305_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 6. Bölüm(Hedefimiz Yıldızlar)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 6. Bölüm(Hedefimiz Yıldızlar)
 https://storage.diziyou5.com/episodes/91306_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 7. Bölüm(Daima İleri)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 7. Bölüm(Daima İleri)
 https://storage.diziyou5.com/episodes/91307_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 8. Bölüm(Wallfacer)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" tv-series="diziler" group-title="3 Body Problem",3 Body Problem-1. Sezon 8. Bölüm(Wallfacer)
 https://storage.diziyou5.com/episodes/91308_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 1. Bölüm(Episode 1)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" tv-series="diziler" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 1. Bölüm(Episode 1)
 https://storage.diziyou5.com/episodes/29201_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 2. Bölüm(Episode 2)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" tv-series="diziler" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 2. Bölüm(Episode 2)
 https://storage.diziyou5.com/episodes/29202_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 3. Bölüm(Episode 3)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" tv-series="diziler" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 3. Bölüm(Episode 3)
 https://storage.diziyou5.com/episodes/29203_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 4. Bölüm(Episode 4)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" tv-series="diziler" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 4. Bölüm(Episode 4)
 https://storage.diziyou5.com/episodes/29204_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 5. Bölüm(Episode 5)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" tv-series="diziler" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 5. Bölüm(Episode 5)
 https://storage.diziyou5.com/episodes/29205_tr/play.m3u8
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 6. Bölüm(Episode 6)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5GDhb86zGf7evaoR2ZTdNfrsU0j.jpg" tv-series="diziler" group-title="A Girl and an Astronaut",A Girl and an Astronaut-1. Sezon 6. Bölüm(Episode 6)
