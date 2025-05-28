@@ -10,7 +10,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="starTV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg" group-title="Ulusal",STAR TV
-https://dogus.daioncdn.net/startv/startv.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg" group-title="Ulusal",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg" group-title="Ulusal",TV8
@@ -250,3 +250,8 @@ http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
 # * » Filmler « * #
 #EXTINF:-1 tvg-name="Benjamin Button’ın Tuhaf Hikayesi"tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAj3Z9mNimX_jXmCZeCN2vVeV9l7kqYJbPaZl1ffdFNpN.jpg"FİLM:http-referrer="":http-user-agent="",Benjamin Button’ın Tuhaf Hikayesi
 https://vidrame.pro/vr/get/63a10802/1080.txt
+
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="7644" tvg-name="Ters Yüz 2" tvg-logo="https://a.prectv48.lol/uploads/cache/poster_thumb/uploads/jpg/aaf40f5203bfddbc4bce97da39ef7613.jpg" group-title="Canlı" tvg-country="TR" tvg-language="Turkish" tvg-source="m3u8",Ters Yüz 2
+#EXTGRP:Canlı
+https://load.rectv2024live.com/hls/9/cdn501/13cb2864644e0a59aae7c986fc1e78b3172433805613.mp4/index.m3u8
