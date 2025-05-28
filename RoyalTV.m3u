@@ -8,8 +8,10 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="showTV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="Ulusal",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="110" tvg-name="ATV" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal" tvg-country="TR" tvg-language="Turkish" tvg-source="1",ATV
-https://mfe01.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+#EXTINF:-1 tvg-id="110" tvg-name="ATV" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://hkCmpibbf5GrpesQC1Cwi18QQRaqmWOdgrUw3UowubrR4WXIaF.abov/
+https://vavoosaku.global.ssl.fastly.net/ahmetgaya?id=2325261286
 #EXTINF:-1 tvg-id="starTV.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg" group-title="Ulusal",STAR TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg" group-title="Ulusal",NOW TV
@@ -222,7 +224,7 @@ https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
 
 # * » Çocuk « * #
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk",TRT Cocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6841/index.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk",TRT Diyanet Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="Çocuk",Minika Cocuk
@@ -231,11 +233,11 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6849/index.m3u8
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk",Cartoon Network
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-rec="3",TRT Eba TV Ilkokul HD
+#EXTINF:-1 tvg-id="EBATVilk.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT Eba TV Ilkokul HD
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
-#EXTINF:-1 tvg-rec="3",TRT Eba TV Ortaokul HD
+#EXTINF:-1 tvg-id="EBATVortaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT Eba TV Ortaokul HD
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6920/index.m3u8
-#EXTINF:-1 tvg-rec="3",TRT Eba TV Lise HD
+#EXTINF:-1 tvg-id="EBATVlise.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT Eba TV Lise HD
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6918/index.m3u8
 
 
