@@ -149,9 +149,9 @@ https://tv.arectv31.sbs/live/discs.m3u8
 #EXTINF:-1 ttvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN TÜRK
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="Haber",CNN TÜRK
 https://tv.arectv31.sbs/live/cnnturk.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8cc654161cccc4a0b183615672809444.jpg" group-title="Haber" tvg-id="101",HABER TURK
@@ -176,10 +176,10 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
 # * » Müzik « * #
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",TRT Muzik
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Muzik",Dream Turk
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/63d6800d-1ecb-40b6-bc2b-01a225f0d3ec.png" group-title="Muzik",Dream Turk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" group-title="Muzik",Powerturk TV
@@ -193,49 +193,49 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="Muzik",Number One Turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",PAL STATİON
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",PAL STATİON
 https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",METRO FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",METRO FM
 https://17773.live.streamtheworld.com/METRO_FM128AAC.aac
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Number One FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",Number One FM
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Hot Hits FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",Hot Hits FM
 https://hothitsfm.com/hothitsfm128kbps.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Tomorrowland Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",Tomorrowland Live
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",PAL FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",PAL FM
 https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KAMPUS FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",KAMPUS FM
 http://193.255.97.57/;stream/1
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KUPE FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",KUPE FM
 https://icecast.netmedya.net/kupefm
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",The Rock Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",The Rock Radio
 https://moondigitaledge.radyotvonline.net/therockradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KAFA RADYO
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",KAFA RADYO
 https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Alem FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",Alem FM
 https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KRAL FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",KRAL FM
 https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",KRAL POP
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",KRAL POP
 http://46.20.3.201/;type=mp3
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",Arabesk Damar FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="Muzik",Arabesk Damar FM
 https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
 
 
 
 # * » Çocuk « * #
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk",TRT Cocuk
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk",TRT Cocuk
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6841/index.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk",TRT Diyanet Cocuk
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7e733bf8-6c0e-4d6e-b18a-5864e571894b.png" group-title="Çocuk",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="Çocuk",Minika Cocuk
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png" group-title="Çocuk",Minika Cocuk
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6849/index.m3u8
-#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="Çocuk",Minika Go
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7dfb3c14-3837-4c82-9c30-88edefebe4bd.png" group-title="Çocuk",Minika Go
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4c47b639-2916-4563-9e40-0f2a7925b2ea.png" group-title="Çocuk",Cartoon Network
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-id="EBATVilk.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk",TRT EBA
+#EXTINF:-1 tvg-id="EBATVilk.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/47fcca43-c2ac-4ab8-ae92-2b007655be9f.png" group-title="Çocuk",TRT EBA
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
 
 
