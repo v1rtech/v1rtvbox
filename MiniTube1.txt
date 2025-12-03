@@ -37,66 +37,6 @@
 #EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | DENİZLİ" https://www.youtube.com/watch?v=4DfwcX-Xnug
 #EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo Ankara Şarkısı + Çocuk Şarkıları | 25 Dakika" https://www.youtube.com/watch?v=SuKyXBwgUvQ
 
-#NİLOYA
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - December 3rd International Day of Persons with Disabilities 🦽" https://www.youtube.com/watch?v=wDxRd8MyPA0
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 2025 / My Earring and Tree sections 🆕🍒🍒🌲🌳🔔😃" https://www.youtube.com/watch?v=wAC0S5bgPkU
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / What an invention❓️❓️🆕🧐🦒🧐🚀 #niloya" https://www.youtube.com/watch?v=hmbYqBglcPI
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 2025 / Diary and School Brotherhood 🆕 🎁🖊️📔🖊️🎁" https://www.youtube.com/watch?v=wcUzzGZy1iE
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / Our game is so fun 🆕😃🔔😃 #niloya" https://www.youtube.com/watch?v=uVdgJ797ljI
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / The Longest Day 🆕🌞😎💤😴" https://www.youtube.com/watch?v=uTZ037K6rVk
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / Sweet dolphin 🆕🐬🐬🐬🥰 #niloya" https://www.youtube.com/watch?v=brJtePXujn4
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / Pickle Maker Arrived 🆕😋😋" https://www.youtube.com/watch?v=6cMuKdtj1QQ
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / Don't be afraid to make mistakes 🆕❌️❌️☺️ #niloyashorts" https://www.youtube.com/watch?v=JrWiime4NPk
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / Squid 🆕🦑🖍️🦑🖍️🎣" https://www.youtube.com/watch?v=xCKrw2duyAo
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Özür dileriz ağaççık 🆕🙁🌲🌳🍃🌿🙁 #niloya" https://www.youtube.com/watch?v=T_87hCqXjAI
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / Dinosaur Search Team 🆕 🦖🦖 🧐 🔎 ⛏️" https://www.youtube.com/watch?v=lf2tD5PikAQ
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Kulağımda küpe şıkır şıkır 🆕🍒🍒 #niloya" https://www.youtube.com/watch?v=81356SKZZSM
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya 2025 / My Sweet Mistake and Fish Alphabet episodes 🆕🥰🥰" https://www.youtube.com/watch?v=cV2k4tTZAts
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Top Toplayıcısı 🆕⚽⚾🥎🏀" https://www.youtube.com/watch?v=ehlhPjVs0Pc
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Çıkı Çıkı 🆕🔔🔔🆕" https://www.youtube.com/watch?v=uHAZViQDQ_c
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Benim günlüğüm çok özel 🆕📔✍️ #niloya" https://www.youtube.com/watch?v=4EC0hkPunwk
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Konuşan Balık 🆕🐬🆕🐬🥳" https://www.youtube.com/watch?v=0wwcNLVyvhs
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Kardeş okula hediye 🆕🎁🎁🎁 #niloya" https://www.youtube.com/watch?v=RsKDf87-Jlg
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Tatlı Bir Hata 🆕❌️🍨❌️😳" https://www.youtube.com/watch?v=KTeQA_MrlnA
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Yürüyen Çalı 🆕🌳🐇🌳🐇" https://www.youtube.com/watch?v=2tM79ZtSvQE
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya / Yeni bölümlerimi birlikte izleyelim ✨️🆕✨️🆕✨️" https://www.youtube.com/watch?v=K3G33qyo5zU
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Kulağına Küpe Olmak 😯👂️😯👂️🥰" https://www.youtube.com/watch?v=MkmlB7w5980
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Engel Değil 🆕👩🏼‍🦽🆕👩🏼‍🦽🧐" https://www.youtube.com/watch?v=5MuLoz55hGg
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Günlük 🆕📔🖊️📔🖊️🆕" https://www.youtube.com/watch?v=zmqW-4pSUVY
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Okul Kardeşliği 🎁🆕🎁🆕🎁" https://www.youtube.com/watch?v=hZnBHwypDfY
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - Yarın yeni bölümlerimle karşınızdayım 🆕🆕🆕" https://www.youtube.com/watch?v=-qLrL1qDO1Y
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Farklılıklarımızla bir arada 🆕👩🏻‍🦼👩🏻‍🦼🥰 #niloya" https://www.youtube.com/watch?v=a2KUmaRYscs
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="[Private video]" https://www.youtube.com/watch?v=hCLPQW4a20A
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya 2025 / Zil Oyunu ve Güzel Bir İcat bölümlerim 🔔⚽️🔔⚽️🥰" https://www.youtube.com/watch?v=ntXRwgMvE3k
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="My Niloya 2025 / Squid and The Longest Day episodes 🥰🥰" https://www.youtube.com/watch?v=BAiU4T8QOd8
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Detective and Dolphin episodes together 🕵‍♀🔍️🐬😉" https://www.youtube.com/watch?v=0gJu0ipjmtc
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Teachers' Day 💐🖊️📋️🖊️💐 / Niloya Shorts #niloya" https://www.youtube.com/watch?v=aU8-jW0eZfM
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My dear teacher ❤️✍️📚️✏️❤️ Teachers' Day" https://www.youtube.com/watch?v=PzeySXkD5tQ
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - New Season / 20 Minutes ⏰️😍⏰️" https://www.youtube.com/watch?v=gQQNo659RX0
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="We made pickles and tarhana ☺️🥕🌶️🥒😜/ Niloya and Mete 🤩" https://www.youtube.com/watch?v=I5O8o1mNBpw
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="My fun episodes together ✨️✨️/ Niloya 🥰😊🥰" https://www.youtube.com/watch?v=mw_11LbmwBU
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Yankı and Engel Değil episodes 😊🔉😊🦽" https://www.youtube.com/watch?v=kiYdl4Hw3Qo
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="All together, together 🥰🦽🥰 / Niloya Shorts #niloya" https://www.youtube.com/watch?v=t4u20YeW5Vk
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 198 - 210. Bölümler / 1,5 SAAT 😍🎬️🥰📽️😍" https://www.youtube.com/watch?v=x_vm5qtxpDY
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Dinosaur Bone 🦖😮🦕 / Niloya Shorts #niloya" https://www.youtube.com/watch?v=PwWf79AeLhM
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Mother's Cinema and Earring episodes 🥰🍒🥰" https://www.youtube.com/watch?v=V0Lwhokm2fY
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="We apologize ☹️🌲🐛🍃☹️ / Niloya Shorts #niloya" https://www.youtube.com/watch?v=ieBg_Tx0brU
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya 2025 / My Dinosaur Search and Pickle Fiction episodes 🦖🔍️🦕🥕🤩" https://www.youtube.com/watch?v=-3fINmVm8HU
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="All my songs of 2025 together / NİLOYA 🎹🎵🎤🎵🤗" https://www.youtube.com/watch?v=MYeESyy9CtQ
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="A special notebook / Niloya Shorts 📒🧐🤫📔 #niloya #niloyashorts" https://www.youtube.com/watch?v=1G1LsJMOaw0
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My new friends and school sisterhood episodes ❤️" https://www.youtube.com/watch?v=x07hHy3GNbs
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Gift / Niloya Shorts 🎁🎁🎁 #niloya" https://www.youtube.com/watch?v=aEgTRTuYIKc
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="My earrings are so beautiful 😉 / Niloya 🍒🍒" https://www.youtube.com/watch?v=XTSw1Swf-Mo
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Which pickle do you like the most❓️ / Niloya Shorts 🥕🥒🥕🥬" https://www.youtube.com/watch?v=2zzbg5LEHzQ
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 2025 yılı tüm bölümler bir arada 🤩🎁🎁🎁🤩" https://www.youtube.com/watch?v=RFXB-VOTSZo
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - New Game Out Out 🆕🤩🆕 #niloya" https://www.youtube.com/watch?v=wVIZdxYFsmc
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My episodes "Come Out, Come Out, Come Out" and "Not an Obstacle" 🦽🩹🦽" https://www.youtube.com/watch?v=oesfg_I6eVM
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="How will we grow taller? / Niloya Shorts 📏📏❓️✨️" https://www.youtube.com/watch?v=4yp_WF6V2Lc
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - NEW season 3 most popular episodes 🥰💗🥰" https://www.youtube.com/watch?v=GZJNQ7V0VIQ
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="How do we get our ball? 😔 / Niloya 🌲⚽🥎🌲" https://www.youtube.com/watch?v=kchPIqrmklk
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Is there ever a talking fish? / Niloya Shorts ❓🐬🥳🐠🐟" https://www.youtube.com/watch?v=6Cz-6t6vVRE
-#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Big Kids and Dinosaur Team episodes 😍🦖" https://www.youtube.com/watch?v=revFmAVms1U
-
 #KUKULİ
 #EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Erik Dalı, Bak Postacı Geliyor, Otobüsün Tekerleği ve Diğerleri | Kukuli TÜM SEVİLEN ŞARKILAR 🎵" https://www.youtube.com/watch?v=CO01bszYt9s
 #EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="90 Dakika Kukuli Tüm Bölümler 🐵" https://www.youtube.com/watch?v=6i3rr_aId4w
@@ -1026,51 +966,51 @@
 
 #EGİTİM VİDEOLAR
 #PIRIL
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="PIRIL SAKLI ROBOTLAR 29 EKİM'DE SİNEMALARDA!" https://www.youtube.com/watch?v=IoGzYXkN_7I
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Korkma Söyle | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=Ywi-OR7rsjU
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Üç Basamaklı Acil Sayılar | 20. Bölüm" https://www.youtube.com/watch?v=kJ9Sm646tHs
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 11. Bölüm - Romen Rakamlarının Peşinde" https://www.youtube.com/watch?v=ATPUgggLJC0
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Şifreli Günlük | 27. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=1jmuBtwYyDQ
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 2. Bölüm - Simetrinin Gizemi" https://www.youtube.com/watch?v=djK_wSKOZlc
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 7. Bölüm - Yazı mı? Tura mı?" https://www.youtube.com/watch?v=6_nCPJs6fEM
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl -  Nazlı'nın Şaşırtan İşlem Yeteneği | 15. Bölüm" https://www.youtube.com/watch?v=-k9N3_B32c8
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 9. Bölüm - Örüntüler" https://www.youtube.com/watch?v=664s5Se5tYo
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 3. Bölüm - Geometrik Cisimler" https://www.youtube.com/watch?v=5kdF7wOKE7s
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl'la Evde Spor | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=FbPlvvnOlGA
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="En Yakın Onluğa Yuvarlama | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tSjNaALMeLs
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 10. Bölüm - Parktaki Doğrular" https://www.youtube.com/watch?v=KUbKrM58kZs
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 6. Bölüm - Bitmeyen Ölçme Ödevi" https://www.youtube.com/watch?v=4uiCIgmMB3w
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="İki Basamaklı Pinpon Topları | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=O7tc_O3cwNc
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Matematiğe Bir Bak | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=ScGrQ2kvluE
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Dönen Salıncak | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=uoF3fHczpL4
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Geometrik Şekiller | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=I5kL-kw1l8g
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Ah Yönümüzü Bir Bulabilsek 🧭 | Yeni Bölüm - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=tiQ4G5dOtkw
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Son Işık Bükücü Cesur 💡 | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tIrV64DaR1w
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Benim Güzel Arkadaşım | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tSePCuIlv_s
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="İstersen Yaparsın | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=M7QOa7ovyCE
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Tartamazsan Islanırsın | 17. Bölüm" https://www.youtube.com/watch?v=rM0icRswgmo
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Soruyu Kim Çözdü❓ | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=ooqrP3ePEXU
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 4. Bölüm - Efe Ders Çalışıyor" https://www.youtube.com/watch?v=BfMbGTVkETw
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 5. Bölüm - Paralarımız" https://www.youtube.com/watch?v=tbOsav-PAOE
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - 3 Bölüm Birden! (1. Bölüm, 2. Bölüm, 3. Bölüm)" https://www.youtube.com/watch?v=zc6xO4HOTP8
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - 🇹🇷 Cumhuriyet Bayramı 🇹🇷 Özel Bölümü | TRT Çocuk" https://www.youtube.com/watch?v=-hozPFhgYB0
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Uzay'ın Topuna Ne Oldu? | 28. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=qaky3COFbuk
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Kesirli Dondurmacı | 22. Bölüm" https://www.youtube.com/watch?v=I19UDqCtv10
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 💝 Anneler Günü 💝 Özel Bölümü 🎉 TRT Çocuk 📺 Çizgi Film" https://www.youtube.com/watch?v=jhwBFIrog9Y
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 🎈 Pırıl'ın Doğum Günü Pastası 🎂 29. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=XuV1LgVJGy4
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Kaybolma Hikayesi | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tgxlmQKUL74
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Açı Sandalyesi | 14. Bölüm" https://www.youtube.com/watch?v=DZbOwxe-KaI
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Çanakkale Özel Bölümü | TRT Çocuk" https://www.youtube.com/watch?v=uJ2yuBkIXvc
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Sayıların Kayboluşu | 16. Bölüm" https://www.youtube.com/watch?v=huRceGyFy7g
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 1. Bölüm - Kesirler Karnımızı Doyurdu" https://www.youtube.com/watch?v=E45R-i5b0fY
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Ramazan🌙 Özel Bölümü 🥁 Çizgi Film | TRT Çocuk" https://www.youtube.com/watch?v=02hbhX1pSww
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 13. Bölüm - Sıvıları Ölçüyoruz" https://www.youtube.com/watch?v=0xGfU1xYyKo
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Uzay'ın Toplama Makinesi | 25. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=7P-oevhvKlY
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Minik Gurme Uzay | 26. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=xbrq7zHnihU
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Her Şey Senin Beyninde | 24. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=Ab4LnDhbiUI
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Bana Saati Söyle! | 19. Bölüm" https://www.youtube.com/watch?v=dGk4bS4yvTU
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl -  Sıraya Geç ve Sıranı Bekle | 18. Bölüm" https://www.youtube.com/watch?v=thhDA2ntVGY
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 12. Bölüm - Sıfırın Hikayesi" https://www.youtube.com/watch?v=exflX_hTBCI
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Başkanlık Yarışı | 23. Bölüm" https://www.youtube.com/watch?v=qpqDR46e16w
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Geometrik Robotlar | 21. Bölüm" https://www.youtube.com/watch?v=JNMVRtvbitg
-#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 8. Bölüm -  Uzay'ın Doğum Günü Şifreleri" https://www.youtube.com/watch?v=JRU9T_7mWUo
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="PIRIL SAKLI ROBOTLAR 29 EKİM'DE SİNEMALARDA!" https://www.youtube.com/watch?v=IoGzYXkN_7I
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Korkma Söyle | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=Ywi-OR7rsjU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Üç Basamaklı Acil Sayılar | 20. Bölüm" https://www.youtube.com/watch?v=kJ9Sm646tHs
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 11. Bölüm - Romen Rakamlarının Peşinde" https://www.youtube.com/watch?v=ATPUgggLJC0
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Şifreli Günlük | 27. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=1jmuBtwYyDQ
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 2. Bölüm - Simetrinin Gizemi" https://www.youtube.com/watch?v=djK_wSKOZlc
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 7. Bölüm - Yazı mı? Tura mı?" https://www.youtube.com/watch?v=6_nCPJs6fEM
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl -  Nazlı'nın Şaşırtan İşlem Yeteneği | 15. Bölüm" https://www.youtube.com/watch?v=-k9N3_B32c8
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 9. Bölüm - Örüntüler" https://www.youtube.com/watch?v=664s5Se5tYo
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 3. Bölüm - Geometrik Cisimler" https://www.youtube.com/watch?v=5kdF7wOKE7s
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl'la Evde Spor | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=FbPlvvnOlGA
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="En Yakın Onluğa Yuvarlama | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tSjNaALMeLs
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 10. Bölüm - Parktaki Doğrular" https://www.youtube.com/watch?v=KUbKrM58kZs
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 6. Bölüm - Bitmeyen Ölçme Ödevi" https://www.youtube.com/watch?v=4uiCIgmMB3w
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="İki Basamaklı Pinpon Topları | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=O7tc_O3cwNc
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Matematiğe Bir Bak | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=ScGrQ2kvluE
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Dönen Salıncak | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=uoF3fHczpL4
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Geometrik Şekiller | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=I5kL-kw1l8g
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Ah Yönümüzü Bir Bulabilsek 🧭 | Yeni Bölüm - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=tiQ4G5dOtkw
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Son Işık Bükücü Cesur 💡 | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tIrV64DaR1w
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Benim Güzel Arkadaşım | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tSePCuIlv_s
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="İstersen Yaparsın | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=M7QOa7ovyCE
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Tartamazsan Islanırsın | 17. Bölüm" https://www.youtube.com/watch?v=rM0icRswgmo
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Soruyu Kim Çözdü❓ | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=ooqrP3ePEXU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 4. Bölüm - Efe Ders Çalışıyor" https://www.youtube.com/watch?v=BfMbGTVkETw
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 5. Bölüm - Paralarımız" https://www.youtube.com/watch?v=tbOsav-PAOE
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - 3 Bölüm Birden! (1. Bölüm, 2. Bölüm, 3. Bölüm)" https://www.youtube.com/watch?v=zc6xO4HOTP8
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - 🇹🇷 Cumhuriyet Bayramı 🇹🇷 Özel Bölümü | TRT Çocuk" https://www.youtube.com/watch?v=-hozPFhgYB0
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Uzay'ın Topuna Ne Oldu? | 28. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=qaky3COFbuk
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Kesirli Dondurmacı | 22. Bölüm" https://www.youtube.com/watch?v=I19UDqCtv10
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 💝 Anneler Günü 💝 Özel Bölümü 🎉 TRT Çocuk 📺 Çizgi Film" https://www.youtube.com/watch?v=jhwBFIrog9Y
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 🎈 Pırıl'ın Doğum Günü Pastası 🎂 29. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=XuV1LgVJGy4
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Kaybolma Hikayesi | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tgxlmQKUL74
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Açı Sandalyesi | 14. Bölüm" https://www.youtube.com/watch?v=DZbOwxe-KaI
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Çanakkale Özel Bölümü | TRT Çocuk" https://www.youtube.com/watch?v=uJ2yuBkIXvc
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Sayıların Kayboluşu | 16. Bölüm" https://www.youtube.com/watch?v=huRceGyFy7g
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 1. Bölüm - Kesirler Karnımızı Doyurdu" https://www.youtube.com/watch?v=E45R-i5b0fY
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Ramazan🌙 Özel Bölümü 🥁 Çizgi Film | TRT Çocuk" https://www.youtube.com/watch?v=02hbhX1pSww
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 13. Bölüm - Sıvıları Ölçüyoruz" https://www.youtube.com/watch?v=0xGfU1xYyKo
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Uzay'ın Toplama Makinesi | 25. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=7P-oevhvKlY
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Minik Gurme Uzay | 26. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=xbrq7zHnihU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Her Şey Senin Beyninde | 24. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=Ab4LnDhbiUI
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Bana Saati Söyle! | 19. Bölüm" https://www.youtube.com/watch?v=dGk4bS4yvTU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl -  Sıraya Geç ve Sıranı Bekle | 18. Bölüm" https://www.youtube.com/watch?v=thhDA2ntVGY
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 12. Bölüm - Sıfırın Hikayesi" https://www.youtube.com/watch?v=exflX_hTBCI
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Başkanlık Yarışı | 23. Bölüm" https://www.youtube.com/watch?v=qpqDR46e16w
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Geometrik Robotlar | 21. Bölüm" https://www.youtube.com/watch?v=JNMVRtvbitg
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 8. Bölüm -  Uzay'ın Doğum Günü Şifreleri" https://www.youtube.com/watch?v=JRU9T_7mWUo
