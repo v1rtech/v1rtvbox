@@ -1,3 +1,4 @@
+#EXTINF:-1 tvg-id="Karma" group-title="06yas"
 https://www.youtube.com/watch?v=rGGZnh8W7Oo
 https://youtu.be/oBhiEXaNg5w
 https://www.youtube.com/watch?v=U7WWX3JDZpg
@@ -11,7 +12,8 @@ https://www.youtube.com/watch?v=9rwOhlXv0aI
 https://www.youtube.com/watch?v=W4IWoJqSxjY
 https://www.youtube.com/watch?v=6xUvJFnAaLQ
 https://www.youtube.com/watch?v=SOrjs-wyF54
-#ROBOCAR
+
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas"
 https://www.youtube.com/watch?v=4aPPsLl5NJs
 https://www.youtube.com/watch?v=EP9QIzIv2mc
 https://www.youtube.com/watch?v=DF1PZ9ylR7A
@@ -21,6 +23,16 @@ https://www.youtube.com/watch?v=MXEEtx-mipA
 https://www.youtube.com/watch?v=yuP3sQGguvU
 https://www.youtube.com/watch?v=ABrSK3y9qIY
 https://www.youtube.com/watch?v=Sb3wViM2B28
-#PETRONİX
+
+#EXTINF:-1 tvg-id="Petronix" group-title="06yas"
 https://www.youtube.com/watch?v=RSRBQHXksr8
 https://www.youtube.com/watch?v=10-WsqQp5rE
+
+#EXTINF:-1 tvg-id="test1" group-title="60yas"
+https://www.youtube.com/watch?v=RSRBQHXksr8
+
+#EXTINF:-1 tvg-id="test2" group-title="9yas"
+https://www.youtube.com/watch?v=RSRBQHXksr8
+
+#EXTINF:-1 tvg-id="test3" group-title="egitim"
+https://www.youtube.com/watch?v=RSRBQHXksr8
