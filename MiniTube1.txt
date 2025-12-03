@@ -1,38 +1,33 @@
-#EXTINF:-1 tvg-id="Karma" group-title="06yas"
-https://www.youtube.com/watch?v=rGGZnh8W7Oo
-https://youtu.be/oBhiEXaNg5w
-https://www.youtube.com/watch?v=U7WWX3JDZpg
-https://www.youtube.com/watch?v=xlwUZW8sjFs
-https://www.youtube.com/watch?v=Mitl_C5BS7Q
-https://www.youtube.com/watch?v=CmGUNken_as
-https://www.youtube.com/watch?v=iN8xHxXeyVk
-https://www.youtube.com/watch?v=LmMZqUxNKvw
-https://www.youtube.com/watch?v=o27IqVypfO8
-https://www.youtube.com/watch?v=9rwOhlXv0aI
-https://www.youtube.com/watch?v=W4IWoJqSxjY
-https://www.youtube.com/watch?v=6xUvJFnAaLQ
-https://www.youtube.com/watch?v=SOrjs-wyF54
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=rGGZnh8W7Oo
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://youtu.be/oBhiEXaNg5w
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=U7WWX3JDZpg
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=xlwUZW8sjFs
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=Mitl_C5BS7Q
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=CmGUNken_as
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=iN8xHxXeyVk
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=LmMZqUxNKvw
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=o27IqVypfO8
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=9rwOhlXv0aI
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=W4IWoJqSxjY
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=6xUvJFnAaLQ
+#EXTINF:-1 tvg-id="Karma" group-title="06yas" https://www.youtube.com/watch?v=SOrjs-wyF54
 
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas"
-https://www.youtube.com/watch?v=4aPPsLl5NJs
-https://www.youtube.com/watch?v=EP9QIzIv2mc
-https://www.youtube.com/watch?v=DF1PZ9ylR7A
-https://www.youtube.com/watch?v=xKCMU1NKing
-https://www.youtube.com/watch?v=TbviBeumgek
-https://www.youtube.com/watch?v=MXEEtx-mipA
-https://www.youtube.com/watch?v=yuP3sQGguvU
-https://www.youtube.com/watch?v=ABrSK3y9qIY
-https://www.youtube.com/watch?v=Sb3wViM2B28
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=4aPPsLl5NJs
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=EP9QIzIv2mc
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=DF1PZ9ylR7A
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=xKCMU1NKing
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=TbviBeumgek
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=MXEEtx-mipA
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=yuP3sQGguvU
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=ABrSK3y9qIY
+#EXTINF:-1 tvg-id="Robocar" group-title="06yas" https://www.youtube.com/watch?v=Sb3wViM2B28
 
-#EXTINF:-1 tvg-id="Petronix" group-title="06yas"
-https://www.youtube.com/watch?v=RSRBQHXksr8
-https://www.youtube.com/watch?v=10-WsqQp5rE
+#EXTINF:-1 tvg-id="Petronix" group-title="06yas" https://www.youtube.com/watch?v=RSRBQHXksr8
+#EXTINF:-1 tvg-id="Petronix" group-title="06yas" https://www.youtube.com/watch?v=10-WsqQp5rE
 
-#EXTINF:-1 tvg-id="test1" group-title="60yas"
-https://www.youtube.com/watch?v=RSRBQHXksr8
+#EXTINF:-1 tvg-id="test1" group-title="60yas" https://www.youtube.com/watch?v=RSRBQHXksr8
 
-#EXTINF:-1 tvg-id="test2" group-title="9yas"
-https://www.youtube.com/watch?v=RSRBQHXksr8
 
-#EXTINF:-1 tvg-id="test3" group-title="egitim"
-https://www.youtube.com/watch?v=RSRBQHXksr8
+#EXTINF:-1 tvg-id="test2" group-title="9yas" https://www.youtube.com/watch?v=RSRBQHXksr8
+
+#EXTINF:-1 tvg-id="test3" group-title="egitim" https://www.youtube.com/watch?v=RSRBQHXksr8
