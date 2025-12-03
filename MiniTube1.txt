@@ -1,33 +1,1076 @@
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=rGGZnh8W7Oo
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://youtu.be/oBhiEXaNg5w
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=U7WWX3JDZpg
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=xlwUZW8sjFs
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=Mitl_C5BS7Q
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=CmGUNken_as
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=iN8xHxXeyVk
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=LmMZqUxNKvw
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=o27IqVypfO8
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=9rwOhlXv0aI
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=W4IWoJqSxjY
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=6xUvJFnAaLQ
-#EXTINF:-1 tvg-id="Karma" group-title="06yas", https://www.youtube.com/watch?v=SOrjs-wyF54
+#6 YAS ÖNCESİ VİDEOLAR
+#MİNİYO
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Tüm Gezegen Şarkıları Bir Arada | Miniyo Gezegenler" https://www.youtube.com/watch?v=uiOvEKni1OA
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="🌍 Gezegenler Şarkısı Remix - Eğitici Çocuk Şarkısı | MiniYo" https://www.youtube.com/watch?v=LmMZqUxNKvw
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo Tüm Uzay Şarkıları Bir Arada | 18 Şarkı" https://www.youtube.com/watch?v=tgWoPZFX6Tk
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Plüton Şarkısı - Karaoke" https://www.youtube.com/watch?v=XQrMRj9Ql2k
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Jüpiter Şarkısı - Karaoke" https://www.youtube.com/watch?v=TPnxKShbYfg
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Gezegenler Şarkısı - Karaoke" https://www.youtube.com/watch?v=J8EDlSM5cw8
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Ben Mars - Karaoke" https://www.youtube.com/watch?v=9XXtp93aKjQ
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Ay Şarkısı - Karaoke" https://www.youtube.com/watch?v=Vpfn91KShyk
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="James Webb Uzay Teleskobu | Miniyo Uzay Şarkıları" https://www.youtube.com/watch?v=RKaomwikLBk
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Ganymede Şarkısı | Miniyo Uzay Şarkıları" https://www.youtube.com/watch?v=2BuQ7nTWBVc
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Kara Delik Şarkısı | Miniyo Uzay Şarkıları" https://www.youtube.com/watch?v=8UdS-6zFADI
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Kuiper Kuşağı | Miniyo Uzay Şarkıları" https://www.youtube.com/watch?v=2t2aSMB3RbI
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Titan Şarkısı | Miniyo Uzay Şarkıları" https://www.youtube.com/watch?v=C6l-LggiJwE
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Venüs Şarkısı | Gezegen Şarkıları" https://www.youtube.com/watch?v=FB-QV55Uld0
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Satürn Şarkısı | Miniyo Gezegen Şarkıları" https://www.youtube.com/watch?v=CmGUNken_as
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Neptün Şarkısı | Miniyo Gezegen Şarkıları" https://www.youtube.com/watch?v=IuM3xzDhw5I
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Plüton Şarkısı | Gezegen Şarkıları" https://www.youtube.com/watch?v=o27IqVypfO8
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Dünya Şarkısı  | Uzay Şarkısı (Rap)" https://www.youtube.com/watch?v=JLFyaVd8TO0
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Uranüs Şarkısı | Miniyo Gezegen Şarkıları" https://www.youtube.com/watch?v=Kmf3AAsjGhw
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Jüpiter Şarkısı | Gezegen Şarkıları" https://www.youtube.com/watch?v=iN8xHxXeyVk
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Merkür Şarkısı | Miniyo Gezegen Şarkıları" https://www.youtube.com/watch?v=8oLsUV2ZmQA
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Ay Şarkısı | Eğitici Çocuk Şarkıları" https://www.youtube.com/watch?v=9rwOhlXv0aI
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Güneş Şarkısı | Uzay Temalı Şarkılar" https://www.youtube.com/watch?v=_8oJ0QV5188
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Yıldızlar Şarkısı | Eğitici Çocuk Şarkıları" https://www.youtube.com/watch?v=8J7VSDESsso
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Ben Mars | Uzay Şarkısı (Rap)" https://www.youtube.com/watch?v=6xUvJFnAaLQ
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Gezegenler - Eğitici Çocuk Şarkıları" https://www.youtube.com/watch?v=rGGZnh8W7Oo
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Ay Şarkısı | Miniyo Uzay Şarkıları | Eğitici Şarkılar" https://www.youtube.com/watch?v=d__v11yRgvU
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Sun Song + Educational Children's Songs | Miniyo Planet Songs" https://www.youtube.com/watch?v=yNWOd-g9rvs
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | Tüm Şarkılar Bir Arada" https://www.youtube.com/watch?v=RFAG5yTyVtw
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | ANKARA" https://www.youtube.com/watch?v=-VVLyhG4P7I
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | TRABZON" https://www.youtube.com/watch?v=LYarv-yXnH4
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | ŞANLIURFA" https://www.youtube.com/watch?v=pZfPv53hD0k
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | İSTANBUL" https://www.youtube.com/watch?v=9XUs3goauYQ
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | İZMİR" https://www.youtube.com/watch?v=0SaJH14QrYg
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo ile Türkiye'yi Geziyorum | DENİZLİ" https://www.youtube.com/watch?v=4DfwcX-Xnug
+#EXTINF:-1 tvg-id="Miniyo"  group-title="06yas" video-title="Miniyo Ankara Şarkısı + Çocuk Şarkıları | 25 Dakika" https://www.youtube.com/watch?v=SuKyXBwgUvQ
 
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=4aPPsLl5NJs
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=EP9QIzIv2mc
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=DF1PZ9ylR7A
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=xKCMU1NKing
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=TbviBeumgek
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=MXEEtx-mipA
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=yuP3sQGguvU
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=ABrSK3y9qIY
-#EXTINF:-1 tvg-id="Robocar" group-title="06yas", https://www.youtube.com/watch?v=Sb3wViM2B28
+#NİLOYA
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - December 3rd International Day of Persons with Disabilities 🦽" https://www.youtube.com/watch?v=wDxRd8MyPA0
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 2025 / My Earring and Tree sections 🆕🍒🍒🌲🌳🔔😃" https://www.youtube.com/watch?v=wAC0S5bgPkU
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / What an invention❓️❓️🆕🧐🦒🧐🚀 #niloya" https://www.youtube.com/watch?v=hmbYqBglcPI
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 2025 / Diary and School Brotherhood 🆕 🎁🖊️📔🖊️🎁" https://www.youtube.com/watch?v=wcUzzGZy1iE
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / Our game is so fun 🆕😃🔔😃 #niloya" https://www.youtube.com/watch?v=uVdgJ797ljI
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / The Longest Day 🆕🌞😎💤😴" https://www.youtube.com/watch?v=uTZ037K6rVk
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / Sweet dolphin 🆕🐬🐬🐬🥰 #niloya" https://www.youtube.com/watch?v=brJtePXujn4
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / Pickle Maker Arrived 🆕😋😋" https://www.youtube.com/watch?v=6cMuKdtj1QQ
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - NEW / Don't be afraid to make mistakes 🆕❌️❌️☺️ #niloyashorts" https://www.youtube.com/watch?v=JrWiime4NPk
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / Squid 🆕🦑🖍️🦑🖍️🎣" https://www.youtube.com/watch?v=xCKrw2duyAo
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Özür dileriz ağaççık 🆕🙁🌲🌳🍃🌿🙁 #niloya" https://www.youtube.com/watch?v=T_87hCqXjAI
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="NEW EPISODE / Niloya 2025 / Dinosaur Search Team 🆕 🦖🦖 🧐 🔎 ⛏️" https://www.youtube.com/watch?v=lf2tD5PikAQ
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Kulağımda küpe şıkır şıkır 🆕🍒🍒 #niloya" https://www.youtube.com/watch?v=81356SKZZSM
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya 2025 / My Sweet Mistake and Fish Alphabet episodes 🆕🥰🥰" https://www.youtube.com/watch?v=cV2k4tTZAts
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Top Toplayıcısı 🆕⚽⚾🥎🏀" https://www.youtube.com/watch?v=ehlhPjVs0Pc
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Çıkı Çıkı 🆕🔔🔔🆕" https://www.youtube.com/watch?v=uHAZViQDQ_c
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Benim günlüğüm çok özel 🆕📔✍️ #niloya" https://www.youtube.com/watch?v=4EC0hkPunwk
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Konuşan Balık 🆕🐬🆕🐬🥳" https://www.youtube.com/watch?v=0wwcNLVyvhs
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Kardeş okula hediye 🆕🎁🎁🎁 #niloya" https://www.youtube.com/watch?v=RsKDf87-Jlg
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Tatlı Bir Hata 🆕❌️🍨❌️😳" https://www.youtube.com/watch?v=KTeQA_MrlnA
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Yürüyen Çalı 🆕🌳🐇🌳🐇" https://www.youtube.com/watch?v=2tM79ZtSvQE
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya / Yeni bölümlerimi birlikte izleyelim ✨️🆕✨️🆕✨️" https://www.youtube.com/watch?v=K3G33qyo5zU
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Kulağına Küpe Olmak 😯👂️😯👂️🥰" https://www.youtube.com/watch?v=MkmlB7w5980
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Engel Değil 🆕👩🏼‍🦽🆕👩🏼‍🦽🧐" https://www.youtube.com/watch?v=5MuLoz55hGg
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Günlük 🆕📔🖊️📔🖊️🆕" https://www.youtube.com/watch?v=zmqW-4pSUVY
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="YENİ BÖLÜM / Niloya 2025 / Okul Kardeşliği 🎁🆕🎁🆕🎁" https://www.youtube.com/watch?v=hZnBHwypDfY
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - Yarın yeni bölümlerimle karşınızdayım 🆕🆕🆕" https://www.youtube.com/watch?v=-qLrL1qDO1Y
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - YENİ / Farklılıklarımızla bir arada 🆕👩🏻‍🦼👩🏻‍🦼🥰 #niloya" https://www.youtube.com/watch?v=a2KUmaRYscs
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="[Private video]" https://www.youtube.com/watch?v=hCLPQW4a20A
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya 2025 / Zil Oyunu ve Güzel Bir İcat bölümlerim 🔔⚽️🔔⚽️🥰" https://www.youtube.com/watch?v=ntXRwgMvE3k
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="My Niloya 2025 / Squid and The Longest Day episodes 🥰🥰" https://www.youtube.com/watch?v=BAiU4T8QOd8
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Detective and Dolphin episodes together 🕵‍♀🔍️🐬😉" https://www.youtube.com/watch?v=0gJu0ipjmtc
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Teachers' Day 💐🖊️📋️🖊️💐 / Niloya Shorts #niloya" https://www.youtube.com/watch?v=aU8-jW0eZfM
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My dear teacher ❤️✍️📚️✏️❤️ Teachers' Day" https://www.youtube.com/watch?v=PzeySXkD5tQ
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - New Season / 20 Minutes ⏰️😍⏰️" https://www.youtube.com/watch?v=gQQNo659RX0
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="We made pickles and tarhana ☺️🥕🌶️🥒😜/ Niloya and Mete 🤩" https://www.youtube.com/watch?v=I5O8o1mNBpw
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="My fun episodes together ✨️✨️/ Niloya 🥰😊🥰" https://www.youtube.com/watch?v=mw_11LbmwBU
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Yankı and Engel Değil episodes 😊🔉😊🦽" https://www.youtube.com/watch?v=kiYdl4Hw3Qo
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="All together, together 🥰🦽🥰 / Niloya Shorts #niloya" https://www.youtube.com/watch?v=t4u20YeW5Vk
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 198 - 210. Bölümler / 1,5 SAAT 😍🎬️🥰📽️😍" https://www.youtube.com/watch?v=x_vm5qtxpDY
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Dinosaur Bone 🦖😮🦕 / Niloya Shorts #niloya" https://www.youtube.com/watch?v=PwWf79AeLhM
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Mother's Cinema and Earring episodes 🥰🍒🥰" https://www.youtube.com/watch?v=V0Lwhokm2fY
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="We apologize ☹️🌲🐛🍃☹️ / Niloya Shorts #niloya" https://www.youtube.com/watch?v=ieBg_Tx0brU
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya 2025 / My Dinosaur Search and Pickle Fiction episodes 🦖🔍️🦕🥕🤩" https://www.youtube.com/watch?v=-3fINmVm8HU
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="All my songs of 2025 together / NİLOYA 🎹🎵🎤🎵🤗" https://www.youtube.com/watch?v=MYeESyy9CtQ
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="A special notebook / Niloya Shorts 📒🧐🤫📔 #niloya #niloyashorts" https://www.youtube.com/watch?v=1G1LsJMOaw0
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My new friends and school sisterhood episodes ❤️" https://www.youtube.com/watch?v=x07hHy3GNbs
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Gift / Niloya Shorts 🎁🎁🎁 #niloya" https://www.youtube.com/watch?v=aEgTRTuYIKc
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="My earrings are so beautiful 😉 / Niloya 🍒🍒" https://www.youtube.com/watch?v=XTSw1Swf-Mo
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Which pickle do you like the most❓️ / Niloya Shorts 🥕🥒🥕🥬" https://www.youtube.com/watch?v=2zzbg5LEHzQ
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - 2025 yılı tüm bölümler bir arada 🤩🎁🎁🎁🤩" https://www.youtube.com/watch?v=RFXB-VOTSZo
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya Shorts - New Game Out Out 🆕🤩🆕 #niloya" https://www.youtube.com/watch?v=wVIZdxYFsmc
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My episodes "Come Out, Come Out, Come Out" and "Not an Obstacle" 🦽🩹🦽" https://www.youtube.com/watch?v=oesfg_I6eVM
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="How will we grow taller? / Niloya Shorts 📏📏❓️✨️" https://www.youtube.com/watch?v=4yp_WF6V2Lc
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - NEW season 3 most popular episodes 🥰💗🥰" https://www.youtube.com/watch?v=GZJNQ7V0VIQ
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="How do we get our ball? 😔 / Niloya 🌲⚽🥎🌲" https://www.youtube.com/watch?v=kchPIqrmklk
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Is there ever a talking fish? / Niloya Shorts ❓🐬🥳🐠🐟" https://www.youtube.com/watch?v=6Cz-6t6vVRE
+#EXTINF:-1 tvg-id="Niloya"  group-title="06yas" video-title="Niloya - My Big Kids and Dinosaur Team episodes 😍🦖" https://www.youtube.com/watch?v=revFmAVms1U
 
-#EXTINF:-1 tvg-id="Petronix" group-title="06yas", https://www.youtube.com/watch?v=RSRBQHXksr8
-#EXTINF:-1 tvg-id="Petronix" group-title="06yas", https://www.youtube.com/watch?v=10-WsqQp5rE
+#KUKULİ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Erik Dalı, Bak Postacı Geliyor, Otobüsün Tekerleği ve Diğerleri | Kukuli TÜM SEVİLEN ŞARKILAR 🎵" https://www.youtube.com/watch?v=CO01bszYt9s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="90 Dakika Kukuli Tüm Bölümler 🐵" https://www.youtube.com/watch?v=6i3rr_aId4w
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Son Kurabiye Kimin Olacak? 🍪 Kukuli" https://www.youtube.com/watch?v=cAMMpbeluIs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="1 SAAT Kukuli - YENİ BÖLÜMLER - Çocuklar için Çizgi Filmler" https://www.youtube.com/watch?v=jcI4jtTs3mI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Bir Değişik Turşu 🥒 | YENİ" https://www.youtube.com/watch?v=wkqq6BGqAUo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Fun Cartoons | Cartoons & Children's Songs - Two Parts" https://www.youtube.com/watch?v=eYlxhZjR6ik
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Fun Cartoons | Cartoons & Children's Songs - 25 MINUTES" https://www.youtube.com/watch?v=oJp5mLKLnbc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli –Tinky ile Maceralar 🎀 | Çizgi Filmler & Çocuk Şarkıları| Komik Çizgi Filmler Bir Arada" https://www.youtube.com/watch?v=za0694Ox9U0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons & Songs for Kids | Funny Cartoons |All Adventures of Tinky and Minky" https://www.youtube.com/watch?v=nRKyyPCr17E
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons for Kids & Toddlers | Baby Songs | All Adventures of Minky" https://www.youtube.com/watch?v=78TOR2a55Fk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons & Songs for Kids |Funny Cartoons |All Adventures of Tinky" https://www.youtube.com/watch?v=-CaNUJjNmls
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Moon Song 10 MINUTES | Cartoons and Songs For Kids & Nursery Rhymes" https://www.youtube.com/watch?v=OzinV6jLJCw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Underwater World 🌊 & Little Bird 🐦" https://www.youtube.com/watch?v=9qRLDqcKNnA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Funny Gags for Children" https://www.youtube.com/watch?v=tW04uIGZiEc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="3 BÖLÜM BİR ARADA - Kukuli 🐵 Çocuklar için Çizgi Film" https://www.youtube.com/watch?v=XblfPw-aWWU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - All Dances together" https://www.youtube.com/watch?v=E-UHcL92cIA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Cimcime Tinky" https://www.youtube.com/watch?v=ZPGAn_25PxE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Gülmece Eğlenmece" https://www.youtube.com/watch?v=zpOcYS5QX10
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Kuli Kuli Kulli Kukuli Song | Cartoons and Songs For Kids" https://www.youtube.com/watch?v=5BC9XZ3jWN0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Songs for Kids | Best Cartoons & Kids Songs | ALL SONGS" https://www.youtube.com/watch?v=SdGIkLSyhns
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Funny Gags for Children" https://www.youtube.com/watch?v=HT3jJ_0D00M
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Funny Gags for Children" https://www.youtube.com/watch?v=cdY9kHDkyjY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Ball of Socks & Journey to the Moon | TWO NEW PART 2018" https://www.youtube.com/watch?v=PooB-S2LRAA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – En Komikler | Komik Şakalar | Çizgi Film & Çocuk Şarkıları" https://www.youtube.com/watch?v=ZzA-1I6yYYU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Best Episodes Compilation & Kids Songs | ALL EPISODES" https://www.youtube.com/watch?v=lMRwPXPY2PY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Summer Song | Nursery Rhymes & Cartoons for Children | Funny Songs" https://www.youtube.com/watch?v=_3YCiCZTjxE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Drive-in Theater & New Shoes - Funny Cartoons & Kids Songs" https://www.youtube.com/watch?v=JGDFnFQ6Fbc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Songs for Kids | Best Cartoons & Kids Songs | ALL SONGS" https://www.youtube.com/watch?v=yc-KMY1Ru_4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Funny Gags for Children" https://www.youtube.com/watch?v=LuVD8Tzz-ZA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Zıpır Minky" https://www.youtube.com/watch?v=qRXcC59ifTU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Gags for Kids | Educative Kids Songs | Funny Cartoons & Adventures" https://www.youtube.com/watch?v=FEgjcH1HUN4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="5 BÖLÜM BİR ARADA - Kukuli 🐵 Çocuklar için Çizgi Film" https://www.youtube.com/watch?v=zRcTr6-xbTc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="2 SAATLİK Kukuli Tüm Yeni Sezon Bölümler Şimdi Sizlerle 🐵 Çizgi Film İzle" https://www.youtube.com/watch?v=OgQtwW4keLs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Summer Has Come 🎶 🍉 Kukuli - Cartoons and Children's Songs - NEW CLIP" https://www.youtube.com/watch?v=wL9qH4Ujb_M
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 DAKİKA - Kukuli Tüm Bölümler 🐵 #Kukuli" https://www.youtube.com/watch?v=Ynm1-cesCKc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 DAKİKA - Kukuli Tüm Bölümler 🐵 #Kukuli" https://www.youtube.com/watch?v=CWqcxDYo6_M
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 DAKİKA - Kukuli Tüm Bölümler 🐵 #Kukuli" https://www.youtube.com/watch?v=9uAkq1HmnXk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 MINUTES - Kukuli All Episodes 🐵 #Kukuli" https://www.youtube.com/watch?v=MiciVbSmOLI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Hello 👋 ❤️ 🎶 NEW SONG - Kukuli - Cartoons and Children's Songs" https://www.youtube.com/watch?v=mzfEvaBA9wY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Welcome Spring ☀️🌸 NEW EPISODE - Episode with Song - Kukuli" https://www.youtube.com/watch?v=N-EeF0UJbTI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Hadi gelin en sevilen #BakkalAmca şarkısını hep birlikte söylelim! Dans etme zamanı geeeeldi #shorts" https://www.youtube.com/watch?v=g3GK-foxm_Q
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Songs for Birds 🐦 Animal Love Kukuli - Cartoons and Children's Songs" https://www.youtube.com/watch?v=PaYalph_Isg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="50 MINUTES - Kukuli All Episodes Together 🐵" https://www.youtube.com/watch?v=cBOx5S9HueQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Look, there's a bird here! 🐦 Animals 🎶 We Learn with Kukuli - Educational Songs" https://www.youtube.com/watch?v=BV7AMDz5h-c
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Once Upon A Time - POLKKA 🎶 Rhyme Song - Kukuli - Cartoon and Children's Songs" https://www.youtube.com/watch?v=PwpN8l3UQXo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="İYİ BAYRAMLAR! Hadi dans edelim! 🕺💃 Kukuli - Çizgi Film ve Çocuk Şarkıları" https://www.youtube.com/watch?v=LSRZHj81-2I
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="10 Şarkı Bir Arada 🎶 Kukuli En Sevilen Şarkılar" https://www.youtube.com/watch?v=V7zrGJlGZDs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Educational 4 Songs in One - Opposite concepts, Animals, Colors, Shapes" https://www.youtube.com/watch?v=jgW1A-fqVHk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Animals 🎶 We Learn with Kukuli - Educational Songs" https://www.youtube.com/watch?v=pIsyxxvjaoM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Tut Tut 🚽 Kukuli - NEW - Toilet Song" https://www.youtube.com/watch?v=M2NsLqRmZ6g
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 DAKİKA - Kukuli Tüm Bölümler 🐵" https://www.youtube.com/watch?v=bO1UEc7ou6c
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 DAKİKA - Kukuli Tüm Bölümler 🐵" https://www.youtube.com/watch?v=ecpFArVwAz0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Read 📚 NEW EPISODE - Episode with Song - Kukuli" https://www.youtube.com/watch?v=QyjxWTtkffk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Read 📚 NEW SONG - Episode with Song - Kukuli" https://www.youtube.com/watch?v=5_Oi6HRZEy4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Colors 🎶 We Learn with Kukuli - Educational Songs" https://www.youtube.com/watch?v=yPFAaCNu1Lw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 DAKİKA - Kukuli Tüm Bölümler 🐵" https://www.youtube.com/watch?v=3WQm1twKU2U
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="CAKE - Uncle Grocery Store 🍬 NEW EPISODE - Kukuli #UncleBakkal" https://www.youtube.com/watch?v=IyoGJNXHtz8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Sarıl Dostuna ❤️ YENİ ŞARKI 🎶 Kukuli" https://www.youtube.com/watch?v=6V_L9WLZTTk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="I Brush My Teeth 🦷 Kukuli - World Hygiene Day SPECIAL SONG" https://www.youtube.com/watch?v=dLaadjd1G7U
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Opposites 🎶 We Learn with Kukuli - Educational Songs" https://www.youtube.com/watch?v=bSnnthxFpt8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="40 DAKİKA - Kukuli Tüm Bölümler 🐵" https://www.youtube.com/watch?v=DqDAR7q8_7U
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="BOX - Grocery Uncle 🍬 NEW EPISODE - Kukuli #BakkalAmca" https://www.youtube.com/watch?v=X12AOoNjnn4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Songs for Kids | Best Cartoons & Kids Songs | 8 KIDS SONGS" https://www.youtube.com/watch?v=uC7JLgvZr7Q
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Winter Songs for Children" https://www.youtube.com/watch?v=r1rlEsvl76I
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons for Children | Kids Cartoon |  Funny Cartoons and Songs by Kukuli" https://www.youtube.com/watch?v=YI47KMghSyM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Evin Haylazları - Tinky, Minky ve Kukuli'nin Evinde Neler Oluyor ?" https://www.youtube.com/watch?v=fHFU9d-HP74
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Funny Kids Videos Part 1 | Cartoons Compilation | Kindergarten Songs Baby Songs" https://www.youtube.com/watch?v=G2zxGoNTf5Y
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Funny Kids Videos Part 5 | Cartoons Compilation | Kindergarten Songs Baby Songs" https://www.youtube.com/watch?v=VCg9IyVvRtk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Funny Adventures" https://www.youtube.com/watch?v=tKOS5IJstjE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Cartoons Compilation | 2 Episodes | Cartoons for Kids & Kindergarten Songs" https://www.youtube.com/watch?v=B6UOjHII-qg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - 5 Şarkı Bir Arada | Tinky Minky ile Çocuk Şarkıları | Bebek Şarkıları Eğitici Çizgi Filmler" https://www.youtube.com/watch?v=SGMhhdD1xgo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Camping and Racing - 2 Episodes Together | Cartoon Children's Songs" https://www.youtube.com/watch?v=4-6vWP-hr_s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - 4 Şarkı Bir Arada | Tinky Minky ile Çocuk Şarkıları & Bebek Şarkıları 2017" https://www.youtube.com/watch?v=mVskZodCpAE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Funny Kids Videos Part 2 | Cartoons Compilation | Kindergarten Songs Baby Songs" https://www.youtube.com/watch?v=TFfLLglMg3s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Elini Yıka ve Tut Tut | Eğitici Çizgi Film Çocuk Şarkıları | Bebek Şarkıları 2017" https://www.youtube.com/watch?v=Lj9uSo25U2A
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Funny Kids Videos Part 4 | Cartoons Compilation | Kindergarten Songs Baby Songs" https://www.youtube.com/watch?v=cwn8kfAjvwQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Funny Kids Videos Part 3 | Cartoons Compilation | Kindergarten Songs Baby Songs" https://www.youtube.com/watch?v=1H0V-63l5Tg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Pasaklı Kukuli ve Abur Cubur - İki Bölüm Bir Arada" https://www.youtube.com/watch?v=AV_ksePtR-4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Neşeli Çocuk Şarkıları ile Yaza Merhaba" https://www.youtube.com/watch?v=aejQodBGjRQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Nursery Rhymes Collection | Kindergarten Songs & Cartoons for Kids Toddlers | 90 Minutes" https://www.youtube.com/watch?v=mpayQXljgn0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - En Komik Bölümler ve En Sevilen Çocuk Şarkıları Birarada" https://www.youtube.com/watch?v=6EkaIdYeS3c
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Temizlik ve Hijyen Partisi - Çocuk Şarkıları & Çizgi Film 2017" https://www.youtube.com/watch?v=JQNCrflyYuo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Funny Cartoons for Kids | Nursery Rhymes and Funny Songs by Kukuli | Donkey My Friend" https://www.youtube.com/watch?v=t1AadJ_jR9c
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli -  Dişlerimi Fırçalarım ve Kukuli Çocuk Şarkıları- 6 BÖLÜM BİR ARADA" https://www.youtube.com/watch?v=groh5atgtEw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Full 50 Minutes Tinky Minky Songs | Cartoon Children's Songs 2017" https://www.youtube.com/watch?v=83kCWhG5fqA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Nursery Rhymes Collection | 5 Kids Songs | Cartoons for Kids Toddlers | Kindergarten Songs" https://www.youtube.com/watch?v=Y8_sCuF-QHE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Abur Cubur ve Tinky Minky Çocuk Şarkıları | Çizgi Film Bebek Şarkıları 2017" https://www.youtube.com/watch?v=UgCMFQ34IXc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Kar Yağıyor ve En Sevilen Tinky Minky Kukuli Şarkıları | Çizgi Fİlm Çocuk Şarkıları 2017" https://www.youtube.com/watch?v=TeGvtWllMg4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli -  En Az Yarım Dakika Elini Yıka Çocuk Şarkısı ve En Sevilen Bebek Şarkıları - TAM 40 DAKİKA" https://www.youtube.com/watch?v=YleeTrrNpFc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - All Episodes and Kids Songs - Educational Cartoon Baby Songs with Tinky Minky" https://www.youtube.com/watch?v=aODvQlm6Xw0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Cartoons for Kids | Nursery Rhymes and Funny Songs by Kukuli | 60 Min Kids Songs and Episodes" https://www.youtube.com/watch?v=MozP1uo_4cI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Tüm Kısa Videolar - Tinky Minky ile En Komik Çizgi Fim Bölümleri" https://www.youtube.com/watch?v=sUFzxwCOepo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli -  En Az Yarım Dakika Elini Yıka ve En Sevilen Kukuli Çocuk Şarkılarıyla - 6 BÖLÜM BİR ARADA" https://www.youtube.com/watch?v=TBXRq65tW9k
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Sağlıklı Beslenme | Tinky Minky ile Paylaşmak Güzeldir Çocuk Şarkısı ve Çizgi Filmler" https://www.youtube.com/watch?v=eyANRCuD9Yw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Nursery Rhymes Compilation | All Kids Songs | Cartoons for Kids Toddlers Kindergarteners" https://www.youtube.com/watch?v=2Pk4Hmn6iCc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Eğitici Öğretici Şarkılar | Tinky Minky ile Çizgi Film Çocuk Şarkıları | Bebek Şarkıları" https://www.youtube.com/watch?v=r7z81qnY1Aw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - All Episodes Together (One Hour Video)" https://www.youtube.com/watch?v=UW0cN0M0gdA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Songs for Kids | Best Cartoons & Kids Songs | 8 KIDS SONGS" https://www.youtube.com/watch?v=nHq-f8LnPhs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Funny Gags for Children" https://www.youtube.com/watch?v=ThfO95URgEc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli –Cartoons for Children | Kids Songs Collection | Cartoon Collection" https://www.youtube.com/watch?v=u9XmepTcBl8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Children | Kids Songs and Animation | Cartoon Collection" https://www.youtube.com/watch?v=q09OvmlCuAA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Collection of Kids Songs| Nursery Rhymes & Funny Cartoons for Kids" https://www.youtube.com/watch?v=fXwTQsuTwj0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Funny Adventures" https://www.youtube.com/watch?v=ZpyIan62eoU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Kids Songs Collection | Nursery Rhymes & Cartoons for Kids" https://www.youtube.com/watch?v=_B4nVzvVOM4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons for Children | Kids Cartoon |  Funny Songs by Kukuli" https://www.youtube.com/watch?v=Xofq8c394RI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons for Children | It is Snowing | Winter Song + More Funny Songs by Kukuli" https://www.youtube.com/watch?v=zEHpVoKCem8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Potty Training Song | Nursery Rhymes & Cartoons for Children | Funny Songs" https://www.youtube.com/watch?v=_DkE-GYj5jE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Educative Cartoons for Kids | Kids Songs & Funny Cartoons for Children" https://www.youtube.com/watch?v=NW0l-EI1PTs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Educative Kids Songs | Funny Gags for Children" https://www.youtube.com/watch?v=I3Y6kn5qUts
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Gags for Kids | Funny Kids Songs | Educative Cartoons for Children" https://www.youtube.com/watch?v=4BasoVhheV4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Gags for Kids | Educative Kids Songs | Funny Cartoons & Adventures" https://www.youtube.com/watch?v=kzIDYZzu3xI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Songs for Kids | Best Cartoons & Kids Songs | 10 SONGS" https://www.youtube.com/watch?v=oi3btT3DhLE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Cartoons for Kids | Best Episodes Compilation & Kids Songs | 45 MINUTES" https://www.youtube.com/watch?v=zRk-0GPcYOU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons & Songs for Kids |Funny Cartoons |All Adventures of Tinky" https://www.youtube.com/watch?v=GuwwDjKirQQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons for Kids & Toddlers | Sandcastle | + More Fun Cartoons by Kukuli" https://www.youtube.com/watch?v=w8y5Qo_5Vjs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Kids Songs Compilation | Nursery Rhymes & Cartoons for Kids" https://www.youtube.com/watch?v=bSKHrK26fFw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons for Kids & Toddlers | Baby Songs | All Adventures of Minky" https://www.youtube.com/watch?v=1LFaPg9L2Mc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Nursery Rhymes Compilation | Kids Songs & Baby Songs 2017 | Cartoons for Kids" https://www.youtube.com/watch?v=a0hi0wmwhzA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Funny Videos for Kids | Funny Cartoons for Toddlers & Kids Songs" https://www.youtube.com/watch?v=NKQm8Wg2NNk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Cartoons & Kids Songs | Funny Songs & Nursery Rhymes | Tinky Minky Kukuli Songs | 35 Min" https://www.youtube.com/watch?v=YggWpz7zi_0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli – Cartoons for Children & Toddlers | Fun Cartoons & Kindergarten Songs" https://www.youtube.com/watch?v=TTXqHONopZA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Cartoons Compilation | Kids Songs and Cartoons for Kids | Kindergarten Songs" https://www.youtube.com/watch?v=xa6OTHll3ho
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Best Nursery Rhymes for Toddlers | Kids Songs & Baby Songs | Cartoons for Children" https://www.youtube.com/watch?v=5qBvnao8AAo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli ve Arkadaşları Spor Yapıyor" https://www.youtube.com/watch?v=p2fxo9ypIos
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Fıkır Fıkır Kukuli" https://www.youtube.com/watch?v=aw-bN5AI3Nc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Car Race | Nursery Rhymes and Cartoons for Kids Toddlers | Kindergarten Songs | All Adventures" https://www.youtube.com/watch?v=TjC_Ac1hN44
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Abur Cubur" https://www.youtube.com/watch?v=xAeGUo8m-b0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli - Tüm Bölümler Bir Arada" https://www.youtube.com/watch?v=K0pevdKa12Q
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="NEW EPISODE: BATHROOM 🛁 Uncle Grocer 🍬 Kukuli #UncleGrocer - Cleaning Song" https://www.youtube.com/watch?v=wPU-cnfk6JM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Junk Food NEW CLIP 🎶 Kukuli Children's Songs - Nutrition Song" https://www.youtube.com/watch?v=xYYInC6h9ms
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Affettim - Kukuli 🐵✨ | Dostluk ve Sevgi Dolu YENİ ŞARKI!" https://www.youtube.com/watch?v=UAY3ujWbV4A
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Bakkal Amca Ramazan Bayramı Özel! 🎉 | Kukuli #kukuli #çocukşarkıları #ramazan #shorts 🐵✨" https://www.youtube.com/watch?v=SOo6WfbMMTY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Bakkal Amca Ramazan Bayramı Özel! 🎉 | Kukuli - En Sevilen Şarkılar Koleksiyonu 🐵✨" https://www.youtube.com/watch?v=p5LWPiOFkMg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="📬 Bak Postacı Geliyor! | YENİ | Kukuli 🎶 | Eğlenceli Çocuk Şarkıları" https://www.youtube.com/watch?v=Wu_EYanzCik
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🌸☕️ İKİ BÖLÜM BİR ARADA: Hoşgeldin Bahar & Mini Mini Fincanlar – Kukuli 🐵🎶 | Çocuklar İçin Eğlence" https://www.youtube.com/watch?v=Waspp8yFXG0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Pazara Gidelim | Eğlenceli Çocuk Şarkısı | Kukuli Yeni Şarkı 🎉" https://www.youtube.com/watch?v=9Dmk42vU9h0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="2024 EN İYİ Şarkılar Bir Arada 🎶 Akşam Yatmaz, Pasaklı Kukuli, Kırmızı Balık, Otobüsün Tekerleği" https://www.youtube.com/watch?v=d-eb00Pg2Ow
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Pazara Gidelim 🎶 Kukuli - YENİ ŞARKI | Eğlenceli Çocuk Şarkısı 🥕 Koleksiyon" https://www.youtube.com/watch?v=4CaRG886aPE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Kırmızı Balık ve KUKULİ ŞARKILARI 🎶 En Sevilen Kukuli Şarkıları Bir Arada - Arı Vız Vız, Turşu" https://www.youtube.com/watch?v=qfR6n4rCiKY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Yağmur ☔️ Sonbahar Özel YENİ BÖLÜM - Kukuli" https://www.youtube.com/watch?v=5E6fHhNMHuk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Tüm Şarkılar Bir Arada 🎶 Küçük Kız, Küçük Kurbağa, Erik Dalı, Kırmızı Balık, Otobüsün Tekerleği" https://www.youtube.com/watch?v=RcpfMEdleIc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Küçük Kız 👧 Kukuli - YENİ - Nostaljik Şarkılar" https://www.youtube.com/watch?v=b4tXL8fQ7vo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="2024'ÜN EN SEVİLEN BÖLÜMLERİ 30 Dakika Boyunca - Kukuli | Çocuklar için Çizgi Filmler" https://www.youtube.com/watch?v=0D9oMtrNvQI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli'den yepyeni bir şarkı: 🎶 Affettim - Kukuli 🐵✨ | Dostluk ve Sevgi Şarkısı #kukuli #shorts" https://www.youtube.com/watch?v=SQMEh2Ek-pE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bakkal Amca Küçük Kurbağa Dansı 🐸 Kukuli - YENİ ŞARKI" https://www.youtube.com/watch?v=ApGpvjerzK0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Dütdüt'ün Tekerleği Hangi Renk 🚘 🚌 YENİ DÜTDÜT ŞARKISI #otobüsüntekerleği" https://www.youtube.com/watch?v=ENhXuVM_wfU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Renkleri Öğrenelim 🎶 KIRMIZI BALIK Sarı, Mavi Hayvanlar Şarkıları 🐝🐟 Çocuklar için Eğitici Şarkılar" https://www.youtube.com/watch?v=FvoV2Di8I1k
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Çekirge Ve TOPLU KUKULİ HAYVANLAR İÇİN ŞARKILAR  🎶 Kukuli" https://www.youtube.com/watch?v=xgU8Ugliw-s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Çekirge 🎶 Kukuli - YENİ ŞARKIYI DİNLEDİNİZ Mİ? #kukuli #shorts #çekirge" https://www.youtube.com/watch?v=2WC2Ipf_jqk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Çekirge 🎶 Kukuli - YENİ ŞARKI" https://www.youtube.com/watch?v=UUUpYqKtSPw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Olimpiyatlar Özel KOLEKSİYON 🏋️⚽️🚴🎶  | Kukuli - Çocuklar için Spor ve Egzersiz Şarkısı ve Diğerleri" https://www.youtube.com/watch?v=yhhQDvQPlYQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bakkal Amca ile Dans Etmeye Hazır mısın? 🎶 TÜM ŞARKILAR ARALIKSIZ - Helva Yapsana, Spor Yapsana" https://www.youtube.com/watch?v=ZuHt2NyjJks
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Renkler 🎶 Kırmızı Balık, Sarı Balık, Mavi Arı Vız Vız 🐝🐟 Kukuli ile Öğreniyoruz - Eğitici Şarkılar" https://www.youtube.com/watch?v=s-W8w1A21yY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bakkal Amca Olimpiyatlar YENİ ŞARKI 🏋️⚽️🚴🎶  | Kukuli - Çocuklar için Spor ve Egzersiz Şarkısı" https://www.youtube.com/watch?v=XGzlLIBvuRs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bakkal Amca - Uncle Grocer Olympics Special 🏋️ | Kukuli - Sports and Exercise Song for Kids" https://www.youtube.com/watch?v=gUCVfoLqVPA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bakkal Amca ile Yemek Yapıyoruz 🍬🎶  | Kukuli - Çocuklar için Şarkılar En Sevilenler" https://www.youtube.com/watch?v=JRliJ9ILBGU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bekle Beni Ay 🎶 Astronot 👩‍🚀🌎 Gezegenler ve Diğerleri | Özel Koleksiyon Şarkılar" https://www.youtube.com/watch?v=3ZdQb8OkMhQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bütün Şarkılar 🎶 Çocuklara Bayram Hediyesi 🎈 Pasaklı Kukuli, Kar Yağıyor, Kırmızı Balık" https://www.youtube.com/watch?v=DuQNQKGI5l4
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="İKİ BÖLÜM BİR ARADA: Özür Dilerim & Sesler Karıştı - Kukuli | Çocuklar için Çizgi Filmler" https://www.youtube.com/watch?v=oq2PqtlNSHg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli'den UZAY Şarkıları:  Bekle Beni Ay 🎶 Astronot 👩‍🚀🌎 Gezegenler | Özel Koleksiyon" https://www.youtube.com/watch?v=vktXMzfRfj8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli'den yepyeni bir şarkı: 🎶 Affettim - Kukuli 🐵✨ | Dostluk ve Sevgi Şarkısı #kukuli #shorts" https://www.youtube.com/watch?v=OrLEzPzl2pI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎉👏 Mutluysan Alkışla – Kukuli'den YENİ ŞARKI | If You’re Happy Türkçe 🐵🎶 #shorts #kukuli" https://www.youtube.com/watch?v=QBV9icHB67s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Tüm Şarkılar Bir Arada 🎶 Mutluysan Alkışla, Küçük Kurbağa, Erik Dalı, Otobüsün Tekerleği" https://www.youtube.com/watch?v=OG-B9d-xfiA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="A Harfi 🎵 ABC Alfabe Şarkısı 📚 | Eğitici Çocuk Şarkıları 2025 🅰️ Kukuli #shorts" https://www.youtube.com/watch?v=9SrVVLeP0lo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Tüm Şarkılar Bir Arada 🎶 Mutluysan Alkışla, Küçük Kurbağa, Erik Dalı, Otobüsün Tekerleği" https://www.youtube.com/watch?v=P7kL8yrlkxc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🍪 Kurabiyeyi Kim Aldı? 👀 Kukuli’nin Yeni Eğlenceli Şarkısı | Paylaşmak Güzeldir 🎶 #shorts #kukuli" https://www.youtube.com/watch?v=4qXYZ5wCPrE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🍪 Kurabiyeyi Kim Yedi, Erik Dalı, Otobüs ve Diğer Şarkılar  👀 Televizyon Özel Koleksiyon | 🎶" https://www.youtube.com/watch?v=2pECLMhqvJQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🍪 Kurabiyeyi Kim Aldı? 👀 Kukuli’nin Yeni Eğlenceli Şarkısı | Paylaşmak Güzeldir 🎶 #shorts #kukuli" https://www.youtube.com/watch?v=XOesKBcaWV8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🍪 Kurabiyeyi Kim Aldı? 👀 Kukuli’nin Yeni Eğlenceli Şarkısı | Paylaşmak Güzeldir 🎶" https://www.youtube.com/watch?v=gVOZPu3ay-g
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Çocuklar için Çizgi Film: 3 BÖLÜM BİR ARADA - Kukuli'nin Maceraları 🐵" https://www.youtube.com/watch?v=zyS4zHgnd9o
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎉🐵 Mutluysan Alkışla, Bak Postacı Geliyor, Otobüsün Tekerleği + Tüm Kukuli Şarkıları! 🎶" https://www.youtube.com/watch?v=dO6rs6LeECY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Tüm Şarkılar Bir Arada 🎶 Mutluysan Alkışla, Küçük Kurbağa, Erik Dalı, Otobüsün Tekerleği" https://www.youtube.com/watch?v=YluOoh81Vmg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="A Harfi 🎵 ABC Alfabe Şarkısı 📚 | Eğitici Çocuk Şarkıları 2025 🅰️ Kukuli #shorts" https://www.youtube.com/watch?v=d8AYPuc7pfM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🐮 Bakkal Amca’nın Çiftliği 🎶 Ali Baba'nın Çiftliği Şarkısı | Kukuli ile Eğlenceli Hayvanlar" https://www.youtube.com/watch?v=VK41n4-AgKw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="A Harfi 🎵 ABC Alfabe Şarkısı 📚 | Eğitici Çocuk Şarkıları 2025 🅰️ Kukuli #shorts" https://www.youtube.com/watch?v=ZPybULlxUzA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎉👏 Mutluysan Alkışla – Kukuli | YENİ ŞARKI | If You’re Happy Türkçe 🐵🎶" https://www.youtube.com/watch?v=p4rcWhe3Qm8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Tüm Şarkılar Bir Arada 🎶 Mutluysan Alkışla, Küçük Kurbağa, Erik Dalı, Otobüsün Tekerleği" https://www.youtube.com/watch?v=MLKirHMFTfo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="A Harfi 🎵 ABC Alfabe Şarkısı 📚 | Eğitici Çocuk Şarkıları 2025 🅰️ Kukuli YENİ" https://www.youtube.com/watch?v=6zkTjlPdjIY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Renkleri Öğrenelim 🎶 Arı Vız Vız, Kırmızı Balık, Küçük Kurbağa 🐝🐟 Çocuklar için" https://www.youtube.com/watch?v=xctL1VuEx_A
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Tüm Şarkılar Bir Arada 🎶 Mutluysan Alkışla, Küçük Kurbağa, Erik Dalı, Otobüsün Tekerleği" https://www.youtube.com/watch?v=CIqQ0ORppNk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="📦🎵 Bak Kargocu Geliyor! | YENİ | Kukuli 🎶 | Eğlenceli Çocuk Şarkıları #shorts s" https://www.youtube.com/watch?v=5slqQBQp5B8
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="📦🎵 Bak Kargocu Geliyor! | YENİ | Kukuli 🎶 | Eğlenceli Çocuk Şarkıları | Bak Postacı Yeni Versiyon" https://www.youtube.com/watch?v=6YS3M-JVaNY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli'den yepyeni bir şarkı: 🎶 Affettim - Kukuli 🐵✨ | Dostluk ve Sevgi Şarkısı #kukuli #shorts" https://www.youtube.com/watch?v=gHkJsT-Oy8o
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Yeni şarkı şimdi sizlerle: 🍰 Karnım Acıktı🍴 Eğlenceli Kukuli Şarkısı | YENİ 🎶 Çocuklar İçin" https://www.youtube.com/watch?v=XV2b8iODVFE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="👏 Mutluysan Alkışla 🎶 Kukuli ile En Neşeli Şarkı Zamanı! 🐵 Hareketli ve Eğlenceli" https://www.youtube.com/watch?v=Y5rJJKLUEAA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="En Sevilen Kukuli Şarkıları 👏 Mutluysan Alkışla, Bak Postacı Geliyor, Otobüsün Tekerleği + Fazlası 🐵" https://www.youtube.com/watch?v=z5ss9HInnLg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Yeni şarkı şimdi sizlerle: 🍰 Karnım Acıktı🍴 Eğlenceli Kukuli Şarkısı | YENİ 🎶 Çocuklar İçin" https://www.youtube.com/watch?v=0B4O9yulZZU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🍰 Karnım Acıktı🍴 Eğlenceli Kukuli Şarkısı | YENİ 🎶 Çocuklar İçin" https://www.youtube.com/watch?v=aftTGfMdhls
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎉👏 Mutluysan Alkışla – Kukuli'den YENİ ŞARKI | If You’re Happy Türkçe 🐵🎶 #shorts #kukuli" https://www.youtube.com/watch?v=PuxrRn6UN5o
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎉🐵 Mutluysan Alkışla, Bak Postacı Geliyor, Otobüsün Tekerleği + Tüm Kukuli Şarkıları! 🎶" https://www.youtube.com/watch?v=d0JoGcJ_INI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="A Harfi 🎵 ABC Alfabe Şarkısı 📚 | Eğitici Çocuk Şarkıları 2025 🅰️ Kukuli #shorts" https://www.youtube.com/watch?v=nal36BKqSqU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Astronot Olmak İstiyorum 👩‍🚀🌎 Bekle Beni Ay 🎶 Gezegenler | - UZAY AYI Özel Koleksiyon" https://www.youtube.com/watch?v=5cgKswCEucI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Yaz Geldi ve Diğer Bahar Şarkıları - Kukuli - Çizgi Film ve Çocuk Şarkıları - YENİ KOLEKSİYON" https://www.youtube.com/watch?v=9SvbwMYMpgM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Dütdüt'ün Hikayesi 🚗 Kukuli YENİ BÖLÜM" https://www.youtube.com/watch?v=bI5sU76qaME
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli's 2 Favorite Episodes in One: Oku & Yağmur" https://www.youtube.com/watch?v=bqOYrkk8omk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="1 HOUR with Kukuli and His Friends All Songs and Episodes Best Children's Songs and Cartoons" https://www.youtube.com/watch?v=jirgEFTE8hs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="I Brush My Teeth 🎶🦷 Song and Episode Together | Kukuli - Oral and Dental Health Week SPECIAL SECTION" https://www.youtube.com/watch?v=ib9Dt69JgkI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Rain ☔️ NEW SONG - Kukuli" https://www.youtube.com/watch?v=741B6GPA3XI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Raining ☔️ NEW EPISODE - Kukuli" https://www.youtube.com/watch?v=zAxeX4Upj7Y
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli ve Arkadaşları ile 1 SAAT TÜM ŞARKILAR - En İyi Çocuk Şarkıları ve Çizgi Filmler" https://www.youtube.com/watch?v=lLIvCdpCG6w
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli ve Arkadaşları ile 50 Dakikalık Eğlencesi - En İyi Çocuk Şarkıları ve Çizgi Filmler" https://www.youtube.com/watch?v=83lilven4QA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Look, there's a cow here! 🐄 Animals 🎶 We Learn with Kukuli - Educational Songs" https://www.youtube.com/watch?v=8nmTjA9oDIs
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="10 MINUTES: Educational Children's Songs - Kukuli - Shapes / Seasons / Animals / Opposites / Colors" https://www.youtube.com/watch?v=09Rw9-kORLo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="30 Minutes: ENTERTAINING NEW EPISODES - Kukuli | Cartoons for Kids" https://www.youtube.com/watch?v=hCGxSkLLiQU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Thunder ⚡️ NEW EPISODE - Kukuliv" https://www.youtube.com/watch?v=zOprG3W_DQA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="1 HOUR - ENTERTAINING NEW EPISODES - Kukuli | Cartoons for Kids" https://www.youtube.com/watch?v=uMOSorL0jnE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="1 SAAT - EĞLENCELİ YENİ BÖLÜMLER - Kukuli | Çocuklar için Çizgi Filmler" https://www.youtube.com/watch?v=DdehlhSSuMM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli's 2 Favorite Episodes in One: I Want to Be an Astronaut & I'm Sorry" https://www.youtube.com/watch?v=fHbRNm89W_s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="All Episodes of Dütdüt - Kukuli All Songs Car Songs Car Cartoon 🐵 #Kukuli" https://www.youtube.com/watch?v=vE2P2tEaoB0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="I Want to Be an Astronaut 👩‍🚀🌎 NEW EPISODE - Kukuli - SPACE WEEK Special Episode" https://www.youtube.com/watch?v=qhGBEx3OIiQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Planets 👩‍🚀🌎 Kukuli - SPACE WEEK Special Song" https://www.youtube.com/watch?v=7kVKo0ZER_A
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="30 CONTINUOUS MINUTES - Kukuli All Episodes 🐵 #Kukuli" https://www.youtube.com/watch?v=hrNPSqrG_BI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Secret Space Lover Banana Detective Club 🔍 NEW EPISODE - Kukuli" https://www.youtube.com/watch?v=3nvQXGw7-IY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="UNCLE GROCERY ALL EPISODES: Breakfast, Cake, Bath 🍬 Kukuli #BakkalAmca - Children's Song" https://www.youtube.com/watch?v=5oo5Sijx-HU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="1 HOUR - ENTERTAINING NEW EPISODES - Kukuli | Cartoons for Kids" https://www.youtube.com/watch?v=-u_98BP0apQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 30 MINUTES CONTINUOUS SONGS: Kukuli's Most Popular and Entertaining Children's Songs 🎶" https://www.youtube.com/watch?v=5rzGTqTIwBY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="NEW EPISODE: BREAKFAST 🍅🍳 Uncle Grocer 🍬 Kukuli #UncleGrocer - Breakfast Song" https://www.youtube.com/watch?v=-0czVeFMZTc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="My Freckled Rooster | They Kidnapped My Rooster 🐔 NEW SONG 🎶 Kukuli - Turkish Popular Songs" https://www.youtube.com/watch?v=ukKV8Sqi0AI
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Sleep 😴💤 NEW EPISODE - Kukuli" https://www.youtube.com/watch?v=-D-B0paUzOM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="ICE CREAM 🎶 | Kukuli New Song SUMMER SONG LIKE A BOMB" https://www.youtube.com/watch?v=fj-qM1gqK-s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Hundred Banana Summer 🍌☀️🌊 NEW EPISODE - Kukuli" https://www.youtube.com/watch?v=lV4gpTm0kog
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Voices Confused 💥 NEW EPISODE - Song Episode - Kukuli - Animal Sounds" https://www.youtube.com/watch?v=nSIZJnVIHRg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="I Want to Be an Astronaut 👩‍🚀🌎 NEW SONG - Kukuli - SPACE WEEK Special Song" https://www.youtube.com/watch?v=OCnDbIkQdjk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="NEW EPISODE: SPORTS 🏋️‍♀️ Grocery Uncle 🍬 Kukuli #BakkalAmca - Exercise Song" https://www.youtube.com/watch?v=RUFAuhs5K4s
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🌟 Two Episodes in One - Favorite Kukuli Episodes: Hug Your Friend & I Want to Be an Astronaut 🚀" https://www.youtube.com/watch?v=imcBPUAkZXg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Little Frog 🐸 Kukuli - NEW SONG" https://www.youtube.com/watch?v=QA1ggzH3NGA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Wheels on the Bus 🚌 NEW SONG #wheelsonthebus" https://www.youtube.com/watch?v=xhJ6LmTA7AU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="EĞLENCELİ YENİ BÖLÜMLER 30 Dakika Boyunca - Kukuli | Çocuklar için Çizgi Filmler" https://www.youtube.com/watch?v=-htX3rUz2lc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Kırmızı Balık ve DİĞER KUKULİ ŞARKILARI | En Sevilen Kukuli Şarkıları Bir Arada - KIRMIZI BALIK" https://www.youtube.com/watch?v=AcdQYf1PvmE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🌟 Üç Bölüm Bir Arada Kukuli Bölümleri: Hoşgeldin Bahar & Mini Mini Fincanlar & Sarıl Dostuna" https://www.youtube.com/watch?v=qLQQOZ9HLSE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bahçe Konseri 🎺🪴 YENİ BÖLÜM - Kukuli - Bahar için Yeni bölümler" https://www.youtube.com/watch?v=c4q3eoPp2dc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bütün Şarkılar 🎶 23 Nisan Özel Yayın 🎈  Pasaklı Kukuli, Kar Yağıyor, Kırmızı Balık..." https://www.youtube.com/watch?v=XCbFl_LUa9o
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bakkal Amca Hepsi Birlikte Tüm Şarkılar 🍬🎶  | Kukuli - Çocuklar için Bayram Hediyesi Şarkılar" https://www.youtube.com/watch?v=VJ7LFVBrpxU
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bakkal Amca (Uncle Grocer')s Holiday Special Song 🍬🎶 | Kukuli - Holiday Gift Songs for Children" https://www.youtube.com/watch?v=ck0X0IHpJo0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🎶 Red Fish | and ALL SONGS | Most Popular Kukuli Songs Long Version" https://www.youtube.com/watch?v=1Ug6bLnfsY0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🐟🎶 Red Fish | Kukuli Songs for Children | Favorite RED FISH CHILDREN'S SONG" https://www.youtube.com/watch?v=eN1YFxBkFUo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Red Fish | Kukuli Animal Songs for Children | Bee, Frog, Meow, Rooster, RED FISH" https://www.youtube.com/watch?v=ia-6AFS7rUg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Yeni şarkının tamamı için şimdi kanalı ziyaret etmeyi unutmayın! Arı Vız Vız Vız 🐝 🌼 Kukuli #shorts" https://www.youtube.com/watch?v=SiplQSy6lhE
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="WAFFLE WAFFLE Turkish Song 🧇 Kukuli Funny Children's Songs | Honey, Chocolate, Blackberry, Banana" https://www.youtube.com/watch?v=R76aRrCb4AY
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bang-On Song, Karate and More in 30 Minutes Kukuli | Cartoons for Kids" https://www.youtube.com/watch?v=cBgV2b8K9Ms
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="It's Wherever You Put It ❓🎶 and 15 Minute Kukuli Children's Songs | Baby Songs 2024 | Kukili" https://www.youtube.com/watch?v=DFET2Lq7SMQ
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="ARI VIZ VIZ TURKISH - Bee Buzz Buzz Buzz 🐝 NEW SONG 🌼 Kukuli 2024 Children's Song" https://www.youtube.com/watch?v=-GZ1IdN0pbA
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Sürpriz hediyeli yarışma çok yakında: Arı Vız Vız Vız 🐝  #shorts #kukuli #çocuk #çizgifilm" https://www.youtube.com/watch?v=rsdQp95lhmM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Bee Buzz Buzz Buzz (NEW) 🐝 and Kukuli Children's Songs 2024 | Meow Meow, Plum Branch" https://www.youtube.com/watch?v=EOX0sF5a-Hg
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🏀🍉 Sock Balls Watermelon Basket - NEW EPISODE - Kukuli 🌟" https://www.youtube.com/watch?v=MdhO8303S4k
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🌟 Three Episodes in One Kukuli Episodes: I Want to Be an Astronaut & I Apologize & Voices" https://www.youtube.com/watch?v=K1BhakTU4UM
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Yeme bütün erikleri Kukuli | Erik Dalı Gevrektir 🎶 #Kukuli #erikdalı #shorts #komik #şarkı" https://www.youtube.com/watch?v=C015o3tvSB0
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="NEW AND FAST: Erik Dalı Gevrektir: Plum Branch is Crisp 🎶 Kukuli - NEW SONG Turkish Song" https://www.youtube.com/watch?v=pNccPEB9Pks
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Kukuli'den yepyeni şarkı geldi: Erik Dalı Gevrektir 🎶 #Kukuli #erikdalı #shorts #komik #şarkı" https://www.youtube.com/watch?v=dEI44jw3tXw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Erik Dalı Gevrektir 🎶 Plum Branch is Crisp 🎶 Kukuli - NEW SONG - Turkish folkloric song" https://www.youtube.com/watch?v=S2OL8b_mBkw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🌟 Three Episodes in One - Favorite Kukuli Episodes: Voices Mixed & Read & Rain 🌈" https://www.youtube.com/watch?v=hwQ7TDFI84Q
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="30 Minutes: ENTERTAINING NEW EPISODES - Kukuli | Cartoons for Kids" https://www.youtube.com/watch?v=v4p_bV1cppc
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="🌟 Two Episodes in One - Favorite Kukuli Episodes: Voices Mixed & Read" https://www.youtube.com/watch?v=N-pM0EwvQuk
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="25 Minutes WINTER SONGS ❄️🎶 Kukuli - It's Snowing, Snowman, Winter Song, Welcome New Year 2024" https://www.youtube.com/watch?v=kWEhoFYqdZw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="50 Minutes: Fun with Kukuli and Friends - Best Children's Songs and Cartoons" https://www.youtube.com/watch?v=txrEWhkiMHw
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="WE LEARN ENGLISH: Opposites 🎶 Educational Songs for Children - Turkish" https://www.youtube.com/watch?v=i4yGIvC8rSo
+#EXTINF:-1 tvg-id="Kukuli"  group-title="06yas" video-title="Nursery Rhymes Collection | All Kids Songs | Cartoons for Kids Toddlers Kindergarteners" https://www.youtube.com/watch?v=-5WNZYChlOo
 
-#EXTINF:-1 tvg-id="test1" group-title="60yas", https://www.youtube.com/watch?v=RSRBQHXksr8
+#6 YAS SONRASI VİDEOLAR
+#ROBOCAR
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Kamyonun Freni Bozulmuş│Robocar POLI çizgi film"https://www.youtube.com/watch?v=yeOHvG7Dw7A
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Arkadaşla Temizlik Yapalım│Robocar POLI En İyi Bölümler│Temizlik Yapalım│Robocar POLI çizgi film"https://www.youtube.com/watch?v=dzABGLNSqo4
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Robocar POLI çizgi film"https://www.youtube.com/watch?v=UUDPXDCYS6A
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Robocar POLI 1. Sezon Tüm Bölümler│1-26 Bölüm Tam Versiyon│5 Saat│Robocar POLI çizgi film"https://www.youtube.com/watch?v=qJt984UEZOI
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Ağız Bakterilerine Karşı Savaşalım│POLI Temizlik Görevi│Diş Fırçalama│Robocar POLI çizgi film"https://www.youtube.com/watch?v=ymMESbtutlE
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Robocar POLI 4. Sezon Tüm Bölümler│1-26 Bölüm Tam Versiyon│2 Saat│Robocar POLI çizgi film"https://www.youtube.com/watch?v=ZLhGL9XbtRo
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Robocar POLI 3. Sezon Tüm Bölümler│1-26 Bölüm Tam Versiyon│2 Saat│Robocar POLI çizgi film"https://www.youtube.com/watch?v=ENDoT5i1DEM
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Kahraman Robocar Poli Ekibi İş Başında! 🚓🚑🚁 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=wDbJ889WCEc
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Kamyon Terry'nin Başına Neler Geliyor? 🚛 Robocar Poli Ekibi İş Başında! 🚓🚑🚁 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=6lWcZDxgCA8
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Robocar Poli Macerası: Merak Dolu Koleksiyon! 🚓🚁🚑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=7bAfJkJayv4
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 En Sevilen Robocar Poli Bölümleri 💥 İzlemeye Doyamayacaksın! | Robocar Poli Türkçe"https://www.youtube.com/watch?v=c3V0kUvmiWU
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli ile School B’ye Yardım Ediyoruz! 🎈💪 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=X4cMF70qSps
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli Koleksiyonu Başladı! En Heyecanlı Maceralar Seni Bekliyor! 🎉 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=rN_EvF2CBjk
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli ile Eğlenceli ve Hızlı Maceraya Hazır Mısın? 💨🎉 Özel Koleksiyon | Robocar Poli Türkçe"https://www.youtube.com/watch?v=1Jfe39dbyKs
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚦 Caddeden Geçerken Geri Dönmeyin! Robocar Poli’den Güvenli Geçiş Dersi 🚓👧🛑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=M7nz11dyiuw
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli ile Eğlenceli ve Hızlı Maceraya Hazır Mısın? 💨🎉 Özel Koleksiyon | Robocar Poli Türkçe"https://www.youtube.com/watch?v=QdetlEcTwFM
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🌞 Yaz Geldi! Robocar Poli ile Sıcacık Maceralar Koleksiyonu 🚓🍉 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=3FkyUS-Z9p0
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="⏰ Uyuyakaldık! Acele Edin! Robocar Poli ile Macera Başlıyor 🚓💨 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=OY_BErrfcxU
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli Koleksiyon: En Heyecanlı Kurtarma Maceraları Seni Bekliyor! 🚁🚒🚑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=XZ7wZWIdDPo
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli Koleksiyon: En Heyecanlı Kurtarma Maceraları Seni Bekliyor! 🚁🚒🚑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=3ezSjzZh2Xw
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli Koleksiyon: En Heyecanlı Kurtarma Maceraları Seni Bekliyor! 🚁🚒🚑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=ZSxzpkIPdQs
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🌞 Bu Yaz Ne Yapalım? Robocar Poli ile Güvenli Tatil Eğlencesi 🚓🏖️ | Robocar Poli Türkçe"https://www.youtube.com/watch?v=RouPkeKCvAA
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli Koleksiyon: En Heyecanlı Kurtarma Maceraları Seni Bekliyor! 🚁🚒🚑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=QQE79etblw8
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="😬 Açgözlü Bay Wheeler Bacaya Sıkışırsa! Yardımlaşmanın Gücü 🚒🏠 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=NdB-ZsYLQ3k
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Arkadaşla Temizlik Yapalım│Robocar POLI En İyi Bölümler│Temizlik Yapalım│Robocar POLI çizgi film"https://www.youtube.com/watch?v=dzABGLNSqo4
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Kötü adam Serisi│POLI Özel Bölümleri│Poacher & Truck X│Hayvan Bölüm Özel│Robocar POLI çizgi film"https://www.youtube.com/watch?v=yYClwrHJvSo
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="küçük çocuklar için eğitici dizi│seçkin bölümler! Türkçe dublaj│Robocar POLI çizgi film"https://www.youtube.com/watch?v=8KnCZEdPIBg
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Seçkin bölümleri Türkçe izle! Görünmez alanlar│Robocar POLI çizgi film"https://www.youtube.com/watch?v=gGEmJZ_mowQ
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Okulunun Hediyesi│Robocar POLI çizgi film"https://www.youtube.com/watch?v=yuP3sQGguvU
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar  POLI│Düzenli Muayene Günü│Robocar POLI çizgi film"https://www.youtube.com/watch?v=Hr8PRif-QtI
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Hayalet'in Heyecanı│Robocar POLI çizgi film"https://www.youtube.com/watch?v=tPSYMpYjWOQ
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Acele etmemeye çalış│Robocar POLI çizgi film"https://www.youtube.com/watch?v=W_n_QbTyBnw
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgi Film Robocar POLI│Nereye gidiyorsun Pırpır│Robocar POLI çizgi film"https://www.youtube.com/watch?v=ABrSK3y9qIY
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Türkçe dublaj│Robocar POLI çizgi film"https://www.youtube.com/watch?v=_iMQpEWnZvw
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Seni seviyorum dedeciğim│Robocar POLI çizgi film"https://www.youtube.com/watch?v=kngHmjtyrxg
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Sözünü tut│Robocar POLI çizgi film"https://www.youtube.com/watch?v=imkZzQ4_u80
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm RobocarPOLI│Haydi Temizleyelim│Robocar POLI çizgi film"https://www.youtube.com/watch?v=K0Sea-mMT44
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Yol Kuralları│Robocar POLI çizgi film"https://www.youtube.com/watch?v=DF1PZ9ylR7A
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Güvenli top oynama│Robocar POLI çizgi film"https://www.youtube.com/watch?v=EP9QIzIv2mc
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli Koleksiyon: En Heyecanlı Kurtarma Maceraları Seni Bekliyor! 🚁🚒🚑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=dN9zpwHRZcA
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Beni'nin Rüyası│Robocar POLI çizgi film"https://www.youtube.com/watch?v=Rzx48z3LoRY
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Robocar POLI çizgi film│Caddeden geçerken geri dönmeyin│Robocar POLI çizgi film"https://www.youtube.com/watch?v=4aPPsLl5NJs
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Bisiklet Güvenliği│Robocar POLI çizgi film"https://www.youtube.com/watch?v=-wpaiXT-srg
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Karlı günün trafik kuralları│Robocar POLI çizgi film"https://www.youtube.com/watch?v=MXEEtx-mipA
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgi film Robocar POLI ve kurtarma ekibi│Seçkin bölümler!│Robocar POLI çizgi film"https://www.youtube.com/watch?v=9Dgw7qpRW58
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgi film Robocar POLI ve kurtarma ekibi│Seçkin bölümler 2!│Robocar POLI çizgi film"https://www.youtube.com/watch?v=Zj7A2J6WPfY
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Seçkin bölümler: Beton Telaşı ve Düzenli Muayene günü│Robocar POLI çizgi film"https://www.youtube.com/watch?v=kaouNc8jwps
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Seçkin bölümleri izle: Helly'nin doğum günü!│Robocar POLI çizgi film"https://www.youtube.com/watch?v=a-X4Cs0nxH4
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Robocar Poli çizgi film. Bisiklet güvenliği. Seçkin bölümler!│Robocar POLI çizgi film"https://www.youtube.com/watch?v=TbviBeumgek
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Brooms Şehrin kurtarma ekibi. Seçkin bölümleri Türkçe izle!│Robocar POLI çizgi film"https://www.youtube.com/watch?v=Sb3wViM2B28
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="'Arabaların arkasında' ve 'Sokakla ilgili' seçkin bölümler!│Robocar POLI çizgi film"https://www.youtube.com/watch?v=DLUWq3bQQ_E
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Saklambaç oynayalım! En güzel seçkin bölümleri Türkçe izle│Robocar POLI çizgi film"https://www.youtube.com/watch?v=5YmUxV-8eNU
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="Çizgifilm Robocar POLI│Enerji Krizinden Kaçış│Robocar POLI çizgi film"https://www.youtube.com/watch?v=xKCMU1NKing
+#EXTINF:-1 tvg-id="Robocar" group-title="60yas" video-title="🚓 Robocar Poli Koleksiyon: En Heyecanlı Kurtarma Maceraları Seni Bekliyor! 🚁🚒🚑 | Robocar Poli Türkçe"https://www.youtube.com/watch?v=NT5-kmq0kho
 
+#PETRONİX
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Çitayı Kurtar | MinikaGO" https://www.youtube.com/watch?v=D1oq0gSHAsg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Bölüm 6 | MinikaGO" https://www.youtube.com/watch?v=wa3BRc0orJQ
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Bölüm 7 | MinikaGO" https://www.youtube.com/watch?v=y38NSJoiVe0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Leopar 🤩 | MinikaGO" https://www.youtube.com/watch?v=VjGCPbfHK4g
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Petronix Ekibi! 🤩 | MinikaGO" https://www.youtube.com/watch?v=hMd6JP93tdo
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Vahşi Doğa! 🤩 | MinikaGO" https://www.youtube.com/watch?v=FbHzoP29ems
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kurtarma Görevi! 🤩 | MinikaGO" https://www.youtube.com/watch?v=FwRMgcaR82o
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Bölüm 5 | MinikaGO" https://www.youtube.com/watch?v=7KcDBFC44pM
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Bölgeyi Kurtarmak! 🤩 | MinikaGO" https://www.youtube.com/watch?v=sm3LYXZ8Xhs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Güç! 🤩 | MinikaGO" https://www.youtube.com/watch?v=ilf5Mr4YKP0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kaçış Planı! 🤩 | MinikaGO" https://www.youtube.com/watch?v=_p1GIr9nWjg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Küçük Dost! 🤩 | MinikaGO" https://www.youtube.com/watch?v=4i7OZMtkCP0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Görev Tamam! 🤩 | MinikaGO" https://www.youtube.com/watch?v=F_stjKR5Es4
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Askerler! 🤩 | MinikaGO" https://www.youtube.com/watch?v=f4wKfFR752I
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kazanmak! 🤩 | MinikaGO" https://www.youtube.com/watch?v=cctHA9SxpAA
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Serbest Bırakalım! 🤩 | MinikaGO" https://www.youtube.com/watch?v=OH_VaLFd8Qs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Bölüm 4 | MinikaGO" https://www.youtube.com/watch?v=B7Jxu7YDDgk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Bölüm 3 | MinikaGO" https://www.youtube.com/watch?v=c1xvGRheYP8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Bölüm 2 | MinikaGO" https://www.youtube.com/watch?v=qUvaq0LDj5U
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 11🤩 | MinikaGO" https://www.youtube.com/watch?v=o7fPKboeoDw
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 6🤩 | MinikaGO" https://www.youtube.com/watch?v=DQruv-ji1hc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 7🤩 | MinikaGO" https://www.youtube.com/watch?v=WINto0ooc8g
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 8🤩 | MinikaGO" https://www.youtube.com/watch?v=Ryuix7YNKuM
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 9🤩 | MinikaGO" https://www.youtube.com/watch?v=ikK5Bz6nSL8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 10🤩 | MinikaGO" https://www.youtube.com/watch?v=tbcZLQ83jUI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 12🤩 | MinikaGO" https://www.youtube.com/watch?v=D4BvPFDHu9E
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 13🤩 | MinikaGO" https://www.youtube.com/watch?v=LCoeRrURNEY
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 1 Saat Özel Bölüm🤩 | MinikaGO" https://www.youtube.com/watch?v=mNNXLKrixM8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kurtarma Operasyonu 🤩 | MinikaGO" https://www.youtube.com/watch?v=96Bc8IT5G7c
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Yeni Görev Hazırlığı🤩 | MinikaGO" https://www.youtube.com/watch?v=ehGhQrsmsBM
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kar Kurtarışı ❄️​ | MinikaGO" https://www.youtube.com/watch?v=yFtVHJXx7Hg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Güçleri Birleştirmek​🤜​🤛​​ | MinikaGO" https://www.youtube.com/watch?v=GdVeF0P4knI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kahramanlık Zamanı😎​​ | MinikaGO" https://www.youtube.com/watch?v=5O9UMBb8IHk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Özel Bölüm 1​​ | MinikaGO" https://www.youtube.com/watch?v=oXY7KeXIiAw
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Görevi İzliyoruz! 🤩 | MinikaGO" https://www.youtube.com/watch?v=KT0b1niVEYU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Haydi Gemiye! 🤩 | MinikaGO" https://www.youtube.com/watch?v=aJoGai_VCa8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Hayvan Dostlar ! 🤩 | MinikaGO" https://www.youtube.com/watch?v=qF_ifSoELyQ
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 2. Bölüm" https://www.youtube.com/watch?v=erQZPp66SW8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 14. Bölüm" https://www.youtube.com/watch?v=GnQZF2ZpAZs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 34. Bölüm" https://www.youtube.com/watch?v=LgIbQMZDKEE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 13. Bölüm" https://www.youtube.com/watch?v=TzycJyMeBQg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 23. Bölüm" https://www.youtube.com/watch?v=Yi2swUVy75U
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 30. Bölüm" https://www.youtube.com/watch?v=YiOgdbtH-Vg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 32. Bölüm" https://www.youtube.com/watch?v=fBviqkZyyq4
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 25. Bölüm" https://www.youtube.com/watch?v=gZIrcY8O_Is
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix 36. Bölüm" https://www.youtube.com/watch?v=iHdPkvNVFaI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 15. Bölüm" https://www.youtube.com/watch?v=jP-12HCdbZI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 17. Bölüm" https://www.youtube.com/watch?v=kksGAIec3qM
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 16. Bölüm" https://www.youtube.com/watch?v=oONG0vgiuLo
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 26. Bölüm" https://www.youtube.com/watch?v=p3TOk8Z3LvY
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 19. Bölüm" https://www.youtube.com/watch?v=phMjvPrceEI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 28. Bölüm" https://www.youtube.com/watch?v=sC7rMmOEtnE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20. Bölüm" https://www.youtube.com/watch?v=sNYK_RHcTfc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 33. Bölüm" https://www.youtube.com/watch?v=EvsuKbw96n8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 5🤩 | MinikaGO" https://www.youtube.com/watch?v=nYoBm92PSMM
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 24. Bölüm" https://www.youtube.com/watch?v=9n7-vkinOyg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 31. Bölüm" https://www.youtube.com/watch?v=7_-YT4FrQXc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 3. Bölüm" https://www.youtube.com/watch?v=nFDoNaueHwE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 9. Bölüm" https://www.youtube.com/watch?v=5663fvepBqo
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 7. Bölüm" https://www.youtube.com/watch?v=5jv8Kbf5C-o
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 1. Bölüm" https://www.youtube.com/watch?v=6n_tcSq9g4I
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 4. Bölüm" https://www.youtube.com/watch?v=LvsOqbqlHxg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 8. Bölüm" https://www.youtube.com/watch?v=X2VU1tg_pS0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 2. Bölüm" https://www.youtube.com/watch?v=erQZPp66SW8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 5. Bölüm" https://www.youtube.com/watch?v=mKHNnDJ3DyE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 3. Bölüm" https://www.youtube.com/watch?v=nFDoNaueHwE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 6. Bölüm" https://www.youtube.com/watch?v=tMR5QhJUNKU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 10. Bölüm" https://www.youtube.com/watch?v=16uwVvcZg14
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 21. Bölüm" https://www.youtube.com/watch?v=2-m0jqFwtcU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 29. Bölüm" https://www.youtube.com/watch?v=2c17PdOMWXg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 12. Bölüm" https://www.youtube.com/watch?v=2zp4ZSbofZk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 18. Bölüm" https://www.youtube.com/watch?v=6jJ7lxeScUw
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 35. Bölüm" https://www.youtube.com/watch?v=7gdRyG6LvaI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 22. Bölüm" https://www.youtube.com/watch?v=slfMP-j8jos
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 4🤩 | MinikaGO" https://www.youtube.com/watch?v=pc4WR974LNk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 2🤩 | MinikaGO" https://www.youtube.com/watch?v=1enbLxSTxhk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Lamayı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=4s2OOYtxij0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kutup Ayısını Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=1n_CpMyRXHk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Gorili Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=TLRJg-PL3L0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Lemuru Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=f_wswJ_zZKM
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Fil Ailesini Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=U0jBQ0PYioo
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Koalayı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=10-WsqQp5rE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kurt Yavrusunu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=DLIAgKu1HQo
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Zebra Çiftini Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=AOvC0VE69zc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Bebek Fili Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=CWXUiV2R40o
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Mavi Tavuskuşunu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=1zPEXtTQ0tk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Çinçilayı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=53A6w5jc7z0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Gine Köpeğini Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=FxQxolahuDs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Pembe Flamingoları Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=nz7JCmKJ_qc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Çitayı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=BlTiMJcGnIc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Galagoyu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=bzbzhm4oQA4
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kar Leoparını Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=p2qbgVrQxOs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Gözlüklü Ayıyı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=SN04OItug6A
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Akbabayı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=CDbWR_JzuXI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Aslanı Kurtar | MinikaGO" https://www.youtube.com/watch?v=67PaIIucQDs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Zebrayı Kurtar | MinikaGO" https://www.youtube.com/watch?v=SnVZPNY_ytc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Mirket Ailesini Kurtar | MinikaGO" https://www.youtube.com/watch?v=o99rsHld2e0
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Penguen Sürüsünü Kurtarmak 🐧 | MinikaGO" https://www.youtube.com/watch?v=f1TRcbRvxiY
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İmparator Penguenini Kurtar | MinikaGO" https://www.youtube.com/watch?v=TSUGrsKZ-OU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Ren Geyiğini Kurtar 🦌 | MinikaGO" https://www.youtube.com/watch?v=ADuZBKVLexs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kar Baykuşunu Kurtarmak 🦉 | MinikaGO" https://www.youtube.com/watch?v=LFNWHmdJozQ
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Husky'i Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=lyCQ5gb-8KI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Gelinciği Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=kqtyO7W2KLE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kutup Fokunu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=RwBrAfpI7As
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Bukalemunu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=WeLzO4_Ihas
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Tilki Yavrusunu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=IL5Eg5QiLig
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Tavşanı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=bccz891crtg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Benekli Yaban Kedisini Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=ejJ2sVyRhUI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kapuçin Maymununu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=fka9jIM2W1c
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Kızıl Kanguruyu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=Skjq0c_XydE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Tepeli Pelikanı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=9OCCdIjyDq8
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Altın Kurbağayı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=xsnf3UggakQ
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Rakunu Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=ryGODF-em2Q
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 10🤩 | MinikaGO" https://www.youtube.com/watch?v=RO2p30rH-wE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 11🤩 | MinikaGO" https://www.youtube.com/watch?v=BzCeEZrR00k
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler🤩 | MinikaGO" https://www.youtube.com/watch?v=hfoyrQ0IArU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 2🤩 | MinikaGO" https://www.youtube.com/watch?v=wQOlUJiRMTA
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 3🤩 | MinikaGO" https://www.youtube.com/watch?v=ybUUprcGGWI
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 4🤩 | MinikaGO" https://www.youtube.com/watch?v=f7bUjp6Nn3s
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 5🤩 | MinikaGO" https://www.youtube.com/watch?v=6XiKgnOyOmc
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 6🤩 | MinikaGO" https://www.youtube.com/watch?v=kGyA6KvgYkg
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 6🤩 | MinikaGO" https://www.youtube.com/watch?v=6HGGXb-8Fng
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 7🤩 | MinikaGO" https://www.youtube.com/watch?v=IeE1De2fyak
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | En Sevilen Bölümler - 8🤩 | MinikaGO" https://www.youtube.com/watch?v=AWLcZgQAG0w
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 45 Dakika Özel Bölüm🤩 | MinikaGO" https://www.youtube.com/watch?v=5NFf1xFlLQU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 45 Dakika Özel Bölüm - 2🤩 | MinikaGO" https://www.youtube.com/watch?v=1beAceCY8cU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 45 Dakika Özel Bölüm - 3🤩 | MinikaGO" https://www.youtube.com/watch?v=vWMAZl7Bxss
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada 🤩 | MinikaGO" https://www.youtube.com/watch?v=KrhFJFMVclk
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 9🤩 | MinikaGO" https://www.youtube.com/watch?v=1PEFD68pt64
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İki Bölüm Bir Arada - 3🤩 | MinikaGO" https://www.youtube.com/watch?v=oVD0_-OYKXw
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 8🤩 | MinikaGO" https://www.youtube.com/watch?v=Xt8F94GQobo
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 6🤩 | MinikaGO" https://www.youtube.com/watch?v=1lqAll0JXi4
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Benekli Sırtlanı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=hlh8S89ly3c
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | İguanayı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=V0acd8yZM5s
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Tembel Hayvanı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=DNj-iZSQEAs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Muhabbet Kuşlarını Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=l6yGyRYVQNs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Gergedanı Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=cUVq6d2C4Do
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Poli'yi Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=GvY3B3exhFw
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Çöl Tilkisini Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=pTgkkyEG_9U
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Geyiği Kurtarmak | MinikaGO" https://www.youtube.com/watch?v=_Y4VGJwXahU
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Uçan Sincabı Kurtarmak: Bölüm 1 | MinikaGO" https://www.youtube.com/watch?v=XoOHbhn1HuA
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | Uçan Sincabı Kurtarmak: Bölüm 2 | MinikaGO" https://www.youtube.com/watch?v=6KuUcKlDh8s
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm 🤩 | MinikaGO" https://www.youtube.com/watch?v=PwUIx9tRBgw
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 2 🤩 | MinikaGO" https://www.youtube.com/watch?v=m9Y-ZvZoN-k
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 3🤩 | MinikaGO" https://www.youtube.com/watch?v=xS8ibkSOAxs
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 4🤩 | MinikaGO" https://www.youtube.com/watch?v=jBx5IZTKPno
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 5🤩 | MinikaGO" https://www.youtube.com/watch?v=vwSIlH9oDP4
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 20 Dakika Özel Bölüm - 7🤩 | MinikaGO" https://www.youtube.com/watch?v=FvS0iziFcpE
+#EXTINF:-1 tvg-id="Petronix"  group-title="60yas" video-title="Petronix | 11. Bölüm" https://www.youtube.com/watch?v=zkiNnaSZ4hU
 
-#EXTINF:-1 tvg-id="test2" group-title="9yas", https://www.youtube.com/watch?v=RSRBQHXksr8
+#RAFADAN TAYFA
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 127. Bölüm (Bakkal Defteri)" https://www.youtube.com/watch?v=wh928EmPS3Y
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 33. Bölüm ( Dünya Rekoru )" https://www.youtube.com/watch?v=Jzy4jbbl57A
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 37. Bölüm ( Çöl Sıcağı )" https://www.youtube.com/watch?v=KF3z_-5ikvc
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 36. Bölüm ( Rüya Peşinde )" https://www.youtube.com/watch?v=GP6O6o-GMV0
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 35. Bölüm ( Anı Rozetleri )" https://www.youtube.com/watch?v=RXwv2QKs9Is
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 34. Bölüm ( Tiyatro Kulübü )" https://www.youtube.com/watch?v=Bp4cuVJYlRM
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 38.  Bölüm ( Masa Tenisi )" https://www.youtube.com/watch?v=9liQppFglpg
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 31. Bölüm ( Trafik Haftası )" https://www.youtube.com/watch?v=Of-t1z7pgJ8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 39. Bölüm ( Çember Yarışı )" https://www.youtube.com/watch?v=0HFNv96lZyI
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 40. Bölüm ( Gezgin Ekibi )" https://www.youtube.com/watch?v=8YlhDVXHZUQ
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 41. Bölüm ( Muhteşem Yumak )" https://www.youtube.com/watch?v=6SE8g_FOmHk
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 42. Bölüm ( İnatçı Lekeler )" https://www.youtube.com/watch?v=Voca3CqQEIo
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 12.  Bölüm (Kelebek Etkisi)" https://www.youtube.com/watch?v=unikFqiLoeo
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 43. Bölüm ( Domino Taşları )" https://www.youtube.com/watch?v=mI1IQrTqy2I
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 45. Bölüm ( Bilim Ekibi )" https://www.youtube.com/watch?v=4vO19ZDbe9w
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 46. Bölüm ( Büyük Sır )" https://www.youtube.com/watch?v=EYsEUXgGfFM
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 47. Bölüm ( Vantrilok Kamil )" https://www.youtube.com/watch?v=LmlRtGZsPsI
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 48. Bölüm ( Ankaralı Ozan )" https://www.youtube.com/watch?v=UjxGkLUwxSw
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 49. Bölüm ( Türk Sanat Müziği )" https://www.youtube.com/watch?v=uR6P4HnaTvA
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 50. Bölüm ( Efe Gibi )" https://www.youtube.com/watch?v=ZxYe6FUEK7Q
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 51. Bölüm ( Salça Zamanı )" https://www.youtube.com/watch?v=Coe2TM-3NAU
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 48. Bölüm ( Ankaralı Ozan )" https://www.youtube.com/watch?v=mQk3Qh8jR-s
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 53. Bölüm (Zaman Tüneli)" https://www.youtube.com/watch?v=MOqe_jIe380
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 58. Bölüm (Balık Ekmek)" https://www.youtube.com/watch?v=EHVDzect5eY
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 60. Bölüm  (Rafadan Hafiyeler)" https://www.youtube.com/watch?v=gVVO_zr0kY8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 44. Bölüm ( Prof. Hayri )" https://www.youtube.com/watch?v=WfqMd4uvv0k
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 11. Bölüm (Rafadan TV)" https://www.youtube.com/watch?v=dQ1-gQEox3U
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 10.  Bölüm (Telsiz)" https://www.youtube.com/watch?v=p7jQzguJ-QA
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 9.  Bölüm (İp Yumağı)" https://www.youtube.com/watch?v=m0dQtZIhoSU
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 24.  Bölüm ( Öykü Yarışması)" https://www.youtube.com/watch?v=aCvghaLzguA
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 23.  Bölüm ( Günlük )" https://www.youtube.com/watch?v=mMsXH8AxUYE
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 22. Bölüm ( Uzay Yolculuğu )" https://www.youtube.com/watch?v=OjFk4mXrAOw
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 21.  Bölüm (Abra Kadabra)" https://www.youtube.com/watch?v=bJE9y8Mu6Vg
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 20. Bölüm (İcat Peşinde)" https://www.youtube.com/watch?v=M3nh8NKLOK4
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 19. Bölüm (Köfte Tarifi)" https://www.youtube.com/watch?v=JKqEatUXj3o
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 18. Bölüm (Kırık Sandalye)" https://www.youtube.com/watch?v=MLttSSJGASw
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 17. Bölüm (Grup Rafadan)" https://www.youtube.com/watch?v=pKcmxBPV1hc
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 16. Bölüm (Yumak'ın Kulübesi)" https://www.youtube.com/watch?v=yZh0uPyGHwE
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 15. Bölüm (Çember ve Taş)" https://www.youtube.com/watch?v=MNpYH5-lLQI
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 14. Bölüm (Voleybol)" https://www.youtube.com/watch?v=Ecq4BABP7Rk
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 13.  Bölüm (Kamera - Motor)" https://www.youtube.com/watch?v=7pghsE2NJRk
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 32. Bölüm ( Rafadan Taşımacılık )" https://www.youtube.com/watch?v=cWzAvtPd_sQ
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 31. Bölüm ( Trafik Haftası )" https://www.youtube.com/watch?v=6NIftBlvyPw
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 30. Bölüm ( Maket Ev )" https://www.youtube.com/watch?v=uqsN-h7L6hk
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 29. Bölüm ( Esnaf Dediğin )" https://www.youtube.com/watch?v=JhppERhyXqQ
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 28. Bölüm ( Gurbetten Misafir )" https://www.youtube.com/watch?v=A-0zXaH1WpQ
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 27. Bölüm ( İz Peşinde )" https://www.youtube.com/watch?v=7SgIy_Ge_1s
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 2. Bölüm (Yaşlılara Yardım)" https://www.youtube.com/watch?v=4_1xNjIUpFs
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 3  Bölüm (Ufo Nöbeti)" https://www.youtube.com/watch?v=EvJhtS5hnP8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 4.  Bölüm (Evlere Servis)" https://www.youtube.com/watch?v=q1hJVtUSrfc
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 5. Bölüm (Bir - İki - Üç - TIP)" https://www.youtube.com/watch?v=5vppmOB_HHA
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 6.  Bölüm (Kazan Dairesi)" https://www.youtube.com/watch?v=r_pRqDwAnaE
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 7.  Bölüm (Uçurtma Şenliği)" https://www.youtube.com/watch?v=uL_0TX6fP9g
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 8. Bölüm (Define)" https://www.youtube.com/watch?v=dou-xfSCeGs
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 60. Bölüm (Rafadan Hafiyeler)" https://www.youtube.com/watch?v=-4LTuIrv32M
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 25.  Bölüm (Hıçkırık)" https://www.youtube.com/watch?v=UWNLG8S97ZQ
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 54. Bölüm (Oyun Makinesi)" https://www.youtube.com/watch?v=10askLrW3HQ
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 56. Bölüm (Zihin Kütüphanesi)" https://www.youtube.com/watch?v=cWZ54iVAj0k
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 94.Bölüm Uykusuzluk" https://www.youtube.com/watch?v=rk1fyXkPhFg
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 95.Bölüm Robot Kamil" https://www.youtube.com/watch?v=mIAYta16_f8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 96.Bölüm Tarihin Taşlı Yolları" https://www.youtube.com/watch?v=inmS448AFQI
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 91. Bölüm Sağlık Muhafızları" https://www.youtube.com/watch?v=hCme5YDCDG4
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 97.Bölüm Şimşek Tornet" https://www.youtube.com/watch?v=Y4riT1bbJv8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 93.Bölüm Dünya Kupası" https://www.youtube.com/watch?v=b8JTiiXVYlo
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 98.Bölüm Şahmat" https://www.youtube.com/watch?v=NUd6AsGcM8M
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 101.Bölüm Olimpiyat Çiçeği" https://www.youtube.com/watch?v=U_MzdeBCM-4
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 99.Bölüm Rasathane" https://www.youtube.com/watch?v=m2UMw-Tbi9M
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa'dan 3 Bölüm Bir Arada ..." https://www.youtube.com/watch?v=0ecR_XpXUgE
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa'dan 3 Bölüm Bir Arada ..." https://www.youtube.com/watch?v=d3n2pmdHFsI
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 92.Bölüm Korkusuz Kamil" https://www.youtube.com/watch?v=NlquxMp-89M
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa Göbeklitepe 11 Ekim Pazar günü TRT 1 ekranlarında" https://www.youtube.com/watch?v=hCCmwqUFtdg
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 116. Bölüm (Diş Korkuluğu)" https://www.youtube.com/watch?v=iCRATGtMIdg
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 117. Bölüm (Lades Şampiyonu)" https://www.youtube.com/watch?v=0MDMOoQaqAY
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa Galaktik Tayfa 6 Ocak’ta Sinemalarda (Teaser)" https://www.youtube.com/watch?v=_TA0msXKiB0
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 118. Bölüm (Zaman Geçirgeni)" https://www.youtube.com/watch?v=8TW7GzsNgYs
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 121. Bölüm (Altın Peşinde)" https://www.youtube.com/watch?v=edAtRjdLik4
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 122. Bölüm (Mükemmel Teknik)" https://www.youtube.com/watch?v=mrMIBIYgwJk
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="[Private video]" https://www.youtube.com/watch?v=c7XGa2Hy_TU
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 124. Bölüm (Malazgirt Zaferi)" https://www.youtube.com/watch?v=hWnN5uypk7E
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 123. Bölüm (İstiklal Marşı)" https://www.youtube.com/watch?v=3FeYmoRYCuo
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 125. Bölüm (Yazı Takımı)" https://www.youtube.com/watch?v=yhj_m9w2XjM
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 126. Bölüm (Uçan Kilim)" https://www.youtube.com/watch?v=wkToy1qSwUY
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 115. Bölüm (Rafadan Ekspres)" https://www.youtube.com/watch?v=Oquus9OT_bE
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa'dan 3 Bölüm Bir Arada ..." https://www.youtube.com/watch?v=Ru4Pgx2NHps
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 89.Bölüm Yıldız Karması" https://www.youtube.com/watch?v=7y1NCd-yMp8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 88.Bölüm Odadaki Arı" https://www.youtube.com/watch?v=206-B4in82I
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 57. Bölüm (Kayıp Cüzdan)" https://www.youtube.com/watch?v=Za4Xq3vJJ5Q
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 64. Bölüm (Yanlış Anlama)" https://www.youtube.com/watch?v=ElQQRj-MWo8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 66. Bölüm (Eşsiz Kolleksiyon)" https://www.youtube.com/watch?v=w_U-qb_bS3w
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 67. Bölüm (Bilim Fuarı)" https://www.youtube.com/watch?v=EZJ4-P-AOnY
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 68. Bölüm (Radyo Rafadan)" https://www.youtube.com/watch?v=g-R1cRppBgc
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 70. Bölüm (Fotoroman)" https://www.youtube.com/watch?v=oq8NnxizYoI
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 71. Bölüm (Tulumbacılar)" https://www.youtube.com/watch?v=MIVGhJ23n9E
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 74. Bölüm (Rafadan Kamp)" https://www.youtube.com/watch?v=_Cre-FCbEgo
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 75. Bölüm (Aile Yadigarı)" https://www.youtube.com/watch?v=iskejwTdH6k
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 76. Bölüm (Rafadan Kulüp)" https://www.youtube.com/watch?v=cqTzF9DDe2E
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 56. Bölüm (Zihin Kütüphanesi)" https://www.youtube.com/watch?v=eh-33lUx95Q
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 20 Ocak'tan itibaren yeni bölümleriyle sizlerle..." https://www.youtube.com/watch?v=QGNDQ4tucag
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa Şarkısı" https://www.youtube.com/watch?v=01wboNJqXtE
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 1. Bölüm (Ekmek Teknesi)" https://www.youtube.com/watch?v=xX3gT_Jrjb0
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 69. Bölüm Sayıların Dili" https://www.youtube.com/watch?v=-aV201tpls8
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 73.  Bölüm Bayrak Kapmaca" https://www.youtube.com/watch?v=43xZNB_i07g
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 72. Bölüm İstanbul Koşusu" https://www.youtube.com/watch?v=RQ_qPBt-rH4
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 77.Bölüm Karınca Dünyası" https://www.youtube.com/watch?v=XeNTTL_4XVs
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 77.Bölüm Karınca Dünyası" https://www.youtube.com/watch?v=XeNTTL_4XVs
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 77.Bölüm Karınca Dünyası" https://www.youtube.com/watch?v=XeNTTL_4XVs
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 78.Bölüm Su Hayattır" https://www.youtube.com/watch?v=zJwZ7BG2CyY
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 82. Bölüm Tamtam'ın Dönüşü" https://www.youtube.com/watch?v=5-mb0mLaF68
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 83.  Bölüm Rafadan Gazete" https://www.youtube.com/watch?v=3j6dj_oze_w
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 84. Bölüm Rafadan Telefon" https://www.youtube.com/watch?v=UKX4k2MT9Ww
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 87. Bölüm Münazara" https://www.youtube.com/watch?v=0FisPjaWQw4
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 55. Bölüm (Kağıt Uçak)" https://www.youtube.com/watch?v=qspIskk98qg
+#EXTINF:-1 tvg-id="Rafadan Tayfa"  group-title="60yas" video-title="Rafadan Tayfa 26. Bölüm ( Oyunbozan )" https://www.youtube.com/watch?v=mOmgdDSPccE
 
-#EXTINF:-1 tvg-id="test3" group-title="egitim", https://www.youtube.com/watch?v=RSRBQHXksr8
+#ROBOT TRENLER
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚂 | 3. Bölüm - Kayıp Hafıza | minika" https://www.youtube.com/watch?v=Z30HwLmjKNc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 17.Bölüm - Victor Geliyor  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=3SODqtlV6I0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 18.Bölüm - Victor Geri Döndü (Tam Bölüm) | minika" https://www.youtube.com/watch?v=wccY9B3iVuA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 19.Bölüm - Duke'un Hafızası  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=yQhG0155qa4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 20.Bölüm - Kay ve Duke  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=Tm9gfQXuCW8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 21.Bölüm - Kay'in Alışılmadık Eğitimi  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=kVHdQfKfimc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 22.Bölüm - Kay'in Alışılmadık Eğitimi  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=TW9LEPhr_po
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 23.Bölüm - Victor Tehlikede  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=SU7g0HscHlA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 16.Bölüm - Dayan Kay  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=ogL8r_0BKFU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 24.Bölüm - Hepimi Birimiz Birimiz Hepimiz İçin  (Tam Bölüm) | minika" https://www.youtube.com/watch?v=Kn-uDUBRyNM
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm - 3 | minika" https://www.youtube.com/watch?v=_05X0B8wK30
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm - 3 | minika" https://www.youtube.com/watch?v=_05X0B8wK30
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm - Yeni | minika" https://www.youtube.com/watch?v=E8F80hC9n4M
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=-EAvsT3Lwdk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=nwITDks1xAs
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=-MTzgkZIyK4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=7e00YZt4ITM
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 25.Bölüm - Güven Meselesi (Sezon Finali) | minika" https://www.youtube.com/watch?v=ynGFRqnog8s
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=rag9D9nvRdI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 15.Bölüm - Duke Uyanıyor (Tam Bölüm) | minika" https://www.youtube.com/watch?v=uG5WvKmGfVE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 13.Bölüm - Hadi Robot Trenler (Tam Bölüm) | minika" https://www.youtube.com/watch?v=optpKl61oCI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 11.Bölüm | Kay'in Özel Parçaları | minika" https://www.youtube.com/watch?v=zRi9nHwfHXw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚂 | 4. Bölüm - Virüs Kapan Tren | minika" https://www.youtube.com/watch?v=sHmSeonBnJI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 5. Bölüm - Koş Kay Koş | minika" https://www.youtube.com/watch?v=lGzhXLXs8KM
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚂 | 6. Bölüm - İşte Alf Geliyor | minika" https://www.youtube.com/watch?v=PLUWz2M4mZ0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 13.Bölüm - Tren Yarışları | minika" https://www.youtube.com/watch?v=KHa2Imfi3L0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 14.Bölüm - Şampiyon Duck | minika" https://www.youtube.com/watch?v=frMXlm3-xUc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 19.Bölüm - Duke'u Kurtarma Operasyonu | minika" https://www.youtube.com/watch?v=LQhjEHA9-U4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 14.Bölüm - Festival (Tam Bölüm) | minika" https://www.youtube.com/watch?v=In69izf1b4k
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 18.Bölüm - Victor Geri Döndü | minika" https://www.youtube.com/watch?v=Ke66D834X_E
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 16.Bölüm - Kay ile Duke Karşı Karşıya | minika" https://www.youtube.com/watch?v=Q-9NPlU3j0k
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 15.Bölüm - Duke Uyanıyor | minika" https://www.youtube.com/watch?v=IZxRglmf4Kk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 8.Bölüm - Kay ve Alf (Tam Bölüm) | minika" https://www.youtube.com/watch?v=SmUsMdpAxDI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 9.Bölüm - Kurtarılan Dostluk (Tam Bölüm) | minika" https://www.youtube.com/watch?v=u4lxQlGsb5c
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 10.Bölüm - Jane ve Kay (Tam Bölüm) | minika" https://www.youtube.com/watch?v=45opHhbdG-0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 11.Bölüm - Selly'nin Özel Eğitimi (Tam Bölüm) | minika" https://www.youtube.com/watch?v=Q4m-srF4yNw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 12.Bölüm - Alf Gelişiyor (Tam Bölüm) | minika" https://www.youtube.com/watch?v=lgfhspHt0-o
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 17.Bölüm - Kay Göremiyor | minika" https://www.youtube.com/watch?v=p2QapinAkzY
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=54pyg9tMxi8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 1. Bölüm - Acil Durum! Lütfen Yardım Edin!  | minika" https://www.youtube.com/watch?v=YRCB35y8TEg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Beklenmeyen Ziyaret | Minika" https://www.youtube.com/watch?v=3CUfpwYX1nw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Kahraman Dostlar | Minika" https://www.youtube.com/watch?v=XhipDPhTkn4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Su Korkusu | Minika" https://www.youtube.com/watch?v=lkylnZpBwP0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Tamir Zamanı | minika" https://www.youtube.com/watch?v=oc3t-UjMX64
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Victor Korkusu | minika" https://www.youtube.com/watch?v=N6G2zU3hi5Q
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | İşe Geç Kalmak | minika" https://www.youtube.com/watch?v=2OfpsyERLZk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Neredesin Alf? | minika" https://www.youtube.com/watch?v=e1ZaLxscE30
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Çocukların Kahramanı | minika" https://www.youtube.com/watch?v=zrg1M2jCD1g
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Su Parkı Kurtarıldı | minika" https://www.youtube.com/watch?v=gSrIsF_svRQ
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Bölüm - 6 | minika" https://www.youtube.com/watch?v=_7hH78U7BiU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Bölüm - 5 | minika" https://www.youtube.com/watch?v=qJ7mq5uaGjg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Bölüm - 4 | minika" https://www.youtube.com/watch?v=J1FNEoJLSHI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Fotoğraf Makinesi | minika" https://www.youtube.com/watch?v=U0T3KMgIPZQ
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Bölüm - 3 | minika" https://www.youtube.com/watch?v=EfWqp5mUFiM
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Bölüm - 2 | minika" https://www.youtube.com/watch?v=DuGuHm3fk2U
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Bölüm - 1 | minika" https://www.youtube.com/watch?v=WFahof1yZmE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Trenler | minika" https://www.youtube.com/watch?v=9-rr9_EGq_k
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Victor İçin | minika" https://www.youtube.com/watch?v=RMWehvT1X8A
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Harika Bir İş | minika" https://www.youtube.com/watch?v=ih5VxjQhvBM
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Çiçekler | minika" https://www.youtube.com/watch?v=BXLYWpBUEHQ
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Alp Yıldızı Çiçeği | minika" https://www.youtube.com/watch?v=gL6cblOpmQo
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Maxie Gücü | minika" https://www.youtube.com/watch?v=ech_cvUuTfk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Yetenek | minika" https://www.youtube.com/watch?v=r7wCjTeCBl0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Enerji | minika" https://www.youtube.com/watch?v=tXcK6Vca4rw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Sırt Çantası | minika" https://www.youtube.com/watch?v=92gHgg22ZiI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Duke Kaçıyor | minika" https://www.youtube.com/watch?v=-2T82ACZfXA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | X Ailesi | minika" https://www.youtube.com/watch?v=syXTmog65vs
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Öğrenci Dostu | Minika" https://www.youtube.com/watch?v=M5WU0N4LNHg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Böceklerin Kahramanı | Minika" https://www.youtube.com/watch?v=jlmFq-TQOgk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Bebek Tren | Minika" https://www.youtube.com/watch?v=SbN9y3cjXeg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Evine Dön Becky | Minika" https://www.youtube.com/watch?v=1Dauyy34ldo
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 20 Dakika Özel Bölüm | Minika" https://www.youtube.com/watch?v=AIX0bfkMKxI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | EN SEVİLEN BÖLÜMLER -6 | Minika" https://www.youtube.com/watch?v=HZVTXRG45oE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | EN SEVİLEN BÖLÜMLER -5 | Minika" https://www.youtube.com/watch?v=r-Wo0zAuFcY
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | EN SEVİLEN BÖLÜMLER -4 | Minika" https://www.youtube.com/watch?v=-o-cjhmm9No
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | İKİ BÖLÜM BİR ARADA -6 | Minika" https://www.youtube.com/watch?v=4T93vspQkbQ
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | İKİ BÖLÜM BİR ARADA -5 | Minika" https://www.youtube.com/watch?v=UJQ6aHoIwfo
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | İKİ BÖLÜM BİR ARADA -4 | Minika" https://www.youtube.com/watch?v=-UXLTsJI694
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | İKİ BÖLÜM BİR ARADA -3 | Minika" https://www.youtube.com/watch?v=PqnFcxnHZeU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | İKİ BÖLÜM BİR ARADA -2 | Minika" https://www.youtube.com/watch?v=h0ON-FJcFhw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | İKİ BÖLÜM BİR ARADA | Minika" https://www.youtube.com/watch?v=pJ3siMmpCzc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Kayıp Tren | Minika" https://www.youtube.com/watch?v=BQXntSHIZF8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Enerji Topları​ | Minika" https://www.youtube.com/watch?v=oizIi4Yo5c8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Becky'nin Hikayesi​ | Minika" https://www.youtube.com/watch?v=XE2Eid5o2Dg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm | minika" https://www.youtube.com/watch?v=RIPo_3Hd8_U
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Böcek Koruyucusu ​ | Minika" https://www.youtube.com/watch?v=RNwWqAOcYPg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Tren Çarpışması | Minika" https://www.youtube.com/watch?v=dbzUZiKNkfI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yardımın Gerek!​ | Minika" https://www.youtube.com/watch?v=4NyNE_by6fw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Hadi Balık Tutalım!🐟​ | Minika" https://www.youtube.com/watch?v=_eKFVBDQQlo
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Eğlenceli Çocuk Havuzu | Minika" https://www.youtube.com/watch?v=N2Dt3kj9vnA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Balık Kovalamacası | Minika" https://www.youtube.com/watch?v=FymcWf0Ioe4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yeni Arkadaşlar | Minika" https://www.youtube.com/watch?v=G2KmgrYPaLk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Güçsüz Kalan Tren | Minika" https://www.youtube.com/watch?v=eM17vqHgxy4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Alf'in Mücadelesi | Minika" https://www.youtube.com/watch?v=wjUdKhsYQiI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Tren Kazası | Minika" https://www.youtube.com/watch?v=nzABJZBvCqk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Becky Dönüyor | Minika" https://www.youtube.com/watch?v=QNMmNIb9MWU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Özel Eşyalar | Minika" https://www.youtube.com/watch?v=02-D0ctqgSk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Enerji Robotu | Minika" https://www.youtube.com/watch?v=VahflDMtAPE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Sevimli Tren Becky | Minika" https://www.youtube.com/watch?v=DTd9Hz84Xp8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Ailenin Yeni Üyesi ​ | Minika" https://www.youtube.com/watch?v=qb2wgaGHcx8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm | minika" https://www.youtube.com/watch?v=8ncRhq1k6YI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm | minika" https://www.youtube.com/watch?v=-YrU7PDhuxY
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Enerji Topu | minika" https://www.youtube.com/watch?v=Xt7Hs8ZwocY
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 30. Bölüm - Vitamin Etkisi! | minika" https://www.youtube.com/watch?v=TKrZnL83Oqg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 29. Bölüm - Rich Çiçekleri Sever! | minika" https://www.youtube.com/watch?v=lwxMwZ9irNA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 28. Bölüm - En iyi Aşçı Emma! | minika" https://www.youtube.com/watch?v=b0LuBbmn534
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 27. Bölüm - Söyleyemem Söylemem! | minika" https://www.youtube.com/watch?v=LjJjezmT3Dc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 26. Bölüm - Yetenekli Augustine! | minika" https://www.youtube.com/watch?v=_ov9B9HLrx4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 25. Bölüm - Kay Duke'e Karşı! | minika" https://www.youtube.com/watch?v=MZSBGagDkv8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 24. Bölüm - Alf'in Başı Dertte! | minika" https://www.youtube.com/watch?v=sHVRDKOMLTw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 23. Bölüm - Kay Sorunu Çözer! | minika" https://www.youtube.com/watch?v=BNnwVLQoF1k
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 22. Bölüm - Hava Çok Soğuk! | minika" https://www.youtube.com/watch?v=Ptw3iulBuTg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 21. Bölüm - Kay İçeri Giremez! | minika" https://www.youtube.com/watch?v=uZEm6KyuJ-c
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 20. Bölüm - Enerji Kombinasyonu! | minika" https://www.youtube.com/watch?v=G9_HqFAxKL0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 19. Bölüm - Usta X ile Tanışmak! | minika" https://www.youtube.com/watch?v=CLHHa5LhmMU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 18. Bölüm - Havai Fişek Festivali! | minika" https://www.youtube.com/watch?v=VCS69Lq8bBU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 31. Bölüm - Hoşçal X Ailesi! | minika" https://www.youtube.com/watch?v=s5WHk3hDoFg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 17. Bölüm - Victor Güçlendirildi! | minika" https://www.youtube.com/watch?v=nMYm0jq2uAA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 15. Bölüm - Koş Luka Koş! | minika" https://www.youtube.com/watch?v=ABChmc0Qg68
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 14. Bölüm - Seni Özledim Tony, Teşekkür Ederim Genie! | minika" https://www.youtube.com/watch?v=vNUCq0dwyOo
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 13. Bölüm - Çok Kötü! Beckyi Bulmalıyız | minika" https://www.youtube.com/watch?v=wKdh3rxmF5Q
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 12. Bölüm - Maxie ile Böcek! Sıkı Dostlar! | minika" https://www.youtube.com/watch?v=5hMaz9WZ-gM
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 11. Bölüm - Hadi Key, Duck'ı Kurtar | Minika" https://www.youtube.com/watch?v=n_vdNUWYDrg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 10. Bölüm - Öfkeli Değil Aslında | minika" https://www.youtube.com/watch?v=i3PVWj8LmlY
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 8. Bölüm - O Fotoğraf Makinesinden Uzak Durun! | minika" https://www.youtube.com/watch?v=vKZDQMQbq9M
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 7. Bölüm - Gary'nin Parlak Fikri! | minika" https://www.youtube.com/watch?v=hiBlQ2PSOug
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 6. Bölüm - Ah Victor! Duygusal Victor! | minika" https://www.youtube.com/watch?v=Lb4hkOvfDnk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 5. Bölüm - Maxie Yapar! Maxie Gücü! | minika" https://www.youtube.com/watch?v=S4nSQvrmeHw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 4. Bölüm - Siz İşi Dedektif Genie Bırakın! | minika" https://www.youtube.com/watch?v=9Q5YavJ22A4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 3. Bölüm - Olamaz Kevin, Yine mi? | minika" https://www.youtube.com/watch?v=pwCRYZrJ1g0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 2. Bölüm - Yaşasın! Su Parkımız Harika | minika" https://www.youtube.com/watch?v=PgFQBKmLHCU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 16. Bölüm - Jose ile Tanışı! Ekibin Yeni Üyesi | minika" https://www.youtube.com/watch?v=d8om6f6lQ8w
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 20 Dakika Özel Bölüm -2 | Minika" https://www.youtube.com/watch?v=To5Ftj8L59M
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 32. Bölüm - Victor ve Duke Yeni En İyi Dostlar | minika" https://www.youtube.com/watch?v=MYhzNW08Tf4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 34. Bölüm - Genie İçin En İyi Hediye | minika" https://www.youtube.com/watch?v=AXBQuN4XzdE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Küçük Afacan | minika" https://www.youtube.com/watch?v=RGJc68t8YOE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Kurtarma Treni Alf | minika" https://www.youtube.com/watch?v=DtqI54_OXQI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Volkan Uzmanı | minika" https://www.youtube.com/watch?v=riAU0RmUhJ4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Üçüncü Aşama | minika" https://www.youtube.com/watch?v=hVFXZ0Eud2U
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Köpek Balığı | Minika" https://www.youtube.com/watch?v=daxgNHB9JvU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Acil Yardım Ekibi | minika" https://www.youtube.com/watch?v=YSLBeG-WMWY
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Raylar Dünyasının Yıldızı | minika" https://www.youtube.com/watch?v=1qxc7rBED4A
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=54pyg9tMxi8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=rag9D9nvRdI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=7e00YZt4ITM
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=-MTzgkZIyK4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=nwITDks1xAs
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Yarım Saatlik Özel Bölüm | minika" https://www.youtube.com/watch?v=-EAvsT3Lwdk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 33. Bölüm - Victor ve Duke Yeni En İyi Dostlar | minika" https://www.youtube.com/watch?v=7g4wflb7nYc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm - Yeni | minika" https://www.youtube.com/watch?v=E8F80hC9n4M
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm - 5 | minika" https://www.youtube.com/watch?v=M01cN0W1uSs
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 47. Bölüm - Louie'nin Heykeli | minika" https://www.youtube.com/watch?v=h_Z23eREDrg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 46. Bölüm - Komik Deney | minika" https://www.youtube.com/watch?v=MbIe3zB2TDc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 45. Bölüm - Kitap Kurdu Joshep! | minika" https://www.youtube.com/watch?v=SLbIqT58dOc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 44. Bölüm - Kitap Kurdu Joshep! | minika" https://www.youtube.com/watch?v=1TAyI3Rg1uI
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 43. Bölüm - Heyecanlı Define Avı! | minika" https://www.youtube.com/watch?v=IrpjP4zEDVU
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 42. Bölüm - Doğum Günün Kutlu olsun Jonny! | minika" https://www.youtube.com/watch?v=kAqgLu-YVQs
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 41. Bölüm - Baloncuk! | minika" https://www.youtube.com/watch?v=w-_vREXAGts
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 40. Bölüm - X Ailesi! | minika" https://www.youtube.com/watch?v=gOxrnG3BugA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 38. Bölüm - Alf Yapabilir! | minika" https://www.youtube.com/watch?v=Ywnr72sAr34
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 37. Bölüm - Leo Nereye Kayboldu? | minika" https://www.youtube.com/watch?v=TedoOgtwU8g
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 36. Bölüm - Gel Bizimle Oyna Garyy'i | minika" https://www.youtube.com/watch?v=whXMqjHsWXc
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 2. Sezon 35. Bölüm - Gel Bizimle Oyna Garyy'i | minika" https://www.youtube.com/watch?v=6iTYcnJ4R7U
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | 30 Dakika Özel Bölüm - 7 | minika" https://www.youtube.com/watch?v=OZXH14m6KXw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler 🚅 | Çocuk Havuzu | Minika" https://www.youtube.com/watch?v=_7iezARIA5g
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Seninle Birlikte 😎" https://www.youtube.com/watch?v=ga30l5_taAw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Kay Rekorlar Kırıyor! 😎" https://www.youtube.com/watch?v=NP8Mdm9axEQ
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Tarihi Tren Dünyası! 😎" https://www.youtube.com/watch?v=s6ONiZ-o6rE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Müzik Yarışması! 😎" https://www.youtube.com/watch?v=rEMHFnCU7YE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Genie'nin Tatili! 😎" https://www.youtube.com/watch?v=bKw_F6elvmA
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Robotlara Ne Oluyor? 😎" https://www.youtube.com/watch?v=nm7IiMI0hfE
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Bir Varmış Bir Yokmuş! 😎" https://www.youtube.com/watch?v=i_R1IYRG0pk
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Çamur 🤩" https://www.youtube.com/watch?v=e1I_GVPPWCw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Pas Küfü 😎" https://www.youtube.com/watch?v=yph7yYQi4p8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Mutlu Yıllar Victor 😎" https://www.youtube.com/watch?v=c1CMmhP79Ks
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Fareyi Yakala 😎" https://www.youtube.com/watch?v=V6C3BqV6_Us
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Madende Kaybolmak 😎" https://www.youtube.com/watch?v=4H6DWln2eb4
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Vagonkent 😎" https://www.youtube.com/watch?v=0Afzb4nBOCg
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Key'in Kazası 😎" https://www.youtube.com/watch?v=tbbUYPWwirw
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Sirk Treni 😎" https://www.youtube.com/watch?v=BdBh_eHT3f8
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Kim Konuşuyor? 😎" https://www.youtube.com/watch?v=6UJFqbOY1n0
+#EXTINF:-1 tvg-id="Robot Trenler"  group-title="60yas" video-title="Robot Trenler | Yeni Tehlike 😎" https://www.youtube.com/watch?v=lj7Vrl4-DQ4
+
+#9 YAS SONRASI VİDEOLAR
+#MAYSA VE BULUT
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 1. Bölüm" https://www.youtube.com/watch?v=tuzx_YgMkjY
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 36. Bölüm" https://www.youtube.com/watch?v=qO9gnaGENfA
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 37. Bölüm" https://www.youtube.com/watch?v=MbtKSk1L0-c
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 38. Bölüm" https://www.youtube.com/watch?v=URpqdRj8XPM
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 39. Bölüm" https://www.youtube.com/watch?v=4HonuuM3jN4
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 40. Bölüm" https://www.youtube.com/watch?v=FURzRCR_7rc
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 41. Bölüm" https://www.youtube.com/watch?v=VWZCDkOGm1o
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 42. Bölüm" https://www.youtube.com/watch?v=f4l_c18Qoz0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 43. Bölüm" https://www.youtube.com/watch?v=pkYbaLz6qjM
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 44. Bölüm" https://www.youtube.com/watch?v=9EApluJh5_M
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 45. Bölüm" https://www.youtube.com/watch?v=TF3TN0blY0M
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 46. Bölüm" https://www.youtube.com/watch?v=oWyqKDfhtgo
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 47. Bölüm" https://www.youtube.com/watch?v=rLgN4GGrLX8
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 48. Bölüm" https://www.youtube.com/watch?v=ShY3zK77FeM
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 49. Bölüm" https://www.youtube.com/watch?v=X8ECxnTKp00
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 50. Bölüm" https://www.youtube.com/watch?v=nWRlBsD408M
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 51. Bölüm" https://www.youtube.com/watch?v=0-CjxeoWwbU
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 52. Bölüm" https://www.youtube.com/watch?v=2ZgDKJ7NS00
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 53. Bölüm" https://www.youtube.com/watch?v=4mZYBslOBt8
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 54. Bölüm" https://www.youtube.com/watch?v=7RiQ2IL2UM8
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 55. Bölüm" https://www.youtube.com/watch?v=RvLTcnpfV4Q
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 56. Bölüm" https://www.youtube.com/watch?v=wpThzld6Tq0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 57. Bölüm" https://www.youtube.com/watch?v=_vqr6KQunWY
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 58. Bölüm" https://www.youtube.com/watch?v=JsgddhYZmnk
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 59. Bölüm" https://www.youtube.com/watch?v=FnBGs4_WyuY
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 60. Bölüm" https://www.youtube.com/watch?v=F2iRjNS9KCk
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 62. Bölüm" https://www.youtube.com/watch?v=ZhLN5zn4rNA
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 63. Bölüm" https://www.youtube.com/watch?v=qJY8d4rEqS0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 63. Bölüm" https://www.youtube.com/watch?v=qJY8d4rEqS0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 64. Bölüm" https://www.youtube.com/watch?v=oInkH2uOV_Y
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 35. Bölüm" https://www.youtube.com/watch?v=GGeCKEPOca8
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 34. Bölüm" https://www.youtube.com/watch?v=1XDJhNoQBiM
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 32. Bölüm" https://www.youtube.com/watch?v=StKv9FlY9fQ
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 33. Bölüm" https://www.youtube.com/watch?v=6j3E2v6bXJc
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 2. Bölüm" https://www.youtube.com/watch?v=vCgvj-4nWv0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 3. Bölüm" https://www.youtube.com/watch?v=hWwj_WNN12E
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 4. Bölüm" https://www.youtube.com/watch?v=69Z_fImC1v0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 5. Bölüm" https://www.youtube.com/watch?v=eaRWYxEk7io
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 6. Bölüm" https://www.youtube.com/watch?v=t3TCAQYA-_s
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 7. Bölüm" https://www.youtube.com/watch?v=9vUioWFo2_Q
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 8. Bölüm" https://www.youtube.com/watch?v=oVI9yUsbfWE
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 9. Bölüm" https://www.youtube.com/watch?v=ACbXnJFl3tc
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 10. Bölüm" https://www.youtube.com/watch?v=1ICbXZ_F5yY
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 11. Bölüm" https://www.youtube.com/watch?v=Avca15Ko-lA
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 12. Bölüm" https://www.youtube.com/watch?v=7WRv8APySnA
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 13. Bölüm" https://www.youtube.com/watch?v=Sscep6rpD_E
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 14. Bölüm" https://www.youtube.com/watch?v=RrVj-MmvL_c
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 15. Bölüm" https://www.youtube.com/watch?v=0Rj5ry8jt0c
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 65. Bölüm" https://www.youtube.com/watch?v=DDQhSqZs-PA
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 16. Bölüm" https://www.youtube.com/watch?v=BDliQ_k8UkM
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 18. Bölüm" https://www.youtube.com/watch?v=emwbDF4VHCY
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 19. Bölüm" https://www.youtube.com/watch?v=Fahkyn_Kiag
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 20. Bölüm" https://www.youtube.com/watch?v=kqkdZXGlP-c
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 21. Bölüm" https://www.youtube.com/watch?v=e3d3VKPlgd4
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 22.Bölüm" https://www.youtube.com/watch?v=R9tiyIpgXho
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 23. Bölüm" https://www.youtube.com/watch?v=5fSuy7cIuSs
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 24. Bölüm" https://www.youtube.com/watch?v=EFy7Qr4mmZQ
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 25. Bölüm" https://www.youtube.com/watch?v=Sr17L23OkV0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 26. Bölüm" https://www.youtube.com/watch?v=7ie5gS8zEsg
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 27. Bölüm" https://www.youtube.com/watch?v=VwcTCE17Ang
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 28. Bölüm" https://www.youtube.com/watch?v=r8pObmny26E
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 29. Bölüm" https://www.youtube.com/watch?v=nuseh0QL7Tg
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 30. Bölüm" https://www.youtube.com/watch?v=c62BchULLb4
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 31. Bölüm" https://www.youtube.com/watch?v=f-0W46QOP6s
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 17. Bölüm" https://www.youtube.com/watch?v=4ETSPsHPsk0
+#EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 66. Bölüm" https://www.youtube.com/watch?v=B20syZBudR8
+
+#NASRETTİN HOCA
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Beyin Egzersizi" https://www.youtube.com/watch?v=456cMnW91EE
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Görünmez Adam | 25.Bölüm" https://www.youtube.com/watch?v=3PLl3VNUZdI
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Davetsiz Misafir | 26.Bölüm" https://www.youtube.com/watch?v=qeSL5l_Xu34
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Fazla Eşyalar | 27.Bölüm" https://www.youtube.com/watch?v=X17WztyO0Z8
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Macera Parkı | 28.Bölüm" https://www.youtube.com/watch?v=_Y3iI8IBFp8
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Antikacı | 29.Bölüm" https://www.youtube.com/watch?v=v6Fj78t5OC8
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Sağlıklı Hayatın Sırları | 30.Bölüm" https://www.youtube.com/watch?v=vflJnU1Va1M
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Takip | 31.Bölüm" https://www.youtube.com/watch?v=25jXqqHgyKU
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | İnziva | 32.Bölüm" https://www.youtube.com/watch?v=vnf59HFtnvk
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Süper Kahraman | 33.Bölüm" https://www.youtube.com/watch?v=g7ud2wPJzPo
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Öğretmen | 34.Bölüm" https://www.youtube.com/watch?v=WmF7bM0j7D0
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Metro | 35.Bölüm" https://www.youtube.com/watch?v=mUY2h4vzs-Y
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Yalancı Çoban | 36.Bölüm" https://www.youtube.com/watch?v=2TftOWkPU0U
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Büyük Ödül | 37.Bölüm" https://www.youtube.com/watch?v=2zKgnBb3mhQ
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Dinozor Kaşifi | 38.Bölüm" https://www.youtube.com/watch?v=KShBy10nAig
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Başarının Sırrı | 39.Bölüm" https://www.youtube.com/watch?v=eG4afK9gM7w
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Hikaye Saati" https://www.youtube.com/watch?v=EFoPTNXXC3A
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Restorasyon" https://www.youtube.com/watch?v=E6r0IYC5UmQ
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Müsabaka" https://www.youtube.com/watch?v=pZFIniJXSE8
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Yapay Zeka" https://www.youtube.com/watch?v=POxnUEaXg4k
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Kayıp Küheylan | 24.Bölüm" https://www.youtube.com/watch?v=aDkFy-MPrLY
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Kostüm Yarışması" https://www.youtube.com/watch?v=PNeUjvzlSN0
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Robot Dostu | 23.Bölüm" https://www.youtube.com/watch?v=q0vIS69WGhE
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Alışveriş | 3.Bölüm" https://www.youtube.com/watch?v=c0K62zDLuFU
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Öteye Giden Yol | 4.Bölüm" https://www.youtube.com/watch?v=H2HvK86p0Bo
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Hafıza Kaybı | 5.Bölüm" https://www.youtube.com/watch?v=d4fZZMwCemk
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Evde Bir Başına | 6.Bölüm" https://www.youtube.com/watch?v=f8WYlPTmtrQ
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Nasreddin Hoca İnternet Dünyasında | 7.Bölüm" https://www.youtube.com/watch?v=xYPAP95iFls
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Kayıp | 8.Bölüm" https://www.youtube.com/watch?v=_hwaAj-ooAo
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Nasreddin Hoca'nın Kayıp Hazinesi | 9.Bölüm" https://www.youtube.com/watch?v=SvN49vaMqgo
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Oyun Bitti | 10.Bölüm" https://www.youtube.com/watch?v=Qv1DoATBYcQ
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Zaman Yolcusu | 11.Bölüm" https://www.youtube.com/watch?v=YHG5gtFMMYA
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Küresel Isınma |12.Bölüm" https://www.youtube.com/watch?v=fxdkWX2r9qg
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Okuma Yazma Öğreniyor | 13.Bölüm" https://www.youtube.com/watch?v=zKqrjpgNup4
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Sıradışı Sporlar | 14.Bölüm" https://www.youtube.com/watch?v=wboHD_zmn7w
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Kamp Yapıyor | 15.Bölüm" https://www.youtube.com/watch?v=r7XqAKlPMfM
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Tarım Yapıyor | 16.Bölüm" https://www.youtube.com/watch?v=uzhj0PgUloc
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Akıllı Yol Bilgisayarı | 17.Bölüm" https://www.youtube.com/watch?v=MiA7gUSQRDI
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Nasreddin Hoca Film Setinde | 18.Bölüm" https://www.youtube.com/watch?v=WQcq40ckr-0
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Diş Hekimi | 19.Bölüm" https://www.youtube.com/watch?v=t54_a5lENxo
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Sualtı | 20.Bölüm" https://www.youtube.com/watch?v=VFFwsEeDRiY
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Müzik Yarışması | 21.Bölüm" https://www.youtube.com/watch?v=y3qNWaG18Ro
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Mars'a Yolculuk | 22.Bölüm" https://www.youtube.com/watch?v=K8b6iAbzHhc
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | Aslan Terbiyecisi | 2.Bölüm" https://www.youtube.com/watch?v=cQ6wzUid9E0
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Doğru Karar" https://www.youtube.com/watch?v=MlZJXXXT9vk
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Dünya Çocukları" https://www.youtube.com/watch?v=UuOjw1UjMmw
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Moda" https://www.youtube.com/watch?v=R0nKExV3jx0
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Ramazan Neşesi | Nasreddin Hoca | Ramazan Geldi" https://www.youtube.com/watch?v=MnAOABvhPAA
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Ramazan Neşesi | Nasreddin Hoca | Sahur" https://www.youtube.com/watch?v=ujlkWYhTEbo
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Ramazan Neşesi | Nasreddin Hoca | Pide Kuyruğu" https://www.youtube.com/watch?v=0inyoOcxFgk
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Sorumluluk" https://www.youtube.com/watch?v=chNUW_cjJz4
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Hobi" https://www.youtube.com/watch?v=6mINa0qlK4w
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Soyağacı" https://www.youtube.com/watch?v=9tq2ozJ_eDU
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Yeni Arkadaşlar" https://www.youtube.com/watch?v=kpYfgUlJvV0
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Sincap" https://www.youtube.com/watch?v=42jfQtkfr-E
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Acele İş" https://www.youtube.com/watch?v=D0hq2FoboY0
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Şenlik Hazırlığı" https://www.youtube.com/watch?v=XRYmItOUt-o
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Eğlenceli Yumurta" https://www.youtube.com/watch?v=KexFhWvLF3Q
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Sessiz Sinema" https://www.youtube.com/watch?v=oYqgqe2zS3U
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Oyun Dili" https://www.youtube.com/watch?v=tW-rkYYeTSg
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Uyurgezer" https://www.youtube.com/watch?v=LHTrFUMOefY
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Keramet Kavukta mı?" https://www.youtube.com/watch?v=DmYdysTMqPg
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Kayıp Pasta" https://www.youtube.com/watch?v=3bYbzGnj-ww
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Motivasyon" https://www.youtube.com/watch?v=UOrFDYpd_-M
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Başka Açı" https://www.youtube.com/watch?v=bDZXdTiyuFM
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | El Cezeri" https://www.youtube.com/watch?v=fYm-bY45Upw
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Yerçekimsiz Ortam" https://www.youtube.com/watch?v=V5-Mx81KCY4
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Ressam" https://www.youtube.com/watch?v=DkR3T8oBbuQ
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Küçük Alem" https://www.youtube.com/watch?v=i5LgNtoQ88E
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Uzaylı" https://www.youtube.com/watch?v=XB9i8auSxuI
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Empati" https://www.youtube.com/watch?v=9m9cUxHDcCo
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Doğum Günü" https://www.youtube.com/watch?v=Gn8TPu8w-bI
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Amanvermez Avni" https://www.youtube.com/watch?v=ne3GlqinJWU
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Yuva Özlemi" https://www.youtube.com/watch?v=xjO3-aMXG78
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Ayşe'nin Değişimi" https://www.youtube.com/watch?v=du80xXymous
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Teknofest Özel Bölüm" https://www.youtube.com/watch?v=GAU8mt8GcdI
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Hata" https://www.youtube.com/watch?v=4A3YOFkdhAM
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Önyargı" https://www.youtube.com/watch?v=M2hmrdLSLv4
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Geçmişe Dönüş" https://www.youtube.com/watch?v=EDQ5bgkRBzc
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Kitap Sevgisi" https://www.youtube.com/watch?v=yexHFSt80O4
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Engelsiz" https://www.youtube.com/watch?v=8VpNsg9RUaI
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Takip" https://www.youtube.com/watch?v=Dduz-ex6bMk
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Teknofest Özel Bölümü | El-Cezeri" https://www.youtube.com/watch?v=-rOnyPtL78E
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Mahallenin Muhtarı" https://www.youtube.com/watch?v=-ReAHJWxicc
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Kelebek Etkisi" https://www.youtube.com/watch?v=Pw2yLRhXbJw
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Yeni Komşu" https://www.youtube.com/watch?v=c6lWEM8Kc1Q
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Kısa Bir Ara" https://www.youtube.com/watch?v=g6r2Dkwh_cg
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Dayanışma" https://www.youtube.com/watch?v=AN16ueAeVaw
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca Zaman Yolcusu | Sesler" https://www.youtube.com/watch?v=O28nOqD7CIs
+#EXTINF:-1 tvg-id="Nasrettin Hoca"  group-title="9yas" video-title="Nasreddin Hoca | İz Peşinde | 1.Bölüm" https://www.youtube.com/watch?v=FvIV_51h1Pc
+
+#EGİTİM VİDEOLAR
+#PIRIL
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="PIRIL SAKLI ROBOTLAR 29 EKİM'DE SİNEMALARDA!" https://www.youtube.com/watch?v=IoGzYXkN_7I
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Korkma Söyle | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=Ywi-OR7rsjU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Üç Basamaklı Acil Sayılar | 20. Bölüm" https://www.youtube.com/watch?v=kJ9Sm646tHs
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 11. Bölüm - Romen Rakamlarının Peşinde" https://www.youtube.com/watch?v=ATPUgggLJC0
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Şifreli Günlük | 27. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=1jmuBtwYyDQ
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 2. Bölüm - Simetrinin Gizemi" https://www.youtube.com/watch?v=djK_wSKOZlc
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 7. Bölüm - Yazı mı? Tura mı?" https://www.youtube.com/watch?v=6_nCPJs6fEM
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl -  Nazlı'nın Şaşırtan İşlem Yeteneği | 15. Bölüm" https://www.youtube.com/watch?v=-k9N3_B32c8
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 9. Bölüm - Örüntüler" https://www.youtube.com/watch?v=664s5Se5tYo
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 3. Bölüm - Geometrik Cisimler" https://www.youtube.com/watch?v=5kdF7wOKE7s
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl'la Evde Spor | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=FbPlvvnOlGA
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="En Yakın Onluğa Yuvarlama | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tSjNaALMeLs
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 10. Bölüm - Parktaki Doğrular" https://www.youtube.com/watch?v=KUbKrM58kZs
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 6. Bölüm - Bitmeyen Ölçme Ödevi" https://www.youtube.com/watch?v=4uiCIgmMB3w
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="İki Basamaklı Pinpon Topları | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=O7tc_O3cwNc
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Matematiğe Bir Bak | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=ScGrQ2kvluE
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Dönen Salıncak | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=uoF3fHczpL4
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Geometrik Şekiller | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=I5kL-kw1l8g
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Ah Yönümüzü Bir Bulabilsek 🧭 | Yeni Bölüm - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=tiQ4G5dOtkw
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Son Işık Bükücü Cesur 💡 | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tIrV64DaR1w
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Benim Güzel Arkadaşım | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tSePCuIlv_s
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="İstersen Yaparsın | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=M7QOa7ovyCE
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Tartamazsan Islanırsın | 17. Bölüm" https://www.youtube.com/watch?v=rM0icRswgmo
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Soruyu Kim Çözdü❓ | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=ooqrP3ePEXU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 4. Bölüm - Efe Ders Çalışıyor" https://www.youtube.com/watch?v=BfMbGTVkETw
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 5. Bölüm - Paralarımız" https://www.youtube.com/watch?v=tbOsav-PAOE
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - 3 Bölüm Birden! (1. Bölüm, 2. Bölüm, 3. Bölüm)" https://www.youtube.com/watch?v=zc6xO4HOTP8
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - 🇹🇷 Cumhuriyet Bayramı 🇹🇷 Özel Bölümü | TRT Çocuk" https://www.youtube.com/watch?v=-hozPFhgYB0
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Uzay'ın Topuna Ne Oldu? | 28. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=qaky3COFbuk
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Kesirli Dondurmacı | 22. Bölüm" https://www.youtube.com/watch?v=I19UDqCtv10
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 💝 Anneler Günü 💝 Özel Bölümü 🎉 TRT Çocuk 📺 Çizgi Film" https://www.youtube.com/watch?v=jhwBFIrog9Y
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 🎈 Pırıl'ın Doğum Günü Pastası 🎂 29. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=XuV1LgVJGy4
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Kaybolma Hikayesi | Yeni Bölüm - TRT Çocuk Çizgi Film" https://www.youtube.com/watch?v=tgxlmQKUL74
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Açı Sandalyesi | 14. Bölüm" https://www.youtube.com/watch?v=DZbOwxe-KaI
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Çanakkale Özel Bölümü | TRT Çocuk" https://www.youtube.com/watch?v=uJ2yuBkIXvc
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Sayıların Kayboluşu | 16. Bölüm" https://www.youtube.com/watch?v=huRceGyFy7g
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 1. Bölüm - Kesirler Karnımızı Doyurdu" https://www.youtube.com/watch?v=E45R-i5b0fY
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Ramazan🌙 Özel Bölümü 🥁 Çizgi Film | TRT Çocuk" https://www.youtube.com/watch?v=02hbhX1pSww
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 13. Bölüm - Sıvıları Ölçüyoruz" https://www.youtube.com/watch?v=0xGfU1xYyKo
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Uzay'ın Toplama Makinesi | 25. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=7P-oevhvKlY
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Minik Gurme Uzay | 26. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=xbrq7zHnihU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Her Şey Senin Beyninde | 24. Bölüm (Yeni Bölüm) - TRT Çocuk - Çizgi Film" https://www.youtube.com/watch?v=Ab4LnDhbiUI
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Bana Saati Söyle! | 19. Bölüm" https://www.youtube.com/watch?v=dGk4bS4yvTU
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl -  Sıraya Geç ve Sıranı Bekle | 18. Bölüm" https://www.youtube.com/watch?v=thhDA2ntVGY
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 12. Bölüm - Sıfırın Hikayesi" https://www.youtube.com/watch?v=exflX_hTBCI
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Başkanlık Yarışı | 23. Bölüm" https://www.youtube.com/watch?v=qpqDR46e16w
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl - Geometrik Robotlar | 21. Bölüm" https://www.youtube.com/watch?v=JNMVRtvbitg
+#EXTINF:-1 tvg-id="Pırıl"  group-title="egitici" video-title="Pırıl 8. Bölüm -  Uzay'ın Doğum Günü Şifreleri" https://www.youtube.com/watch?v=JRU9T_7mWUo
