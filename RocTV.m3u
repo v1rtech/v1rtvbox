@@ -37,7 +37,7 @@ https://wild-credit-2cd4.yalcinrdinc951.workers.dev/https://corestream.ronaldovu
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" group-title="Spor" tvg-id="147",Bein Sports 3 (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BeIN_Sports_3_HD.png/1280px-BeIN_Sports_3_HD.png" group-title="Spor" tvg-id="147",Bein Sports 3 (HD)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
@@ -81,7 +81,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://wild-credit-2cd4.yalcinrdinc951.workers.dev/https://corestream.ronaldovurdu.help//hls/trt-spor.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="Spor" tvg-id="130",A Spor HD (HD)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_oZ0AAFjRptSaJiWbVrwo7tctmG2sD3Z4Mz6-3oZsPgacM3MC-ICoxWsivgoJSpZkPc" group-title="Spor" tvg-id="130",A Spor HD (HD)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
@@ -91,7 +91,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg" group-title="Spor" tvg-id="128",FB TV (HD)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/fenerbahce-tv-logo-png_seeklogo-308806.png" group-title="Spor" tvg-id="128",FB TV (HD)
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 
@@ -103,7 +103,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 
 # * » Belgesel « * #
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/cee1ae3bfe067fe869b8e20c0272938b.jpg" group-title="Belgesel" tvg-id="77",TRT BELGESEL HD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bnBf3_3Nw-sQkrjyj0U1Gb68Od0em3yzm9_VzgHqyxPvYyP069gRuRW-QdLI5qJ8QFl3m-y6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="Belgesel" tvg-id="77",TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" group-title="Belgesel" tvg-id="81",DMAX HD
