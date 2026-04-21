@@ -105,38 +105,27 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bnBf3_3Nw-sQkrjyj0U1Gb68Od0em3yzm9_VzgHqyxPvYyP069gRuRW-QdLI5qJ8QFl3m-y6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="Belgesel" tvg-id="77",TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" group-title="Belgesel" tvg-id="81",DMAX HD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj" group-title="Belgesel" tvg-id="81",DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" group-title="Belgesel" tvg-id="83",TLC
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/tlc-logo-png_seeklogo-220530.png" group-title="Belgesel" tvg-id="83",TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/717339637240b8d0ade5063ae8a18fcd.png" group-title="Belgesel" tvg-id="80",YABAN TV
-https://tv.arectv31.sbs/live/yaban.m3u8
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="Belgesel" tvg-id="89",NATIONAL GEO HD
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/109/968/png-clipart-logo-yaban-tv-emblem-television-tivibu-trt-hd-television-emblem-thumbnail.png" group-title="Belgesel" tvg-id="80",YABAN TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsRTjK3zImcwUzGd7GqbmSoynuA-09_MvTA&s" group-title="Belgesel" tvg-id="89",NATIONAL GEO HD
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="Belgesel" tvg-id="88",NATIONAL GEO WILD
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ational-geographic-is-set-to-premier-a-new-docu-reality-nat-geo-wild-11563039388rsxo6xwdqu.png" group-title="Belgesel" tvg-id="88",NATIONAL GEO WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="Belgesel" tvg-id="87",HISTORY CHANNEL
-https://tv.arectv31.sbs/live/history.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" group-title="Belgesel" tvg-id="86",BBC EARTH HD
-https://tv.arectv31.sbs/live/bbc.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="Belgesel" tvg-id="85",TARİH TV (HD)
-https://tv.arectv31.sbs/live/tarihtv.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" group-title="Belgesel" tvg-id="84",Docubox
-https://tv.arectv31.sbs/live/docubox.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" group-title="Belgesel" tvg-id="79",DISCOVERY CHANNEL
-https://tv.arectv31.sbs/live/discovery.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" group-title="Belgesel" tvg-id="78",DISCOVERY SCIENCE
-https://tv.arectv31.sbs/live/discs.m3u8
+
 
 
 
