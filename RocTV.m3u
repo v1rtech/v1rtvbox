@@ -27,8 +27,10 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 # * » Spor « * #
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Spor" tvg-id="149",Bein Sports 1 (HD)
-https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="Spor" tvg-id="149",Bein Sports 1 (HD)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTINF:-1 tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Spor" tvg-id="148",Bein Sports 2 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
