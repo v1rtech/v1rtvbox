@@ -1122,6 +1122,345 @@
 #EXTINF:-1 tvg-id="Gecko'nun Garajı"  group-title="60yas" video-title="Kamyon Kaydırak Eğlencesi | 🐸 Gecko'nun Garajı - Çocuklar için Kamyonlar" https://www.youtube.com/watch?v=Cof-8eX-BgY
 
 
+#YARDIMCI ARABALAR
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar - Küçük yeşil araba çamura düştü! Dondurma arabası da devrildi!" https://www.youtube.com/watch?v=QZ9i2c5JMXE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film izle! Taşıyıcı, Yeni köprü, Yarış arabalar - ÖZEL bölümler!" https://www.youtube.com/watch?v=mSzOZ2ZMIaY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar - Oyuncak uçak için pisti yapalım! Çocuklar için eğitici dizi" https://www.youtube.com/watch?v=uxtMIiPkAMY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film - Türkçe izle! Erkek çocuklar için araba oyunları! ÖZEL" https://www.youtube.com/watch?v=FdPiIRJovTs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı arabalar - Türkçe dublaj! Otobüsleri boyayalım! Çocuklar için dizi" https://www.youtube.com/watch?v=Fz5nWO4J12Q
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Araba videoları! Yardımcı Arabalar parkur ve yeni köprü yapıyor! Erkek çocuklar için video" https://www.youtube.com/watch?v=OnKKeXafigs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar! Fırtına araba taşıyıcısını devirdi! Çocuklar için eğitici dizi" https://www.youtube.com/watch?v=GH-ekhtnsVE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Meyve ve sebzeleri öğrenelim! Çocuklar için eğitici çizgi film. Yeni bölüm" https://www.youtube.com/watch?v=ABiMngz-zXc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film! Yardımcı Arabalar ile sebzeleri toplayalım ve süt kamyonu tamir edelim!" https://www.youtube.com/watch?v=I4XUs8bD0kY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar - Yarış arabalar oyuncak mağazasında! Türkçe izle!" https://www.youtube.com/watch?v=nkxB3kroEac
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar - Türkçe izle. Ağaç yolu kapattı! Çocuklar için eğitici video" https://www.youtube.com/watch?v=SPdxO0xu_FI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle - Yardımcı arabalar balıklar için top havuzları dolduruyor! Seçkin bölümler" https://www.youtube.com/watch?v=WUehKPXOku8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Erkek çocuklar için arabalar! Yardımcı Arabalar - özel bölümler! Türkçe dublaj" https://www.youtube.com/watch?v=xEjQmWi8lFw
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar - Türkçe izle! Yardımcı Arabalar yolu düzeltti! Araba oyunları" https://www.youtube.com/watch?v=2de3vA5JTYg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film! Çocuklar için Yardımcı Arabalar - Seçkin bölümler! Eğitici animasyon dizi - Türkçe izle" https://www.youtube.com/watch?v=U56N_mX1Q1Y
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Erkek çocuklar için arabalar ile yarış oyunları - Pistte çarpışma - Yardımcı Arabalar - Çizgi film" https://www.youtube.com/watch?v=GrmtTkQFax8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar top havuzu dolduruyor! Renkleri öğrenelim! Seçkin bölümler" https://www.youtube.com/watch?v=ti-s3VtgRNo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Taşıyıcı tomrukları kereste fabrikasına götürüyor! Çizgi film izle" https://www.youtube.com/watch?v=dRaJ6i7Edxw
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile çocuklar için eğitici çizgi filmler. Yeni köprü inşa ediyoruz!" https://www.youtube.com/watch?v=iAuzIgwNza4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Bebekler için çizgi film izle! Yardımcı Arabalar kar bloklarından ev yapıyor! Çocuk videoları" https://www.youtube.com/watch?v=aJH0tf4rr9A
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - En güzel bölümler 2022 - Çizgi filmler - Eğitici araba oyunları!" https://www.youtube.com/watch?v=RJYFZH1LBfE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar yılbaşı hazırlığı yapıyor! Çizgi film - Bebekler için Yeni yıl videosu" https://www.youtube.com/watch?v=jgv4EG5mrRE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile Yeni Yıl! Seçkin bölümler! Bebekler için eğitici çizgi filmler" https://www.youtube.com/watch?v=0_Vai4Qlw-8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar! Küçük kamyonlar neler taşıyor? Dondurma! Renkleri öğrenelim" https://www.youtube.com/watch?v=g5kHITttVwY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı arabalar top havuzu dolduruyor! Renkleri öğrenelim! Yeni bölüm" https://www.youtube.com/watch?v=uy70PGTs-SU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar ve yılbaşı ağacı! Bebekler için Yeni Yıl videoları" https://www.youtube.com/watch?v=QTf-RoYvVro
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar - seçkin bölümler! Bebekler için araba oyunları" https://www.youtube.com/watch?v=u_6ZatmMtoo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Küçük kırmızı araba Yardımcı arabaları çağırıyor! Erkek çocuk için araba oyunu" https://www.youtube.com/watch?v=O7ddAtY_SPg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar - Türkçe dublaj! Otobüsleri boyayalım! Çocuklar için ÖZEL BÖLÜM" https://www.youtube.com/watch?v=WDclmWNPuEQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar kasırgadan şekerleri kurtarıyor! Erkek çocuklar için eğitici dizi" https://www.youtube.com/watch?v=Obj-g_Bgwl4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar uçak için pisti yapıyor, yolu düzeltiyor ve şekerleri kurtarıyor!" https://www.youtube.com/watch?v=TrV-9Ov7hrc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar -  Çocuklar için ÖZEL BÖLÜMLER! Türkçe dublaj" https://www.youtube.com/watch?v=GQ2Ia3B0V14
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Arabalar yumurtaları topluyor! Yardımcı Arabalar - Yeni bölüm!" https://www.youtube.com/watch?v=W5V9pwMguUE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film! Erkek çocuklar için ÖZEL bölümler! Türkçe izle" https://www.youtube.com/watch?v=KMZFvfh041Y
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar - Nehrin üzerine yaya köprüsü inşa edelim! Çocuklar için yeni bölüm!" https://www.youtube.com/watch?v=oxhuTWzoFXI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuk videoları! Yardımcı Arabalar - ÖZEL kış bölümleri! Çizgi film izle!" https://www.youtube.com/watch?v=mjfm9SMLxbU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ve kar kalesi ⛄ Çocuklar için çizgi film - Yeni bölüm!" https://www.youtube.com/watch?v=YdkVBoNRyns
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film Türkçe izle! Çocuklar için ÖZEL bölümler! Kamyon ve Beton mikseri" https://www.youtube.com/watch?v=tLgfiiPPakk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar kediciği kurtarıyor! Yeni bölüm - Türkçe izle!" https://www.youtube.com/watch?v=Ok3tm44YY2g
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile eğitici çizgi film! Kayıp vida, beton mikseri ve tren! ÖZEL bölümler!" https://www.youtube.com/watch?v=3dFr60JiXS8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Eğitici çizgi film izle! Yardımcı Arabalar - beton mikseri kurtarma operasyonu! Yeni bölüm!" https://www.youtube.com/watch?v=uIA-Pp1jDm0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Arabalar zıplama oyunu oynuyor! Erkek çocuklar için eğitici videolar - ÖZEL" https://www.youtube.com/watch?v=XVAN5YPKBwc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile eğitici çizgi film! Kayıp vida kime ait? Çocuklar için yeni bölüm" https://www.youtube.com/watch?v=RdqstlUx9P0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için araba oyunları! Yardımcı Arabalar - Özel Bölümler! Çizgi film izle!" https://www.youtube.com/watch?v=y33PItGgFHE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar! Tren raydan çıkıyor! Yeni bölüm - Türkçe dublaj!" https://www.youtube.com/watch?v=_aTDMVFoA8w
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film - Yardımcı Arabalar! Kocaman kamyon devrildi! Yeni bölüm!" https://www.youtube.com/watch?v=L68xb-if4R0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Erkek çocuklar için araba videoları! Yardımcı Arabalar - Çizgi film! Atlama yarışı kim kazanacak?" https://www.youtube.com/watch?v=pJCVaWRci1w
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için araba oyunları! Küçük arabalar zıplama oyunu oynuyor! Çizgi film izle!" https://www.youtube.com/watch?v=iRcm03FtRsc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film izle! Labirent kuralım ve Top havuzu dolduralım! Araba oyunları" https://www.youtube.com/watch?v=OMsZeOYDYnk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film! Küçük arabalar boyaları düşürdü!! Erkek çocuklar için eğitici videolar yeni bölüm!" https://www.youtube.com/watch?v=Rqr_qz4WG_g
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar köprü inşa ediyor! Kırmızı araba kamyonlarla yarışıyor!" https://www.youtube.com/watch?v=Nrzp_QD3cA0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle - Yardımcı Arabalar - Römorkörü yapalım! Arabalar ve Uçaklar ile yeni bölüm!" https://www.youtube.com/watch?v=LrR770NEAdM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için eğlenceli video. Yardımcı oyuncak arabalar yolu düzeltti. Bebek videoları." https://www.youtube.com/watch?v=CiVore1wB2o
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar - Uçağa şimşek çarptı! Çocuklar için yeni bölüm!" https://www.youtube.com/watch?v=HD6plB_wcP0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - ÖZEL! Dondurma arabası. Pistte çarpışma. Bebekler için çizgi film" https://www.youtube.com/watch?v=EPkdpSybmYQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı arabalar! Küçük kırmızı araba kamyonlarla yarışıyor! Yeni bölüm" https://www.youtube.com/watch?v=AdH8uu7UGzc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Taşıyıcı, Kırmızı pikap ve Yarış arabaları! Çizgi film izle - ÖZEL bölümler" https://www.youtube.com/watch?v=CkQJFPwts7c
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Kedicik patisini incitti! Yardımcı Arabalar - çocuklar için eğitici çizgi film - yeni bölüm!" https://www.youtube.com/watch?v=QBc-sUJTUVc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - küçük araba uçuyor! Çocuklar için eğitici çizgi film" https://www.youtube.com/watch?v=iop8NX-x1oc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Dondurma arabası devrildi! Çocuklar için çizgi film - Türkçe izle" https://www.youtube.com/watch?v=SM2ZJT8bTlM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Eğitici çizgi film! Atlama yarışı! Küçük çocuklar için araba videoları" https://www.youtube.com/watch?v=OayBVEFGTv4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film - Köpekçik için oyun parkı kuralım! Bebekler için eğitici dizi" https://www.youtube.com/watch?v=jMzTqY31yNg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı arabalar - Ambulans ve Çekici! Çocuk animasyon dizisi - yeni bölüm!" https://www.youtube.com/watch?v=dm2E9mgpti4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Türkçe izle! Yardımcı arabalar toplarla oynuyor! Küçük çocuklar için eğitici dizi" https://www.youtube.com/watch?v=n8Hi9WXY6uY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Araba videoları - eğitici çizgi film - Yardımcı arabalar ile yangını söndürelim! Yeni bölüm" https://www.youtube.com/watch?v=c-Ww5pOZgzg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı arabalar - Derleme -Türkçe dublaj! Çocuklar için eğitici dizi" https://www.youtube.com/watch?v=ip-SxGmRiHU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film - Yardımcı arabalar küçük arabaları kurtarıyor! Eğitici çizgi dizi" https://www.youtube.com/watch?v=MWRiTbFKRII
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film - Yardımcı arabalar. Arabaları boyayalım! Türkçe dublaj" https://www.youtube.com/watch?v=mTEcuq8AIGw
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Türkçe dublaj! Yardımcı arabalar - erkek çocuklar için seçkin bölümler." https://www.youtube.com/watch?v=26d2_YvcRXc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için - Yardımcı arabalar - Kar temizleme aracı ve küçük yarış araba! Çizgi film Türkçe" https://www.youtube.com/watch?v=gEVRW28ItpU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film - Yardımcı Arabalar ve köpek yavrusu ile seçkin bölümler!" https://www.youtube.com/watch?v=O-tvWGti3Jc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Erkek çocuklar için araba videoları - Çizgi film - Yardımcı arabalar yeni garaj yapıyor!" https://www.youtube.com/watch?v=p5AqdLAPXlg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar çizgi film - 25 dakika! En sevilen bölümleri Türkçe izle! Araba videoları" https://www.youtube.com/watch?v=foj1tQdCJKQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Erkek çocuklar için çizgi film - Yardımcı arabalar - Acil durum araçları! Araba videoları izle" https://www.youtube.com/watch?v=GPwNl6RImpo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Eğitici çizgi film - Yardımcı arabalar - damperli kamyon top havuzunu dolduruyor! Çocuklar için" https://www.youtube.com/watch?v=U5Nbba1KEeA
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için Yardımcı arabalar - Damperli kamyona yardım edelim! Eğitici dizi - seçkin bölümler!" https://www.youtube.com/watch?v=kdTHrMvmmA4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar! Çizgi film Türkçe izle - seçkin bölümler - bebekler için eğitici çizgi dizi" https://www.youtube.com/watch?v=-FEjepIZ1AI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı arabalar ile sebzeleri toplayalım. Çocuklar için eğitici çizgi film - Türkçe dublaj" https://www.youtube.com/watch?v=nbXGYL2gbzQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar yolu tamir ediyor ve köpeğe ve kediye yardım ediyor! Çizgi film Türkçe izle" https://www.youtube.com/watch?v=GjEKwbHd92Y
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film. Yardımcı arabalar - Damperli kamyon virajda kaldı! Erkek çocuklar için eğitici dizi" https://www.youtube.com/watch?v=XNsvH25-rYk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı arabalar - yeşil araba çamura düştü! Çocuklar için en güzel bölümler - Türkçe!" https://www.youtube.com/watch?v=hK7v3LvF_cQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Türkçe izle! Yardımcı arabalar - Süt kamyonu! Çocuklar için eğitici dizi" https://www.youtube.com/watch?v=gMYjeIOWSBA
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar yolu tamir ediyorlar! Eğitici çizgi film Türkçe izle" https://www.youtube.com/watch?v=OX-2e3PAh6E
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Türkçe izle. Yardımcı Arabalar. Çocuklar için seçkin bölümler!" https://www.youtube.com/watch?v=ZPGoL2N6XBY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Eğitici çizgi film Yardımcı Arabalar. Renkli arabaları yapıyoruz! Çocuklar için eğitici video" https://www.youtube.com/watch?v=MNb3bFxNe5U
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Eğitici çizgi film. Yardımcı arabalar - Ambulans köpeğe ve kediye yardım ediyor!" https://www.youtube.com/watch?v=1Xk7ZhLezzU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı arabalar - Küçük yeşil araba çamura düştü! Çocuklar için eğitici video" https://www.youtube.com/watch?v=fjUJFDHM0io
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı arabalar küçük yarış arabaları piste götürüyor! Bebekler için eğitici çizgi film" https://www.youtube.com/watch?v=RHvTy4f6wvE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film Yardımcı Arabalar - Polis arabası köpeğe yardım ediyor!" https://www.youtube.com/watch?v=p83z3aNIYwA
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı arabalar videoları - çizgi film Türkçe - Çocuklar için seçkin bölümler!" https://www.youtube.com/watch?v=GOfFBYNoKAE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Türkçe dublaj!  Yardımcı arabalar yarış yapıyor! Erkek çocuklar için animasyon dizisi" https://www.youtube.com/watch?v=7XCnuZBOGOs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuk videoları - Yardımcı arabalar - Cip devrildi! Çizgi film Türkçe!" https://www.youtube.com/watch?v=Rz5Kt2f8BKA
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar - Köpekçik saklambaç oynuyor! Çocuklar için eğitici videolar" https://www.youtube.com/watch?v=qyNvFth9hv8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film izle! Labirent kuralım! Bebekler için araba oyunları" https://www.youtube.com/watch?v=JAEd3msJwP0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film Türkçe izle! Damperli kamyon ve ekskavatör topları topluyor!" https://www.youtube.com/watch?v=OXgdIAfUz0A
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile meyveleri toplayalım! Bebekler için çizgi film - Eğitici videolar" https://www.youtube.com/watch?v=VVJaLE6jy2A
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Oyuncak arabalar ile Çizgi film izle! Yardımcı Arabalar köpekçik ile hazineyi buluyor!" https://www.youtube.com/watch?v=-RM_KwXgnLs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile sebzeleri toplayalım. Çocuklar için eğitici çizgi film - seçkin bölümler" https://www.youtube.com/watch?v=uG732QRxO84
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Türkçe - Yardımcı Arabalar asfalt yapıyor! Küçük çocuklar için eğitici dizi" https://www.youtube.com/watch?v=vgU3c9h9ecw
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle - Yardımcı Arabalar - Çocuklar için eğitici dizi - Kırık çiti tamir edelim!" https://www.youtube.com/watch?v=ZUIGi2IOogQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar yanan evi söndürüyor! Animasyon eğitici dizi Türkçe dublaj" https://www.youtube.com/watch?v=H7dpEGXo_3g
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle - Yardımcı arabalar top havuzları dolduruyor! Seçkin bölümler - Türkçe dublaj" https://www.youtube.com/watch?v=AQ6shklrpq0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Süt kamyonu tamir edelim! Çizgi film Türkçe dublaj! Araba oyunları" https://www.youtube.com/watch?v=x3j4IGUtk10
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - çizgi film izle! Köpekçik salıncağın vidasını buluyor! Küçük çocuklar için" https://www.youtube.com/watch?v=66644bGDXWs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı arabalar - beton mikseri, kamyon ve vinç oto yıkama istasyonda! Çizgi film Türkçe" https://www.youtube.com/watch?v=cg6Tn8b9oYM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için arabalar! Yardımcı Arabalar dağın tepesinde yol yapıyor! Türkçe dublaj" https://www.youtube.com/watch?v=Dpo2u460B68
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı arabalar çatlak olan bir köprüden geçiyorlar! Araba oyunları. Seçkin bölümler" https://www.youtube.com/watch?v=VEjrl0SDWU4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle - Yardımcı arabalar top havuzları dolduruyor! Renkleri öğrenelim" https://www.youtube.com/watch?v=BJdslP8j4Mg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="İtfaiye arabası, ambulans ve polis arabası parkur kuruyor! Yardımcı arabalar" https://www.youtube.com/watch?v=IgCaLYY9hiQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı arabalar - Kocaman iş arabalar - Buldozer ve kar temizleme aracı" https://www.youtube.com/watch?v=3mylcoXwFOQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Acil durum araçlar köpeğe ve kediye yardım ediyor! Yardımcı arabalar - eğitici çizgi film - DERLEME" https://www.youtube.com/watch?v=MNMPecpdzOs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı arabalar çatlak olan bir köprüden geçiyorlar. Araba oyunları. Çizgi film" https://www.youtube.com/watch?v=GDV4j36UMBE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film. Oyuncak köpek ve klasik oyuncak araba. Çocuklar için eğitici video." https://www.youtube.com/watch?v=geaL1-wU70M
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film. Yardımcı arabalar ile bir gün geçirelim. Çocuklar için eğitici videolar." https://www.youtube.com/watch?v=fkyHzFMquWc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="İtfaiye arabası oto servise gidiyor ve Lunaparkta köpekçiğe yardım ediyor! Yardımcı arabalar" https://www.youtube.com/watch?v=FKKHcV_tszg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı arabalar - Polis arabası, kamyon ve ambulans lüpingi deniyor! Türkçe dublaj" https://www.youtube.com/watch?v=H99hydTlHQ4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuk dizisi - Yardımcı arabalar - Yeni bölüm - Vinç, buldozer ve beton mikseri yolu tamir ediyor!" https://www.youtube.com/watch?v=Zrrefh1wyXM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı arabalar yarış yapıyor! Erkek çocuklar için animasyon dizi - seçkin bölümler" https://www.youtube.com/watch?v=aP9MU27Puv8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı arabalar - damperli kamyon ve ekskavatör topları topluyor!" https://www.youtube.com/watch?v=b5o72tUDvs4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle - Yardımcı Arabalar - Çocuklar için eğitici dizi - Bebekler için araba oyunları" https://www.youtube.com/watch?v=XNNx0-2IV3c
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar Yeni Yıl kutluyor! Çocuklar için çizgi film - ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=LgmXw7J02UI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çocuklar için çizgi film! Konteynerin içinde ne var? - Eğitici videolar" https://www.youtube.com/watch?v=2cydx6j7HPE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çocuklar için eğitici çizgi film - Türkçe dublaj - TOP 10 bölümler" https://www.youtube.com/watch?v=D7GszaJnhiQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Helper Cars – Police Car Helps Dog! 🐶🚓 | Cartoons for Kids" https://www.youtube.com/watch?v=cFrLjPgUZXs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Utility Cars in Action! 🚛 Fuel Truck, Trailer, and Airstrip | Educational Cartoon" https://www.youtube.com/watch?v=5Zi4Mzf0S8w
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🔴🟢 Helper Cars Play with Colorful Balls AND 🧊🚢 Ship Crashes into an ICEBERG! Turkish Cartoon" https://www.youtube.com/watch?v=P33PJrCF99g
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🔥🚒 Cartoon Assistant Cars! Electric car bursts into flames! SPECIAL EPISODE for kids!" https://www.youtube.com/watch?v=69EjD-9hvSU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🚧🏗️ Utility Cars builds a wind generator! Cartoons for kids! 🚧🏗️" https://www.youtube.com/watch?v=JMykNZr9YTs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Cartoon! Dog and classic toy car! Puppy finds the screw for the swing!" https://www.youtube.com/watch?v=sZDaHhvE5hY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Helper Cars - Cartoon - Let's set up a playground for the puppy and play hide and seek." https://www.youtube.com/watch?v=8GRZT8ZMSqw
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Fire truck goes to the service center! Taxi battery is on fire! Auxiliary Cars - SPECIAL" https://www.youtube.com/watch?v=6r0esdWS3Yo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Cartoon Assistant Cars for Kids - SPECIAL EPISODES! MOST WATCHED!" https://www.youtube.com/watch?v=htRIqRdYo-4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Cartoon - Colorful tow trucks save cars! Helper Cars - SPECIAL SECTION for children" https://www.youtube.com/watch?v=3M3sjyWfaa8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🌳🔥 Çizgi film Yardımcı Arabalar - Türkçe izle. Ağaç yolu kapattı! 🧯Yanan evi söndürelim!" https://www.youtube.com/watch?v=BgN5lru7WrM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile eğitici çizgi film! Kayıp vida, cam taşıma kamyonu ve beton mikseri!" https://www.youtube.com/watch?v=BdznECHbqdQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="A stone flew into the taxi window! 🪨🚕😱 SPECIAL EPISODE with the kitten! Assistant Cars cartoon" https://www.youtube.com/watch?v=et_oqufwbIE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🪨🚕😱 Yardımcı Arabalar ve Yavru Kedi! Çocuklar içim en izlenen bölümler!" https://www.youtube.com/watch?v=EmqzZl3IhUU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Araba yüksekte kaldı! Yardımcı Arabalar kurtarma operasyonu başlıyor! Çizgi film - ÖZEL BÖLÜM" https://www.youtube.com/watch?v=r6WiXP733tU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar rüzgâr jeneratörü inşa ediyor! 🚧🏗️ Çocuklar için çizgi film!" https://www.youtube.com/watch?v=sxeAoNa9Q_w
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Rengarenk çöp kamyonları iş görevinde! Çizgi film izle!" https://www.youtube.com/watch?v=w0FvB_mlONs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar tünel yapıyor! Erkek çocuklar için Çizgi film - Cam taşıma kamyonu" https://www.youtube.com/watch?v=CmOHNK8rB9w
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Taş taksinin camına fırladı! 🪨🚕😱 Yavru kediye ne oldu? Yardımcı Arabalar çizgi film" https://www.youtube.com/watch?v=QIErBxGq69s
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Özel Bölüm! Küçük çocuklar için eğitici çizgi film! Türkçe Dublaj" https://www.youtube.com/watch?v=w8JiRyvYJ_A
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Tünelde bir kaza!💥Yardımcı arabalar göreve çıkıyor! Arabalar ile çizgi film Türkçe izle!" https://www.youtube.com/watch?v=in1FPLsdjj0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - DEPREM! Pikap KAZA geçirdi! Çocuklar için çizgi film - Türkçe izle" https://www.youtube.com/watch?v=SGfe35dnguI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="YENİ BÖLÜM! - Yardımcı Arabalar kış havaalanını kurtarıyor! ❄️✈️ Çocuklar için çizgi film" https://www.youtube.com/watch?v=SXBa4sF6_3U
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Ambulans köpeğe ve kediye yardım ediyor! Çocuklar için Özel BÖLÜM" https://www.youtube.com/watch?v=5XznbLNT9tc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film - Yardımcı Arabalar - Köpekçik ve Kedicik ile ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=bg_8ddiAl0M
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🚜 🚚 Traktör, Damperli Kamyon ve Süt Kamyonu! Çocuklar için Yardımcı Arabalar!" https://www.youtube.com/watch?v=PYYPQf8fLJo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ve Köpekçik - ÖZEL BÖLÜMLER! Çizgi film - Türkçe dublaj" https://www.youtube.com/watch?v=NZUlRGd1AVY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="What Happened to These Little Cars?! Excavator Power Has Arrived! 💪🚧Utility Cars - New Episode" https://www.youtube.com/watch?v=L6IcHC31Dpw
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Let's Dig! Building a Giant Tunnel with Helper Cars – Cartoons for Boys" https://www.youtube.com/watch?v=-7nTwvqk3lU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="The Utility Cars are having a 🏝️ Big Race on the ADA! Is someone in trouble?🚨Watch Cartoons!" https://www.youtube.com/watch?v=q-yiu-Zz03s
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Helpful Cars - SPECIAL Episode! Hot air balloon! Cars playing with balls! Educational cartoons" https://www.youtube.com/watch?v=s7nOipLhcqs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Let's collect vegetables with the Helper Cars and paint the Cars! Cartoons for children!" https://www.youtube.com/watch?v=M0IOerQC6Zs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="The Helper Cars are building a pedestrian bridge over the river on the ADA! 🏝️ Watch the cartoon!" https://www.youtube.com/watch?v=O5KiZH12D7Y
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="The little car is stuck high up! The power went out at the repair shop! Watch cartoons with Helpf..." https://www.youtube.com/watch?v=TWeKRjOnXn4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🚢🐶 For Boys! Ship, Brave Helper Cars and Excavator! Cartoons 💪" https://www.youtube.com/watch?v=rGXISj1-3kg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Cartoon Helper Cars - A METEOR fell! 💥☄️ SPECIAL EPISODES FOR KIDS!" https://www.youtube.com/watch?v=mISizdJ2A3g
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Cartoon - The Helper Vehicles are on the job! Bulldozer and snowplow!" https://www.youtube.com/watch?v=Oe_s62cK9nA
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Helper Vehicles - Earthquake and Fuel Trucks! Cartoons for boys." https://www.youtube.com/watch?v=jsOGwke63EY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Utility Vehicles - Colorful garbage trucks and tractors at work! Cartoon!" https://www.youtube.com/watch?v=SsjcxK0nNCM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Helping Cars and the Kitten! What happened to the kitten? Cartoons for Kids" https://www.youtube.com/watch?v=vrglQJ9nhtU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Cartoon Helper Cars - Race cars in store! Concrete mixer rescue operation!" https://www.youtube.com/watch?v=I_91DnR85-k
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Educational cartoon with Helpful Cars! The missing screw and trailer! SPECIAL EPISODE for children." https://www.youtube.com/watch?v=KbS5mWQpZ54
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="A cartoon for children: Helpful Vehicles. Special Episodes! Tractors and Buses!" https://www.youtube.com/watch?v=ebCAN_kPGfg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Oyuncak iş arabalar ile ÖZEL BÖLÜMLER! Çocuklar için eğitici videolar" https://www.youtube.com/watch?v=QP2klqgwroo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi Film - Yardımcı Arabalar - Küçük çocuklar için eğitici dizi - En İzlenen Bölümler!" https://www.youtube.com/watch?v=KKQbRwFCzKE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi Filmler! Yardımcı Arabalar. Renkli arabaları yapıyoruz! Çocuklar için animasyon dizi" https://www.youtube.com/watch?v=-NXW487t-xU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Dump trucks are now colorful! 🚚🌈 We clean up garbage and build roads with Auxiliary Cars!" https://www.youtube.com/watch?v=cs2wmjaKiXU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Cartoon - Helper Cars - dump truck and excavator collect balls! For Boys" https://www.youtube.com/watch?v=jPfLriV5WRs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Helper Cars on Duty! 🚧 Roof, Barrier and Bus Repair 👷🔧Cartoon" https://www.youtube.com/watch?v=a_oBAagON2E
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Let's collect vegetables and paint cars with Helper Cars! Educational cartoon for kids" https://www.youtube.com/watch?v=wg2-5-PApmA
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Helper Cars - A METEOR has crashed! 💥☄️ Will the cars be able to pick it up?" https://www.youtube.com/watch?v=3z4BZkZDhs0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🎬 Helper Cars: Big Cleanup Operation at the Beach! 🚗🏖️Cartoons for Kids" https://www.youtube.com/watch?v=uE0VfeJ4II4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🚓🚑🚒 Yardımcı Arabalar! Polis Arabası ve Ambulans Köpekçiğe Yardıma Geliyor! | Çizgi Film" https://www.youtube.com/watch?v=-sQSSva17Co
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Lost Pipe Adventure 🚧 | Tractors Being Painted, Utility Cars at Work!" https://www.youtube.com/watch?v=LHlkTPogN48
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🚧🏗️ Assistant Cars - Excavator, Wind Generator - SPECIAL SECTION for Kids!" https://www.youtube.com/watch?v=7JAGnfQLXPE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🚢🐶 For Boys! Ship, Dog and Brave Helper Cars! Cartoons" https://www.youtube.com/watch?v=drbSaQ9D2D8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Watch Cartoons! 🚗 Little Red Car Calls His Helpers – Super Car Game!" https://www.youtube.com/watch?v=NoIP076qpYw
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Eğitici çizgi film! Atlama yarışı ve Römork! Küçük çocuklar için" https://www.youtube.com/watch?v=ja5UScQHYoU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar! Oyuncak Arabalarla renkleri öğren!" https://www.youtube.com/watch?v=fAMiXIY1cm4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Damperli kamyon virajda kaldı! Oyuncak kamyonet devrildi!" https://www.youtube.com/watch?v=9Kvv4sDTQHk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - 🧊🚢 Gemi BUZDAĞINA çarptı! Çocuklar için çizgi film - YENİ BÖLÜM" https://www.youtube.com/watch?v=ZILXz-EwB4c
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi filmler - Çocuklar için Araba oyunları - Türkçe izle - ÖZEL BÖLÜMLER" https://www.youtube.com/watch?v=RKUPRnklpEM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Küçük araba yüksekte kaldı! Yardımcı Arabalar kurtarma operasyonu başlıyor! Çizgi film izle!" https://www.youtube.com/watch?v=MOaZHXwQEuE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film! Oyuncak kamyonet devrildi! Çocuklar için Yardımcı Arabalar - Yeni Bölüm!" https://www.youtube.com/watch?v=W7sxW8EQUiM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - ÖZEL BÖLÜMLER! Hava balonu ve Fırtına! Eğitici çizgi film izle!" https://www.youtube.com/watch?v=J9l-Py_AFg8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Renkli çekiciler arabaları kurtarıyor! Yardımcı Arabalar - Çocuklar için - YENİ BÖLÜM" https://www.youtube.com/watch?v=I39CbiynraI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - ÖZEL BÖLÜMLER! Erkek Çocuklar İçin Çizgi filmler ve Araba Oyunları" https://www.youtube.com/watch?v=Zj1NTJkiQ2g
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar TÜNEL yapıyor! Erkek çocuklar için Çizgi film - Yeni Bölüm" https://www.youtube.com/watch?v=M8sCTgWygR4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Oyuncak arabalar ile çizgi filmler - Yardımcı Arabalar - ÖZEL bölümler! Erkek çocuklar için" https://www.youtube.com/watch?v=ZX-42_ameXI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar renkli bloklardan kule yapıyor! Çocuklar için çizgi film izle - Yeni bölüm" https://www.youtube.com/watch?v=DZw7ldyhXRc
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar! Renkli dolu, Cam taşıma kamyonu, Looping! Çocuk videoları" https://www.youtube.com/watch?v=v_vPIV-Ouwg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Araba oyunları - Renkli dolu yağıyor! Yardımcı arabalar - Çocuklar için eğitici dizi" https://www.youtube.com/watch?v=uVtz20b5c8Q
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çizgi film izle! Konteyner, Dondurma arabası, LOOPİNG - ÖZEL bölümler!" https://www.youtube.com/watch?v=eW3_BaHlKsU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - CAM taşıma kamyonu! Otobüsün camı patladı - Çocuklar için - Yeni bölüm!" https://www.youtube.com/watch?v=Hf6LgfcrKxQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar - Eğitici videolar - Araba oyunları - ÖZEL bölümler!" https://www.youtube.com/watch?v=60TIYm1MgpE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar yarış pisti yapıyor! Çizgi film izle! Yeni bölüm - LOOPİNG! Çocuklar için" https://www.youtube.com/watch?v=J9EWo_Vm9mg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için araba oyunları! Yardımcı Arabalar - Çizgi film! Arabalar zıplıyor ve yarışıyor!" https://www.youtube.com/watch?v=EKmwZZUljMo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ve Köpekçik - Taksinin bataryası yanıyor! Çizgi film - Türkçe dublaj" https://www.youtube.com/watch?v=fF_qaszstk0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Özel bölümler! Feribot - Tamirhane - Garaj! Çocuklar için çizgi film" https://www.youtube.com/watch?v=7Iwottptnig
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Yeni bölüm - FERİBOT! Erkek çocuklar için çizgi film izle" https://www.youtube.com/watch?v=RM3BTVWtFWk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar GARAJ yapıyor! Çocuklar için eğitici videolar - yeni bölüm!" https://www.youtube.com/watch?v=VWSTVgTH17c
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film izle! Yardımcı Arabalar - Beton mikseri, Tamirhane, Konteyner! ÖZEL bölümler" https://www.youtube.com/watch?v=1CHF8NKisMU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı arabalar iş başında! Tamirhanede elektrikler gitti! Erkek çocuklar için" https://www.youtube.com/watch?v=089gZ4WNNTE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - ÖZEL bölümler! Sıcak hava balonu - Römork - Yeşil araba! Eğitici çizgi film" https://www.youtube.com/watch?v=cXDc1015w3E
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çocuklar için çizgi film! Konteyner, Balon, Yükleyici - Eğitici videolar" https://www.youtube.com/watch?v=-DqO3wcALSk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Yeni bölüm! Kırmızı araba ve sıcak hava balonu! Eğitici çizgi film" https://www.youtube.com/watch?v=UmzzicdMNcs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar - Yükleyiciyi yeniyoruz! Eğitici video. Araba oyunları" https://www.youtube.com/watch?v=Jen9_l8kWgE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film - Yardımcı Arabalar - Uçaklar ve Arabalar ile Özel Bölümler!" https://www.youtube.com/watch?v=htfjPOZq7CI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Eğitici çizgi film! Atlama Yarışı ve Oyuncak Pisti - Araba videoları - ÖZEL" https://www.youtube.com/watch?v=bDGOqwt3Yus
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar TÜNEL yapıyor! Pikap KAZA geçiriyor! Erkek çocuklar için Çizgi filmler" https://www.youtube.com/watch?v=nY2NZ_kPVcU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Çocuklar için çizgi film! Konteyner ve Looping! Eğitici video - ÖZEL BÖLÜM" https://www.youtube.com/watch?v=bTQWVbdVLks
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi filmler - Yardımcı Arabalar - OZEL BÖLÜMLER! Eğitici dizi Türkçe izle!" https://www.youtube.com/watch?v=BW2hYSeGvxQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - CAM taşıma kamyonu, Otobüs ve Yükleyici! Erkek çocuklar için ÖZEL BÖLÜMLER" https://www.youtube.com/watch?v=4zHROQjeucI
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile eğitici çizgi film! Kayıp vida, Yeni köprüi Pistte çarpışma!" https://www.youtube.com/watch?v=5Gl5hqcXbWo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Eğitici çizgi film izle! Yardımcı Arabalar - Beton mikseri kurtarma operasyonu! ÖZEL BÖLÜMLER" https://www.youtube.com/watch?v=tFxIg-dlPfY
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ve Kar kalesi ⛄ Çocuklar için çizgi film - Arabalar ve Uçaklar! ÖZEL BÖLÜM" https://www.youtube.com/watch?v=Wvb9SHdU-84
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film Yardımcı Arabalar - Polis arabası köpeğe yardım ediyor ve Pistte çarpışma" https://www.youtube.com/watch?v=WrsUngG16rs
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="YARDIMCI ARABALAR - Çocuklar için çizgi filmler - ÖZEL BÖLÜMLER! Türkçe ize!" https://www.youtube.com/watch?v=43itZi4q_Xk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar Yılbaşı hazırlığı yapıyor! Çizgi film - Bebekler için Yeni Yıl videoları!" https://www.youtube.com/watch?v=ZLsSd4C_xl8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Bebekler için çizgi film izle! Yardımcı Arabalar, kar bloklarından ev ve kar kalesi yapıyor!" https://www.youtube.com/watch?v=v-eB8TNyGjU
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar ile eğitici çizgi film! Yeşil arabayı yıkayalım! Çocuklar için ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=m-mGmBTLNnQ
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar TÜNEL va GARAJ yapıyorlar! Erkek çocuklar için çizgi film - ÖZEL Bölümler" https://www.youtube.com/watch?v=TWnxNX33vaE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çocuklar için çizgi film Yardımcı Arabalar - ÖZEL BÖLÜMLER! Traktör, damperli ve süt kamyonlar" https://www.youtube.com/watch?v=XUtvwnYhl6o
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Damperli kamyon süt kamyonuna yardım ediyor! Çocuklar için çizgi film - Yardımcı Arabalar" https://www.youtube.com/watch?v=e7u96w7ytJg
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Taşıma kamyonu, renkli çekiciler, oyuncak kamyon - ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=6-P5FVjzhHk
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="🚜 Traktör su birikintisine saplandı! 🚜 Çocuklar için çizgi film Yardımcı Arabalar. Yeni bölüm" https://www.youtube.com/watch?v=2ghqDDJQRFo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - ÖZEL BÖLÜMLER - Deprem, Konteyner, Tren! Erkek çocuklar için çizgi film" https://www.youtube.com/watch?v=jePKWgMONic
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film Yardımcı Arabalar! Elektrikli araba alev oldu. İtfaiye arabasını çağıralım! Çocuklar için" https://www.youtube.com/watch?v=y2M3CNOldIM
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar  - Erkek çocuklar için ÖZEL BÖLÜMLER! Eğitici dizi - Türkçe izle" https://www.youtube.com/watch?v=JT8cUddJaio
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - TÜNEL, Oyuncak Kamyon ve OTOBÜSLER - Erkek çocuklar için ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=3NKOZzWEwg4
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Bebekler için çizgi film - Yardımcı Arabalar - Renkli trenler arabaları ve hayvanları taşıyor!" https://www.youtube.com/watch?v=e0eu9JZdYYE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Çizgi film - Yardımcı Arabalar - Uçak, Römork ve Taşıyıcı! Çocuklar için ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=kd3VrtJ3_dE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Yakıt kamyonları iş arabalara yakıt dolduruyor! Çizgi film izle" https://www.youtube.com/watch?v=H8_wCcMtjAE
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar Yarış PİSTİ ve GARAJ yapıyor! Çizgi film izle! Erkek çocuklar için ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=VgagydHVr78
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar oyun parkında 🚙💡 sokak lambasını takıyor! Erkek çocuklar için çizgi film" https://www.youtube.com/watch?v=XcxzNzW13r0
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Erkek çocuklar için oyuncak arabalar ile çizgi film - ÖZEL BÖLÜMLER!" https://www.youtube.com/watch?v=tBL4rkBiqN8
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - DEPREM! Çocuklar için oyuncak iş arabaları ile çizgi film - Türkçe izle" https://www.youtube.com/watch?v=SjInhTT9ibo
+#EXTINF:-1 tvg-id="Yardımcı Arabalar"  group-title="60yas" video-title="Yardımcı Arabalar - Pikap KAZA geçirdi! Çocuklar için araba oyunları. Çizgi film izle." https://www.youtube.com/watch?v=c1YGXZP4phA
+
+#Kaptan Pengu ve Arkadaşları
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 19 part 2" https://www.youtube.com/watch?v=WeJg54IpOlE
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 19 part 1" https://www.youtube.com/watch?v=yKVFARE00yw
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 18 part 2" https://www.youtube.com/watch?v=30fLdO6WE_E
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 18 part 1" https://www.youtube.com/watch?v=rBDmvqOAk_I
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 17 part 2" https://www.youtube.com/watch?v=4R6sKg6mXlE
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 17 part 1" https://www.youtube.com/watch?v=TrzTn5f_Z1M
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 16 part 2" https://www.youtube.com/watch?v=zUSi-i1h_qY
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 16 part 1" https://www.youtube.com/watch?v=xx14PQ6jslY
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 15 part 2" https://www.youtube.com/watch?v=cuhGif0jPVs
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 15 part 1" https://www.youtube.com/watch?v=ZObAlag5494
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü | 28 Şubat 2020'de sinemalarda | Yeni Fragman" https://www.youtube.com/watch?v=J6-HRmvni7Q
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="KAPTAN PENGU VE ARKADAŞLARI FİLM ŞARKISI (KLİP)" https://www.youtube.com/watch?v=biIyUvGYWBw
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Bölüm 11 part 2" https://www.youtube.com/watch?v=aqPtyacCHr8
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 20 part 1" https://www.youtube.com/watch?v=BBxBm9lSqyc
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Bölüm 10 part 2" https://www.youtube.com/watch?v=F-_llxPcE_8
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Bölüm 9 part 2" https://www.youtube.com/watch?v=LME7GCBYhfA
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - BOLUM 10 PART 01" https://www.youtube.com/watch?v=eD88qWIgajg
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Bölüm 9 Part 1" https://www.youtube.com/watch?v=HNxHVA_OfU0
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 08 PART 02" https://www.youtube.com/watch?v=-PlWdT2-81U
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 08 PART 01" https://www.youtube.com/watch?v=UmyVclqIEgQ
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 07 PART 02" https://www.youtube.com/watch?v=yqSte4HKbM0
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 07 PART 01" https://www.youtube.com/watch?v=tBXiHxmgArk
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 05 PART 01" https://www.youtube.com/watch?v=NXx01lrAbz8
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 04 PART 01" https://www.youtube.com/watch?v=aC3Eco5wfzU
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 04 PART 02" https://www.youtube.com/watch?v=GaQQtBNFgfM
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Kaptan Pengu ve Arkadaşları 3.bolüm part 2" https://www.youtube.com/watch?v=ZAH2HXvHvhs
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Su Elcileri BOLUM 02 PART 01" https://www.youtube.com/watch?v=u5Lh0QnYrGY
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü ( Bölüm 2 - Part 2)" https://www.youtube.com/watch?v=1B04tZFXJcI
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 20 part 2" https://www.youtube.com/watch?v=Oa7h3rgSnXI
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 21 part 1" https://www.youtube.com/watch?v=qlSBT0Igo9s
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 21 part 2" https://www.youtube.com/watch?v=0CyKnqcSUhU
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="KAPTAN PENGU VE ARKADAŞLARI | BEYAZ GÖKKUŞAĞI | Yeni Bölüm" https://www.youtube.com/watch?v=uwoQcAdHz7w
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="KAPTAN PENGU VE ARKADAŞLARI | HOROZUN İBİĞİ | Yeni Bölüm" https://www.youtube.com/watch?v=hu9bml4Jtf8
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="KAPTAN PENGU VE ARKADAŞLARI | GEÇMİŞ OLSUN | TRT ÇOCUK" https://www.youtube.com/watch?v=bZuXcMoUiH0
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="KAPTAN PENGU VE ARKADAŞLARI | OKUL AÇILIYOR | TRT ÇOCUK | Yeni Bölüm" https://www.youtube.com/watch?v=mooBi5-CORQ
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 14 part 2" https://www.youtube.com/watch?v=W-bEGeN078k
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 14 part 1" https://www.youtube.com/watch?v=Rvu6UpcbOUI
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 13 part 2" https://www.youtube.com/watch?v=1vKMInbUzug
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 13 part 1" https://www.youtube.com/watch?v=XrSprDsvxYA
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Bölüm 12 part 2" https://www.youtube.com/watch?v=SEbJa3iviWM
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü - Bölüm 12 part 1" https://www.youtube.com/watch?v=32TM-s5swZc
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 28 part 2" https://www.youtube.com/watch?v=VW2jOgNTQUw
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 28 part 1" https://www.youtube.com/watch?v=ZIUDkDWf6XQ
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 27 part 2" https://www.youtube.com/watch?v=pg2-_bZujoc
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 27 part 1" https://www.youtube.com/watch?v=VKNBOywQlUU
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 26 part 2" https://www.youtube.com/watch?v=BvcdF9ikxF8
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 26 part 1" https://www.youtube.com/watch?v=e-jnwZ0Ujuo
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 25 part 2" https://www.youtube.com/watch?v=nVbavih4G00
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 25 part 1" https://www.youtube.com/watch?v=b3XHSgglTZA
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 24 part 2" https://www.youtube.com/watch?v=iicz-h2uLwg
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 24 part 1" https://www.youtube.com/watch?v=alI5V_yQPrA
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 23 part 2" https://www.youtube.com/watch?v=joriOJDBAqc
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 23 part 1" https://www.youtube.com/watch?v=L_04KC8gwZQ
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 22 part 2" https://www.youtube.com/watch?v=EadWXLLJThE
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Bölüm 22 part 1" https://www.youtube.com/watch?v=S9hrVy-JGEE
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - Mandalina'nın Günlüğü ( Bölüm 1 - Part 2)" https://www.youtube.com/watch?v=bABFMzxGNZY
+#EXTINF:-1 tvg-id="Kaptan Pengu ve Arkadaşları"  group-title="60yas" video-title="Kaptan Pengu ve Arkadaşları - ilk bölüm" https://www.youtube.com/watch?v=yIG-8tV4zW8
+
+#İBİ
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Işıldayan Ağaçlar | İBİ Bölüm Şarkıları (49. Bölüm)" https://www.youtube.com/watch?v=oHXt1eNNglo
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Yürüyoruz Sessizce | İBİ Bölüm Şarkıları (49. Bölüm)" https://www.youtube.com/watch?v=oLIrqYzJwMQ
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Temizlik Şarkısı | İBİ Bölüm Şarkıları (50. Bölüm)" https://www.youtube.com/watch?v=yHoump2Cq0o
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Borra'nın Gözcüsü Una | İBİ Bölüm Şarkıları (52. Bölüm)" https://www.youtube.com/watch?v=vLDAi_yEslo
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Mezuniyet Konseri | İbi Bölüm Şarkıları (71. Bölüm)" https://www.youtube.com/watch?v=XOq6sMl1Pf8
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Una Hızlı Uçuyor | İbi Bölüm Şarkıları (60. Bölüm)" https://www.youtube.com/watch?v=N1t5M0usQ4s
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Gizemli Orman | İbi Bölüm Şarkıları (49. Bölüm)" https://www.youtube.com/watch?v=-IHqUAZZ138
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Dostluk Şarkısı | İbi Bölüm Şarkıları (49. Bölüm)" https://www.youtube.com/watch?v=pvI7MMy58tA
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Bir İz Takip Etmeli | İbi Bölüm Şarkıları (49. Bölüm)" https://www.youtube.com/watch?v=qlpYx1fZh1k
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Dodo'nun İzinde | İbi 2. Sezon 1. Bölüm" https://www.youtube.com/watch?v=Y5YRqU217SI
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Balon Köyü | İbi 2. Sezon 2. Bölüm" https://www.youtube.com/watch?v=s__i4uLKhKY
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Sarp Kayalıklar | İbi 2. Sezon 3. Bölüm" https://www.youtube.com/watch?v=WOiG9G21Qu4
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Suphuba Teleskobu | İbi 2. Sezon 4. Bölüm" https://www.youtube.com/watch?v=sq_Daw7Ef-k
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Dev Ağaçlar Ormanı | İbi 2. Sezon 5. Bölüm" https://www.youtube.com/watch?v=n9GqIlg24N8
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Kuzey Şifahanesi | İbi 2. Sezon 6. Bölüm" https://www.youtube.com/watch?v=Sjp3OEdyeOM
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Kikoba Bataklığı | İbi 2. Sezon 7. Bölüm" https://www.youtube.com/watch?v=_w8OgqJbyzc
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Taş Ustası | İbi 2. Sezon 8. Bölüm" https://www.youtube.com/watch?v=Fj1fZxBwurk
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Guma Ormanı | İbi 2. Sezon 9. Bölüm" https://www.youtube.com/watch?v=3hGQ0kPmOWU
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Maden Şehri Kattu | İbi 2. Sezon 10. Bölüm" https://www.youtube.com/watch?v=i4NkuYsCXgg
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Gippa Dağları | İbi 2. Sezon 11. Bölüm" https://www.youtube.com/watch?v=B4DuKAhXkGo
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Maku Bahçeleri | İbi 2. Sezon 12. Bölüm" https://www.youtube.com/watch?v=Xx8JWKAYjOg
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Bulut Şehri Gökada | İbi 2. Sezon 13. Bölüm" https://www.youtube.com/watch?v=z2wgwANq1t8
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Bulut Şehri Gökada 2 | İbi 3. Sezon 1. Bölüm" https://www.youtube.com/watch?v=AWcSzX2LOts
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Altın Adası | İbi 3. Sezon 2. Bölüm" https://www.youtube.com/watch?v=EHIeW3-FxqU
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Orman Adası | İbi 3. Sezon 3. Bölüm" https://www.youtube.com/watch?v=ZrPvmA2Igvw
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Pasta Adası | İbi 3. Sezon 4. Bölüm" https://www.youtube.com/watch?v=LRf-bWtDg7I
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Gemi Adası | İbi 3. Sezon 5. Bölüm" https://www.youtube.com/watch?v=MsdD3DNIKn8
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Çiçek Adası | İbi 3. Sezon 6. Bölüm" https://www.youtube.com/watch?v=PYZELdTOrcE
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Buz Adası | İbi 3. Sezon 7. Bölüm" https://www.youtube.com/watch?v=Qw3Wq1kWfsE
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Oyuncak Adası | İbi 3. Sezon 8. Bölüm" https://www.youtube.com/watch?v=oDh3VG6MUZM
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Kömür Adası | İbi 3. Sezon 9. Bölüm" https://www.youtube.com/watch?v=_eJiWb9PfCQ
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Cam Adası | İbi 3. Sezon 10. Bölüm" https://www.youtube.com/watch?v=7mPmTD4XltU
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Makine Adası | İbi 3. Sezon 11. Bölüm" https://www.youtube.com/watch?v=LmxEJWPXdBY
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Kaktüs Adası | İbi 3. Sezon 12. Bölüm" https://www.youtube.com/watch?v=wB7qTaap8E8
+#EXTINF:-1 tvg-id="İbi"  group-title="60yas" video-title="Bilgi Adası | İbi 3. Sezon 13. Bölüm" https://www.youtube.com/watch?v=KHS_ACvFwMc
+
 #9 YAS SONRASI VİDEOLAR
 #MAYSA VE BULUT
 #EXTINF:-1 tvg-id="Maysa ve Bulut"  group-title="9yas" video-title="Maysa ve Bulut - 1. Bölüm" https://www.youtube.com/watch?v=tuzx_YgMkjY
@@ -1333,3 +1672,19 @@
 #EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Başkanlık Yarışı | 23. Bölüm" https://www.youtube.com/watch?v=qpqDR46e16w
 #EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl - Geometrik Robotlar | 21. Bölüm" https://www.youtube.com/watch?v=JNMVRtvbitg
 #EXTINF:-1 tvg-id="Pırıl"  group-title="egitim" video-title="Pırıl 8. Bölüm -  Uzay'ın Doğum Günü Şifreleri" https://www.youtube.com/watch?v=JRU9T_7mWUo
+
+#ANNE BU NE?
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Dişlerimizi Neden Fırçalarız? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=F1HAF6azCY8
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="İç Organlarımız | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=_MmxwYR4EnY
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="5 Duyu Organımız | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=Li7yygGk3zc
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Trafik Lambaları | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=3iccTVpAs24
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Gökkuşağı Nasıl Oluşur? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=TgqkidYzaV0
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Arılar Nasıl Bal Yapar? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=Rwqg3-AvlnE
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Bulutlar Nasıl Oluşur? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=4G0ezAmB1eA
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Şimşek Nasıl Oluşur? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=HA2_NIEVszY
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Ayılar Neden Kış Uykusuna Yatar? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=jItZLHr7QWY
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Müzik Aletleri Çeşitleri Nelerdir? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=9mHnGZW1kI0
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Meyveli Dondurma | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=h66Dwt47czk
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Uçağın Bulutu | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=v_Oxmh9-ABk
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Yıldızlar Neden Parlar? | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=a-akfVqB9Ws
+#EXTINF:-1 tvg-id="Anne Bu Ne?"  group-title="egitim" video-title="Anneler Günü Kutlu Olsun! | Okul Öncesi Eğitici Animasyon | Anne Bu Ne?" https://www.youtube.com/watch?v=Kr_sBZJkG1M
