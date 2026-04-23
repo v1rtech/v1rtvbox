@@ -1,0 +1,3825 @@
+[
+  {
+    "id": "collection-ERFS5GWK",
+    "title": "Platformlar",
+    "folders": [
+      {
+        "id": "folder-WFGY1XPD",
+        "title": "Netflix",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Netflix.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-AT8KYHZO",
+        "title": "Prime Video",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/5c5ed8bf948c5b3ca63a11544b94c720/55dbe5d6db4b66a5-bf/s500x750/d6686beaab57aa152f1b92a4562f757a1c522a2f.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Prime-Video.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-OA4T8NYO",
+        "title": "HBO Max",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/cca7a86d443a0bc88536a2ad6ce72aec/b495f88d5c1df470-a2/s640x960/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/HBO-Max.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-8ZBZOMW9",
+        "title": "Disney+",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Disney.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-LN9SPMQN",
+        "title": "Hulu",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/3a7015de27b570e421a0182a66d0a69b/0ec3a7379449b39d-2d/s1280x1920/962f0dcfa0a2458bd6bf923ff47776f2404bf43a.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Hulu.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-IQTF27K8",
+        "title": "Apple TV+",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Apple-TV.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-ILJM8PD0",
+        "title": "Paramount+",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/Paramount.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Paramount.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-9YQK1ZF1",
+        "title": "Peacock",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/a378bf124ed7d00c8d7430cb8a9ae0cc/9e0da9dbc32641f6-b2/s1280x1920/e8c0ba2f6aadae5b6f532a177926528e94b04d68.gifv",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1d9c3371-5fcd-422c-b967-64a5d3847889.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-OKRSGYYC",
+        "title": "Shudder",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://max-streams.gleeze.com/images/Shudder.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Shudder.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.48300"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.48301"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-6S0KR2JH",
+        "title": "MGM+",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/9f43b185411e18d71444c9a5a5a79632/5d68ae94e9917470-70/s500x750/0871e87c17045759735ef64c26703c71b585bfb0.gifv",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/886dd8ac-2c7f-4ad6-9fe9-dab115ca7c00.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.48305"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.48306"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-9B3VK7AU",
+        "title": "Starz",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/81fe52878aad139bc7b4ff5db7efc766/1e7a62d9e4b13b7a-a2/s500x750/740d23b1e14a96d02282d62190ee61e2a30aed4d.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Starz.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sta"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sta"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-5H64D1DG",
+        "title": "Discovery+",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://max-streams.gleeze.com/images/Discovery.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b65b07ab-94c8-42f6-ace1-fe02e34b5e3b.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dpe"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dpe"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-09PNV6FI",
+        "title": "A&E",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://max-streams.gleeze.com/images/A&E.gif",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2563"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-SYDA8Z2J",
+        "title": "Nat Geo",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://max-streams.gleeze.com/images/NatGeo.gif",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.70792"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.70793"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+            {
+        "id": "folder-WFGY1XPA",
+        "title": "TEST",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://static.wixstatic.com/media/0bea30_4e92d4c4b0f24e519983b04e7c8a2a2a~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.164389"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-UGED6TEZ",
+    "title": "Trend & Popüler",
+    "folders": [
+      {
+        "id": "folder-E3BCC132",
+        "title": "Popular & Trending Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://8upload.com/image/4de4789e12942f85/TRENDING_MOVIES.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.87667"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89200"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91211"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.116037"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.121922"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91223"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128051"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91296"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91215"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128262"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91220"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91893"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.161241"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162058"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-CAAB6B57",
+        "title": "Popular & Trending TV",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://8upload.com/image/dfe86ec72f1b998d/TRENDING_MOVIES.jpeg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88434"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89201"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91213"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.116038"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.121921"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91224"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128052"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91297"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91217"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128054"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.130153"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128265"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91221"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91894"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.161243"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162055"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-FB78D723",
+        "title": "Top Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/5gnMjfPZ/Top-Rated.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.101881"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.134392"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1069E7FB",
+        "title": "Top TV",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/5gnMjfPZ/Top-Rated.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.101882"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-9D1C5A0D",
+        "title": "New Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Y238C08j/New_Movies_1.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86934"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128035"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128039"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128040"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128043"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128027"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128045"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.130779"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128261"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128047"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.150747"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.142799"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128049"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128037"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-F5BC0453",
+        "title": "New TV",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Pf4K5JKh/New_Series_1.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86710"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128029"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128034"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128038"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128041"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128044"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128028"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128046"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.130777"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128056"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128264"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128048"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.150728"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128050"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-HFTCV0TA",
+    "title": "Türler",
+    "folders": [
+      {
+        "id": "folder-JRWZVYWG",
+        "title": "Action",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/sdNDx5FH/Chat-GPT-mage-24-Nis-2026-00-28-37.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158800"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158825"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-IWC8T1WM",
+        "title": "Comedy",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/comedy-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158801"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158826"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-KVW3FYE5",
+        "title": "Mystery",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5c537c81-e7e0-4626-ae01-81be3c3498e0.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158802"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158823"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ZYDJZBEV",
+        "title": "Fantasy / Sci-Fi",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/fantasy-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158803"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158827"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-DTEQHREL",
+        "title": "Crime",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/crime-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158804"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158828"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-X9YZCXBH",
+        "title": "Thriller",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/thriller-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158805"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158829"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-GXG1NG9E",
+        "title": "Romance",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/romance-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158806"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158824"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-8Z2DZVUO",
+        "title": "Drama",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/drama-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158807"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158830"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-FWKG65UR",
+        "title": "Family",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/kids-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158809"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158831"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-CSJVDVSC",
+        "title": "Adventure",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/adventure-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158810"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158832"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-K8CIZ3LO",
+        "title": "Animation",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://max-streams.gleeze.com/images/animation.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158811"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158834"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-W7VQ4ZGQ",
+        "title": "Horror",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/horror-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158812"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158835"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6DUG1MQF",
+        "title": "Documentary",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/documentary-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158813"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158836"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-LCRKWAHO",
+        "title": "History",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/v4TXyJ9T/history.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158814"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158837"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-SY0BJAAJ",
+        "title": "War",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/war-stories-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158815"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158838"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-AP4ISXTE",
+        "title": "Anime",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/anime-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158817"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158840"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-MZB3E70S",
+        "title": "KDrama",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/00ecf0f6-3814-4a65-9c83-eea216c55bef.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158818"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158841"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-8B3PEI1Y",
+        "title": "Stand-Up Comedy",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/334d576b-e950-4ffd-a7a9-6b0d1cbeb62b.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159674"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-KQEZGAMF",
+        "title": "Reality TV",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/reality-wide.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.160049"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-CBTFNKFR",
+        "title": "Mindfuck Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b522cc34-c503-4251-a0aa-d2b3f61e968d.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3892"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/cd52bdf4-c767-4822-b6a3-2d6f873d5e46.jpg",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-8EYK6R4X",
+    "title": "Film Koleksiyonları",
+    "folders": [
+      {
+        "id": "folder-DSTEFQF0",
+        "title": "Halloween",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/uCIMY95aqKEwIEwNuFq42UQkY9f.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159855"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.161384"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EVGWRCD0",
+        "title": "Friday the 13th",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/p3fJC9R4pCj5Vw0gP7Di0GZts9Z.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159951"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-SL8H08K7",
+        "title": "The Conjuring",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159945"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-FIBR6Z6C",
+        "title": "Insidious",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/insidious-collection-56762659466a0.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.126818"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3FZ1D001",
+        "title": "Chucky",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/50aqbDvbOtdlZrje6Qk4ZvKM7dM.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159943"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-M8JCRJPC",
+        "title": "Saw",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/w0zPElyuA5q2kjdfa2FdNYeS5Io.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159952"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.11227"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-01V03WDO",
+        "title": "Scream",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/p3EjClFy20jjT0u06dzBs4lvvhi.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159929"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.42149"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-E8505L8O",
+        "title": "The Matrix",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.125142"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-CG3NJT8B",
+        "title": "Terminator",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/kpZxdNsAV7qTdTLwKM5NLqa7GEo.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159876"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-XW3V47PD",
+        "title": "Jurassic Park",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/jurassic-park-collection-548cafb6b49c0.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159912"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-MRGU6H9R",
+        "title": "Dune",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/lxIGYkpvYjLtYtZH684AQft0FhD.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159893"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-P0NIU9AH",
+        "title": "Mad Max",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/tRxkZboyyXnFgCthoViWBwISZ0r.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.125457"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EFMXBFZA",
+        "title": "The Hunger Games",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/cEBNDEMGqvSvU0knEv9Wl3dk5kv.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159906"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-D6RS47FD",
+        "title": "Harry Potter",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159905"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-BWT7A12C",
+        "title": "Fantastic Beasts",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/-5c7ce20ca2291.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59630"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-4857DK4E",
+        "title": "Lord of the Rings",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w1280/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31307"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-J3XUXYTU",
+        "title": "The Hobbit",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/hQghXOjSS2xfzx9XnMyZqt8brCF.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31308"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-W8II4OSK",
+        "title": "Pirates of the Caribbean",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/pirates-of-the-caribbean-collection-5268ca24087a7.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159955"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-YXQ1WOFA",
+        "title": "James Bond",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159896"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-I0VC2T8T",
+        "title": "Guardians of the Galaxy",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/kFWLxUwcSpiLzszZbxUIZT9g6WR.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162848"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EC7QDGHV",
+        "title": "Man of Steel",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/man-of-steel-collection-5f0ad82af3a69.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162849"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-SO8VHUUT",
+        "title": "Toy Story",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/toy-story-collection-55218be2dec13.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.119166"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6XY0U8AR",
+        "title": "Shrek",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/qNHZMe92A7Pyl46qUH29hVOtbSK.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.119145"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-TIJ7A70A",
+        "title": "Kung Fu Panda",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/kung-fu-panda-collection-56e3f72c55a43.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162851"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-E2668RVM",
+        "title": "How to Train Your Dragon",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/how-to-train-your-dragon-collection-5438c244839b1.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162852"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-2F2TTQQ4",
+        "title": "A Nightmare on Elm Street Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/a-nightmare-on-elm-street-collection-52e520cbca031.JPG",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.135045"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-Q2QP1MYR",
+        "title": "A Quiet Place",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/7WkFgOFJ6kKpqfEUo78zS3gjDlm.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159884"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-HRY0SKH0",
+        "title": "Alien Universe",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/gWFHIY77cRVoBRGERwMHqpD27gc.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159936"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-K3LUQ5Q0",
+        "title": "American Pie",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/american-pie-collection-54c142b8a6bac.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159942"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-227TMGW0",
+        "title": "Die Hard Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/die-hard-collection-5235b87cf2fda.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.155016"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EPTSR7I8",
+        "title": "Evil Dead Trilogy",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/eWFADubShlTEUiNsPcN6BMOKakr.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.126232"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-CKV5RZTH",
+        "title": "Fast & Furious Universe",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/zOCnMPoUxgJK1RFPfN4PcnT16gr.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159901"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-J6R1LTR1",
+        "title": "Final Destination",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/nr4MXTXK2in9gxYhFMQGni66KRJ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159948"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-VCI973GT",
+        "title": "Ghostbusters",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/ghostbusters-collection-534fdd3eee6cb.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159851"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-GU2YXXJ4",
+        "title": "Hannibal Lecter",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/lTtnUnKVFLX10Ui19WGiL7CqZ1y.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159853"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-XTMA6SHW",
+        "title": "Hellraiser Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/lIK0UgJsA18Z5I1PwpucXzgyF3A.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.155191"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-U9448ZN5",
+        "title": "It Universe",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/tZ55C7gPExwzvBLCsZMqFZMbB2I.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159910"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5RGHITCT",
+        "title": "John Wick Universe",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/gOa5QhSrMKB4HrBtNUSFz4OjuAT.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.143882"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-B40Z8RVO",
+        "title": "Men in Black",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/men-in-black-collection-534c3c048e9b0.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162279"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3XGTTI1Z",
+        "title": "Mission: Impossible",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/mission-impossible-collection-534bd002591ab.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31309"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-RXXR845I",
+        "title": "Now You See Me",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159956"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-VGHMVFL2",
+        "title": "Predator Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31302"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-B2DBI2DF",
+        "title": "Resident Evil",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/bJXqRRb87ObiJZh8dKLFz6DO9TZ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159874"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-Z9057UDU",
+        "title": "Rocky",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/1hxPlyxoACYuO7kqeeed83LvJuN.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159954"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-UFNXPEXU",
+        "title": "Star Trek Universe",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/inBu32uGF8dV7vbThjaRVMrm5PU.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.143870"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-4APZLP3F",
+        "title": "Star Wars Universe",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.143863"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-R3U0X5Q3",
+        "title": "The Bourne",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/q0ma8ozYaaol1IvdGjBvj3KllyL.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159877"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-FZ3J711Y",
+        "title": "The Exorcist",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/1gw7RCYyRqginNo5D9PMPQQw7QB.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159878"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-Y41PS3IF",
+        "title": "The Karate Kid",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/o6h2F0C5eZOy50Q76fNYzc9mvvw.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159880"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5A3NG14K",
+        "title": "The Last Airbender",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159887"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-V924QBZP",
+        "title": "The Purge",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/eO8KF89eSpsqtyLDMoqSQEj8OJK.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159867"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-60P4CKSW",
+        "title": "The Ring",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/500xj7l72BojMZ3tNBJY46tg5YJ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162384"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-VQ0RFI0V",
+        "title": "The Texas Chainsaw Massacre",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/the-texas-chainsaw-massacre-552ab3a6a6d8b.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.155090"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-8ULY33JF",
+        "title": "Transformers",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/634HpDF95NXzfExXfmeDNPEwT3r.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159926"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-1IPJJWUO",
+    "title": "Aktörler",
+    "folders": [
+      {
+        "id": "folder-XUWHHVGP",
+        "title": "Timothée Chalamet",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158987"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158989"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-945BBZ71",
+        "title": "Zendaya",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158990"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158991"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-605K3KOE",
+        "title": "Adam Sandler",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158994"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-W2T6Q6UR",
+        "title": "Angelina Jolie",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXA9vMvskmIDB5NqHCkTQPmemep.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158995"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-DZSNJWP8",
+        "title": "Anne Hathaway",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158996"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158997"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-OHEF9ST6",
+        "title": "Arnold Schwarzenegger",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158999"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159001"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-I31UZNJM",
+        "title": "Ben Stiller",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159002"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-WN9TJ2V5",
+        "title": "Benedict Cumberbatch",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159003"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159004"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EWQU214F",
+        "title": "Bill Murray",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159008"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-4O5WX5J7",
+        "title": "Brad Pitt",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9DzKQLNbh5QfXlrFGHoVNKER7X.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159009"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3GA2OJS5",
+        "title": "Channing Tatum",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159010"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159011"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-O0EYU3C6",
+        "title": "Christian Bale",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159014"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-PT09U7US",
+        "title": "Chuck Norris",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159016"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159017"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1MT3E7JX",
+        "title": "Clint Eastwood",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159018"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159278"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-NXP6NYYF",
+        "title": "Daniel Craig",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159019"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159274"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-OYNTO8MR",
+        "title": "Denzel Washington",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj2Gcobpopokal0YstuCQW0ldJ4.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159027"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159276"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-OJ9YZAFL",
+        "title": "Dwayne Johnson",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159028"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159277"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ZNB7JR2M",
+        "title": "Emma Stone",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159029"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159031"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-K86DBZMW",
+        "title": "Florence Pugh",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159033"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159035"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-XDM8QSRQ",
+        "title": "George Clooney",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/djpIprpdFKF0WKN7Hxtni6voyUW.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159038"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159039"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-M1VFV480",
+        "title": "Harrison Ford",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159040"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159041"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-KA8XKYNJ",
+        "title": "Jack Black",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159042"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159043"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-B917TF6F",
+        "title": "Jackie Chan",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159044"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-UFIE5PKA",
+        "title": "Jenna Ortega",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQb6COORkv8liT5FMtXdHuvjUsb.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159048"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159047"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-HHRNRPJN",
+        "title": "Jason Statham",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159046"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7PZ2IC9E",
+        "title": "Jennifer Aniston",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sQcYpMkmZMc2pXnkmAuYzNVhXB.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159052"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159054"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-RYACPSJS",
+        "title": "Jennifer Lawrence",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159056"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-PNIPTSRH",
+        "title": "Jim Carrey",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159078"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159279"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-QM7V6HP9",
+        "title": "Johnny Depp",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159079"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159080"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1UOFXXEF",
+        "title": "Jonah Hill",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cymlWttB83MsAGR2EkTgANtjeRH.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159084"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159280"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-O0SRQCJW",
+        "title": "Julia Roberts",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQ7076pL4Ac0ZzY4w31labWIdQt.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159086"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159087"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1604Q6HS",
+        "title": "Katherine Heigl",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjtNdbdy1qn25y5SGl71y8nR0Kg.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159089"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159090"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5UQGYJAA",
+        "title": "Leonardo DiCaprio",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159219"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-YRQFYRKP",
+        "title": "Lily Collins",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhJISAc4qi7xiHMzHMzUTgZSIRH.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159220"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159222"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1PSZJXFJ",
+        "title": "Margot Robbie",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159225"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159281"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-410CFF8W",
+        "title": "Matt Damon",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159226"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-G2RMMKH5",
+        "title": "Matthew McConaughey",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCySuYjhXix3FzQdS4oceDDrXKI.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159228"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159230"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EPK6R7EK",
+        "title": "Melissa McCarthy",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yl0qva0O4u92fvtItakdvKmKrW9.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159231"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159232"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-MIB5RZ0C",
+        "title": "Meryl Streep",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159233"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159282"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-11QY56V5",
+        "title": "Michael „Bully“ Herbig",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/93PW1NGTkcYxgCfPfd0m4xa7rHJ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159235"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159283"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ZUY0XXRT",
+        "title": "Millie Bobby Brown",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159236"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159237"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5CXC385A",
+        "title": "Mila Kunis",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159238"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159239"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-J1RAZM72",
+        "title": "Morgan Freeman",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPsLqiYGSofU4s6BjrxnefMfabb.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159240"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159286"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EVCMQ9T7",
+        "title": "Nicolas Cage",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159241"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-CTECPI5B",
+        "title": "Nicole Kidman",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159242"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159243"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-QKOPEAFE",
+        "title": "Owen Wilson",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFxHIlcywMlYpe6wkW39sfBrqag.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159244"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5GG8IEFS",
+        "title": "Reese Witherspoon",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1z4UwW2137IViFIRk8AV8hWze1.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159247"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159248"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-XHYD208Y",
+        "title": "Robert Downey Jr.",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159249"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159250"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-KZMS6JGG",
+        "title": "Robin Williams",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159251"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159285"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-RZQ1AUY2",
+        "title": "Ryan Reynolds",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/trzgptffGvAlAT6MEu01fz47cLW.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159252"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-L9X0YH1K",
+        "title": "Samuel L. Jackson",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159253"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159254"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-0651BZ5H",
+        "title": "Sandra Bullock",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159255"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-S9PL2LBS",
+        "title": "Steve Carell",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS7Cbyff6wFVfUGem497vy9LS7A.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159256"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159257"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-VTJEILKH",
+        "title": "Sydney Sweeney",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159258"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159259"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-WHDUWUZP",
+        "title": "Sylvester Stallone",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159261"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159262"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-K7KBI0CH",
+        "title": "Tom Cruise",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159263"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-87CCQSOL",
+        "title": "Tom Holland",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159264"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159265"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6ULK8QN5",
+        "title": "Jake Gyllenhaal",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159477"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-13LJW3A6",
+    "title": "Efsane Yönetmenler",
+    "folders": [
+      {
+        "id": "folder-A66SHTGA",
+        "title": "Christopher Nolan",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159441"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-Y6HCBSG1",
+        "title": "David Lynch",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159451"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-9X2CY7YF",
+        "title": "Brian De Palma",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWjOPDt8HRww5VAtpZ5FiCxpIxu.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159449"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-Z0OAZ9FR",
+        "title": "Spike Lee",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159452"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-YPTQKYZE",
+        "title": "Quentin Tarantino",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159453"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-WDFLJKHW",
+        "title": "Ridley Scott",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97SO7H0UlS3racqjeW5JTy8c6GM.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159454"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-SCHV711N",
+        "title": "Steven Spielberg",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159455"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-PAFMILCV",
+        "title": "James Cameron",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159456"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ANQHAN5N",
+        "title": "John Carpenter",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159457"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-Y9MU9CMO",
+        "title": "Denis Villeneuve",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdDx9Xs93UIrJFWYApYR28J8M6b.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159458"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-LGSRKQV0",
+        "title": "Alfred Hitchcock",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159462"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3MKGRMG7",
+        "title": "David Fincher",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159463"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-W0HBE0WA",
+        "title": "Paul Thomas Anderson",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159464"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1RUS4D4F",
+        "title": "Francis Ford Coppola",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159465"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-EX1G95Z6",
+        "title": "Guillermo del Toro",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159466"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-TRWF1LDN",
+        "title": "Martin Scorsese",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159467"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-T5581MT7",
+        "title": "Peter Jackson",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159468"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5GG8LTL7",
+        "title": "Stanley Kubrick",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159469"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-S3GIG4CE",
+        "title": "Wes Anderson",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159471"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7YENCQ4R",
+        "title": "Greta Gerwig",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H0xzU12GTNJyQTpGysEuI9KyiQ.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159472"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-XB14SDA2",
+    "title": "Stüdyolar",
+    "folders": [
+      {
+        "id": "folder-HIBQDXNK",
+        "title": "Marvel Studios",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/937640d2-3147-4c7c-af39-01888f2eea9f.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159690"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159982"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159984"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6P4NWKXQ",
+        "title": "DC",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159999"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.160000"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159996"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159997"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6U9GVTZ2",
+        "title": "Walt Disney",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/64f8f8e3-5e6e-46eb-8c56-85d54f8e6e79.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159700"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-VPP0H5I8",
+        "title": "Pixar",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/aba80c00-dc90-481f-b477-a91c7ce337e3.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159678"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-W1GPAAU2",
+        "title": "Warner Bros.",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/883a2ff6-f02f-4f0c-8b28-d61d469568f1.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159685"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-YP4E2353",
+        "title": "Universal Pictures",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://s.yimg.com/os/en_US/Entertainment/Variety/universal-logo.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159686"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-GQW5CKJH",
+        "title": "Paramount",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ytimg.com/vi/wnfDBLIprkQ/maxresdefault.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159687"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-M3T7MHOA",
+        "title": "20th Century Studios",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/gray/N6OBP73LOJOMNHZPDA5S6Z5WAU.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159689"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ZPTIZVBV",
+        "title": "A24",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://max-streams.gleeze.com/images/A24.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5fde56a8-49c4-4543-9a9f-2c8752e1276d.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159693"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-WRU0BTV7",
+        "title": "Blumhouse",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://max-streams.gleeze.com/images/Blumhouse.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/66d67cfc-80fb-43fe-9bc7-25198eefd611.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.96197"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-LNFTFXUH",
+        "title": "Illumination",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/591ea9df-96cd-471b-afc0-199a9d8e18e9.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159699"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-M5S3RAUV",
+        "title": "DreamWorks Animation",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.imgur.com/HK9oP0V.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159680"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-4ULKM4VO",
+        "title": "Lionsgate",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2a8e94a-b991-4ba6-8f3c-a58101734bcb/dh2uzk1-284dad0f-1607-4e28-93a4-670aadb18b5f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iMmE4ZTk0YS1iOTkxLTRiYTYtOGYzYy1hNTgxMDE3MzRiY2IvZGgydXprMS0yODRkYWQwZi0xNjA3LTRlMjgtOTNhNC02NzBhYWRiMThiNWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S_pUL89xWTTywdz7YPHEw6IHyaRF7PO0XwUCXVy1sfI",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159692"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-UXYRTVY3",
+        "title": "MGM",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://logos-world.net/wp-content/uploads/2021/04/Metro-Goldwyn-Mayer-MGM-Logo.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159684"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-MEDUOLRS",
+        "title": "New Line Cinema",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/screenshot_2024_08_18_at_10207pm_2.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159691"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5K99UEKX",
+        "title": "Studio Ghibli",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://4kwallpapers.com/images/walls/thumbs_3t/18311.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159694"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-VXG53N4E",
+        "title": "Lucasfilm",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://yt3.googleusercontent.com/G0PCRG5dpLR7te7vsCBOJ5s8m3YFvK6Hg9FaSw_ewoaY7pBHwm-y14mCU0v9tSjubt-Dgk0G=s900-c-k-c0x00ffffff-no-rj",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159677"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-Y2HQBZ5I",
+    "title": "Yıllara Göre Filmler",
+    "folders": [
+      {
+        "id": "folder-VMYWM6ZK",
+        "title": "90s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/d95c44b0-3100-4c5f-a52e-5c6674b58aa7.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158793"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-8CFPI44Q",
+        "title": "80s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/939476ac-33f7-4931-8d01-782e8ca9177f.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158794"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-FXPDJY5T",
+        "title": "70s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/e065683e-8588-491a-87ce-57aed17de117.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158795"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-N0O4TY4I",
+        "title": "20s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/c34e1ca4-20b7-4ee1-a0f4-e3eaedd11f8a.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158796"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-NEK4LQ1T",
+        "title": "00s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/3d70da09-2d0e-489e-b76a-d6c04f851e33.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158792"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-RTDIH0YV",
+        "title": "10s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/7dfab725-42aa-4bf3-9df1-da6066ac8973.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158791"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  }
+]
