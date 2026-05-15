@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "ad": "Test",
+    "soyad": "Kullanici",
+    "tel": "+905551112233",
+    "mail": "test@royal.example",
+    "created_at": "2026-05-15T00:00:00Z",
+    "started_at": "2026-05-15T00:00:00Z",
+    "deadline_at": "2026-12-31T23:59:59Z",
+    "licence_code": "ROYAL-TEST-2026"
+  }
+]
