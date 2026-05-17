@@ -1,0 +1,331 @@
+{
+  "id": "aio-metadata",
+  "version": "0.0.0-testing.20260513.1",
+  "logo": "https://aiometadata.viren070.me/logo.png",
+  "background": "https://aiometadata.viren070.me/background.png",
+  "name": "AIOMetadata",
+  "description": "A metadata addon for power users. AIOMetadata uses TMDB, TVDB, TVMaze, MyAnimeList, IMDB and Fanart.tv to provide accurate data for movies, series, and anime. You choose the source.",
+  "resources": [
+    "catalog",
+    "meta",
+    "subtitles"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "anime.movie",
+    "anime.series",
+    "anime",
+    "Trakt",
+    "collection"
+  ],
+  "idPrefixes": [
+    "tmdb:",
+    "tt",
+    "tvdb:",
+    "mal:",
+    "tvmaze:",
+    "kitsu:",
+    "anidb:",
+    "anilist:",
+    "tvdbc:",
+    "upnext_",
+    "unwatched_",
+    "mdblist_upnext_",
+    "pmdb_resume_"
+  ],
+  "stremioAddonsConfig": {
+    "issuer": "https://stremio-addons.net",
+    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..3_iKJ-pKhR-LclfTPxvyag.uY747PgjymdL0OMdZrE7HTOVG-8nNWC-LrlJ5tCXm2i2FioXv_ismzWV0_XsLl0Me9cW9D3xog6d4tSHDY8Pe27mbIylUb61MS4VVqg_sFZXUVon2le-fRFrtmMnIqCF.oyYRDftPN2sohMpDMbMbYg"
+  },
+  "behaviorHints": {
+    "configurable": true,
+    "configurationRequired": false,
+    "newEpisodeNotifications": true
+  },
+  "catalogs": [
+    {
+      "id": "flixpatrol.netflix.tr.movie",
+      "type": "movie",
+      "name": "Netflix Türkiye'de Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.netflix.tr.series",
+      "type": "series",
+      "name": "Netflix Türkiye'de Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.netflix.world.movie",
+      "type": "movie",
+      "name": "Netflix Dünya Geneli Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.netflix.world.series",
+      "type": "series",
+      "name": "Netflix Dünya Geneli Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.disney.tr.movie",
+      "type": "movie",
+      "name": "Disney+ Türkiye'de Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.disney.tr.series",
+      "type": "series",
+      "name": "Disney+ Türkiye'de Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.disney.world.series",
+      "type": "series",
+      "name": "Disney+ Dünya Geneli Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.disney.world.movie",
+      "type": "movie",
+      "name": "Disney+ Dünya Geneli Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.amazon-prime.tr.movie",
+      "type": "movie",
+      "name": "Prime Video Türkiye'de Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.amazon-prime.tr.series",
+      "type": "series",
+      "name": "Prime Video Türkiye'de Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.amazon-prime.world.movie",
+      "type": "movie",
+      "name": "Prime Video Dünya Geneli Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.amazon-prime.world.series",
+      "type": "series",
+      "name": "Prime Video Dünya Geneli Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.hbo-max.world.movie",
+      "type": "movie",
+      "name": "HBO Max Dünya Geneli Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.hbo-max.world.series",
+      "type": "series",
+      "name": "HBO Max Dünya Geneli Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.apple-tv.world.movie",
+      "type": "movie",
+      "name": "Apple TV+ Netflix Dünya Geneli Bugünün Top 10 Film Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "flixpatrol.apple-tv.world.series",
+      "type": "series",
+      "name": "Apple TV+ Dünya Geneli Bugünün Top 10 Dizi Listesi",
+      "pageSize": 10,
+      "extra": [],
+      "showInHome": true
+    },
+    {
+      "id": "trakt.favorites.movies",
+      "type": "movie",
+      "name": "Virecus Film",
+      "pageSize": 20,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Anime",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Donghua",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Holiday",
+            "Horror",
+            "Music",
+            "Musical",
+            "Mystery",
+            "None",
+            "Romance",
+            "Science Fiction",
+            "Short",
+            "Sporting Event",
+            "Superhero",
+            "Suspense",
+            "Thriller",
+            "War",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "id": "trakt.favorites.shows",
+      "type": "series",
+      "name": "Virecus Dizi",
+      "pageSize": 20,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "None",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Anime",
+            "Biography",
+            "Children",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Donghua",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Game Show",
+            "History",
+            "Holiday",
+            "Home And Garden",
+            "Horror",
+            "Mini Series",
+            "Music",
+            "Musical",
+            "Mystery",
+            "News",
+            "None",
+            "Reality",
+            "Romance",
+            "Science Fiction",
+            "Short",
+            "Soap",
+            "Special Interest",
+            "Sporting Event",
+            "Superhero",
+            "Suspense",
+            "Talk Show",
+            "Thriller",
+            "War",
+            "Western"
+          ],
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ],
+      "showInHome": false
+    },
+    {
+      "id": "search.movie",
+      "type": "movie",
+      "name": "Movies Search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "search.series",
+      "type": "series",
+      "name": "Series Search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "calendar-videos",
+      "extra": [
+        {
+          "name": "calendarVideosIds",
+          "isRequired": true,
+          "optionsLimit": 100
+        }
+      ],
+      "extraSupported": [
+        "calendarVideosIds"
+      ],
+      "extraRequired": [
+        "calendarVideosIds"
+      ],
+      "name": "Calendar videos"
+    }
+  ],
+  "configVersion": 1779047447563,
+  "language": "tr-TR",
+  "_debug": {
+    "language": "tr-TR",
+    "configVersion": 1779047447563,
+    "timestamp": "2026-05-17T19:53:22.366Z"
+  },
+  "_timestamp": 1779047602366
+}
