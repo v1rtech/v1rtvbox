@@ -390,7 +390,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.164389"
+            "catalogId": "trakt.favorites.movies"
           }
         ],
         "focusGifEnabled": true
