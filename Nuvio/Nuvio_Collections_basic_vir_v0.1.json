@@ -433,7 +433,7 @@
         "title": "Comedy",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/comedy-wide.png",
+        "coverImageUrl": "https://i.ibb.co/7tWkv4rM/komedi.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -455,7 +455,7 @@
         "title": "Mystery",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5c537c81-e7e0-4626-ae01-81be3c3498e0.png",
+        "coverImageUrl": "https://i.ibb.co/FbbtfxrS/gizem-wide.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -477,7 +477,7 @@
         "title": "Fantasy / Sci-Fi",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/fantasy-wide.png",
+        "coverImageUrl": "https://i.ibb.co/B2t6s4Sw/fantezi-wide.png",
         "catalogSources": [
           {
             "type": "movie",
