@@ -12,9 +12,24 @@
         "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Netflix.jpg",
         "catalogSources": [
           {
-            "type": "top10",
+            "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.135808"
+            "catalogId": "flixpatrol.netflix.tr.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.netflix.tr.series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.netflix.world.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.netflix.world.series"
           },
           {
             "type": "movie",
@@ -40,6 +55,26 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.amazon-prime.tr.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.amazon-prime.tr.series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.amazon-prime.world.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.amazon-prime.world.series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
             "catalogId": "streaming.amp"
           },
           {
@@ -61,6 +96,26 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.hbo-max.tr.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.hbo-max.tr.series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.hbo-max.world.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.hbo-max.world.series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
             "catalogId": "streaming.hbm"
           },
           {
@@ -79,6 +134,26 @@
         "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
         "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Disney.jpg",
         "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.disney.tr.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.disney.tr.series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.disney.world.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.disney.world.series"
+          },
           {
             "type": "movie",
             "addonId": "aio-metadata",
@@ -121,6 +196,16 @@
         "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
         "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Apple-TV.png",
         "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.apple-tv.world.movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.apple-tv.world.series"
+          },
           {
             "type": "movie",
             "addonId": "aio-metadata",
