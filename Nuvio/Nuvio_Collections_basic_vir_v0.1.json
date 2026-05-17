@@ -12,6 +12,11 @@
         "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Netflix.jpg",
         "catalogSources": [
           {
+            "type": "top10",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.135800"
+          },
+          {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "streaming.nfx"
