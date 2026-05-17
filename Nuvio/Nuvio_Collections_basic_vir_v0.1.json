@@ -855,6 +855,52 @@
         "focusGifEnabled": false
       },
       {
+        "id": "folder-4857DK4E",
+        "title": "Lord of the Rings",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w1280/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31307"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-J3XUXYTU",
+        "title": "The Hobbit",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/hQghXOjSS2xfzx9XnMyZqt8brCF.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31308"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-W8II4OSK",
+        "title": "Pirates of the Caribbean",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://assets.fanart.tv/fanart/pirates-of-the-caribbean-collection-5268ca24087a7.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159955"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
         "id": "folder-DSTEFQF0",
         "title": "Halloween",
         "hideTitle": true,
@@ -1083,52 +1129,6 @@
             "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.59630"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-4857DK4E",
-        "title": "Lord of the Rings",
-        "hideTitle": true,
-        "tileShape": "POSTER",
-        "coverImageUrl": "https://image.tmdb.org/t/p/w1280/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.31307"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-J3XUXYTU",
-        "title": "The Hobbit",
-        "hideTitle": true,
-        "tileShape": "POSTER",
-        "coverImageUrl": "https://image.tmdb.org/t/p/original/hQghXOjSS2xfzx9XnMyZqt8brCF.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.31308"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-W8II4OSK",
-        "title": "Pirates of the Caribbean",
-        "hideTitle": true,
-        "tileShape": "POSTER",
-        "coverImageUrl": "https://assets.fanart.tv/fanart/pirates-of-the-caribbean-collection-5268ca24087a7.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159955"
           }
         ],
         "focusGifEnabled": false
