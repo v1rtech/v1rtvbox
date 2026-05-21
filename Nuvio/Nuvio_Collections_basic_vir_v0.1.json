@@ -2083,5 +2083,45 @@
     "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
+  },
+  {
+    "focusGlowEnabled": true,
+    "folders": [
+      {
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.19414"
+          }
+        ],
+        "coverImageUrl": "https://i.hizliresim.com/72vk0zg.png",
+        "focusGifEnabled": true,
+        "hideTitle": false,
+        "id": "f58bfa93-a14b-42d8-8987-25347cd5f988",
+        "tileShape": "LANDSCAPE",
+        "title": "Film"
+      },
+      {
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.109919"
+          }
+        ],
+        "coverImageUrl": "https://i.hizliresim.com/p3k7z4s.png",
+        "focusGifEnabled": true,
+        "hideTitle": false,
+        "id": "c1682fd7-b9d3-4ea7-a364-e695fd7e3f16",
+        "tileShape": "LANDSCAPE",
+        "title": "Dizi"
+      }
+    ],
+    "id": "1c9404b9-0930-4db6-9e7d-c25f01563be2",
+    "pinToTop": true,
+    "showAllTab": true,
+    "title": "TR Film&Dizi",
+    "viewMode": "TABBED_GRID"
   }
 ]
