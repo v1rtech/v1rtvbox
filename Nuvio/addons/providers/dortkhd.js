@@ -1,5 +1,5 @@
 /**
- * patrondortkhd - Built from src/patrondortkhd/
+ * V1Rdortkhd - Built from src/V1Rdortkhd/
  * Generated: 2026-05-02T17:00:14.024Z
  */
 var __create = Object.create;
@@ -67,17 +67,17 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patrondortkhd/index.js
-var patrondortkhd_exports = {};
-__export(patrondortkhd_exports, {
+// src/V1Rdortkhd/index.js
+var V1Rdortkhd_exports = {};
+__export(V1Rdortkhd_exports, {
   getStreams: () => getStreams
 });
-module.exports = __toCommonJS(patrondortkhd_exports);
+module.exports = __toCommonJS(V1Rdortkhd_exports);
 
-// src/patrondortkhd/extractor.js
+// src/V1Rdortkhd/extractor.js
 var import_cheerio_without_node_native2 = __toESM(require("cheerio-without-node-native"));
 
-// src/patrondortkhd/http.js
+// src/V1Rdortkhd/http.js
 var DOMAINS_URL = "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/domains.json";
 var DEFAULT_MAIN_URL = "https://4khdhub.click";
 var HEADERS = {
@@ -96,7 +96,7 @@ function getDomains() {
         throw new Error(`HTTP ${res.status}`);
       cachedDomains = yield res.json();
     } catch (error) {
-      console.warn(`[PatronDortKHD] domains.json alinamadi: ${error.message}`);
+      console.warn(`[V1RDortKHD] domains.json alinamadi: ${error.message}`);
       cachedDomains = {};
     }
     return cachedDomains;
@@ -137,7 +137,7 @@ function fetchText(_0) {
   });
 }
 
-// src/patrondortkhd/tmdb.js
+// src/V1Rdortkhd/tmdb.js
 var import_cheerio_without_node_native = __toESM(require("cheerio-without-node-native"));
 function getTmdbTitle(tmdbId, mediaType) {
   return __async(this, null, function* () {
@@ -191,14 +191,14 @@ function getTmdbTitle(tmdbId, mediaType) {
       }
       return { trTitle: title, origTitle, shortTitle };
     } catch (error) {
-      console.error(`[PatronDortKHD] TMDB baslik hatasi: ${error.message}`);
+      console.error(`[V1RDortKHD] TMDB baslik hatasi: ${error.message}`);
       return { trTitle: "", origTitle: "", shortTitle: "" };
     }
   });
 }
 
-// src/patrondortkhd/extractor.js
-var PROVIDER_NAME = "PatronDortKHD";
+// src/V1Rdortkhd/extractor.js
+var PROVIDER_NAME = "V1RDortKHD";
 var REDIRECT_REGEX = /s\('o','([A-Za-z0-9+/=]+)'|ck\('_wp_http_\d+','([^']+)'/g;
 function dedupeStreams(streams) {
   const seen = /* @__PURE__ */ new Set();
@@ -644,14 +644,14 @@ function extractStreams(tmdbId, mediaType, season, episode) {
   });
 }
 
-// src/patrondortkhd/index.js
+// src/V1Rdortkhd/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[PatronDortKHD] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
+      console.log(`[V1RDortKHD] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
       return yield extractStreams(tmdbId, mediaType, season, episode);
     } catch (error) {
-      console.error(`[PatronDortKHD] Hata: ${error.message}`);
+      console.error(`[V1RDortKHD] Hata: ${error.message}`);
       return [];
     }
   });

@@ -1,5 +1,5 @@
 /**
- * patronMulti - Built from src/patronMulti/
+ * V1RMulti - Built from src/V1RMulti/
  * Generated: 2026-04-29T15:24:03.566Z
  */
 var __async = (__this, __arguments, generator) => {
@@ -23,7 +23,7 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronMulti/extractor.js
+// src/V1RMulti/extractor.js
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
 var VERSION = "3.1.0";
 var VIDLINK_HEADERS = {
@@ -70,7 +70,7 @@ function encryptTmdbId(tmdbId) {
       if (data && data.result)
         return data.result;
     } catch (e) {
-      console.log(`[PatronMulti V${VERSION}] [VidLink] \u015Eifreleme ba\u015Far\u0131s\u0131z: ${e.message}`);
+      console.log(`[V1RMulti V${VERSION}] [VidLink] \u015Eifreleme ba\u015Far\u0131s\u0131z: ${e.message}`);
     }
     return null;
   });
@@ -152,22 +152,22 @@ function qualityFromResolution(resolution) {
 function tryVidLink(tmdbId, mediaType, season, episode, title, year) {
   return __async(this, null, function* () {
     try {
-      console.log(`[PatronMulti V${VERSION}] VidLink kontrol ediliyor...`);
+      console.log(`[V1RMulti V${VERSION}] VidLink kontrol ediliyor...`);
       var encryptedId = yield encryptTmdbId(tmdbId);
       if (!encryptedId) {
-        console.log(`[PatronMulti V${VERSION}] VidLink: \u015Fifreleme ba\u015Far\u0131s\u0131z, ge\xE7iliyor.`);
+        console.log(`[V1RMulti V${VERSION}] VidLink: \u015Fifreleme ba\u015Far\u0131s\u0131z, ge\xE7iliyor.`);
         return [];
       }
       var apiUrl = mediaType === "tv" ? `https://vidlink.pro/api/b/tv/${encryptedId}/${season}/${episode}` : `https://vidlink.pro/api/b/movie/${encryptedId}`;
       var displayTitle = mediaType === "tv" ? `${title} S${String(season).padStart(2, "0")}E${String(episode).padStart(2, "0")}` : year ? `${title} (${year})` : title;
       var response = yield fetch(apiUrl, { headers: VIDLINK_HEADERS });
       if (!response.ok) {
-        console.log(`[PatronMulti V${VERSION}] VidLink: HTTP ${response.status}`);
+        console.log(`[V1RMulti V${VERSION}] VidLink: HTTP ${response.status}`);
         return [];
       }
       var data = yield response.json();
       if (!data || !data.stream) {
-        console.log(`[PatronMulti V${VERSION}] VidLink: stream verisi yok`);
+        console.log(`[V1RMulti V${VERSION}] VidLink: stream verisi yok`);
         return [];
       }
       var streams = [];
@@ -189,10 +189,10 @@ function tryVidLink(tmdbId, mediaType, season, episode, title, year) {
             });
           }
         });
-        console.log(`[PatronMulti V${VERSION}] VidLink: ${streams.length} kalite bulundu (qualities)`);
+        console.log(`[V1RMulti V${VERSION}] VidLink: ${streams.length} kalite bulundu (qualities)`);
       }
       if (data.stream.playlist) {
-        console.log(`[PatronMulti V${VERSION}] VidLink: playlist al\u0131nd\u0131, parse ediliyor...`);
+        console.log(`[V1RMulti V${VERSION}] VidLink: playlist al\u0131nd\u0131, parse ediliyor...`);
         try {
           var plRes = yield fetch(data.stream.playlist, { headers: streamHeaders });
           if (plRes.ok) {
@@ -212,7 +212,7 @@ function tryVidLink(tmdbId, mediaType, season, episode, title, year) {
                   headers: streamHeaders
                 });
               });
-              console.log(`[PatronMulti V${VERSION}] VidLink: ${parsed.length} varyant bulundu (playlist parse)`);
+              console.log(`[V1RMulti V${VERSION}] VidLink: ${parsed.length} varyant bulundu (playlist parse)`);
             } else {
               streams.push({
                 url: data.stream.playlist,
@@ -222,7 +222,7 @@ function tryVidLink(tmdbId, mediaType, season, episode, title, year) {
                 subtitles: subtitles.length ? subtitles : void 0,
                 headers: streamHeaders
               });
-              console.log(`[PatronMulti V${VERSION}] VidLink: tek stream d\xF6nd\xFCr\xFCld\xFC (master playlist)`);
+              console.log(`[V1RMulti V${VERSION}] VidLink: tek stream d\xF6nd\xFCr\xFCld\xFC (master playlist)`);
             }
           }
         } catch (parseErr) {
@@ -233,12 +233,12 @@ function tryVidLink(tmdbId, mediaType, season, episode, title, year) {
             quality: "Auto",
             headers: streamHeaders
           });
-          console.log(`[PatronMulti V${VERSION}] VidLink: playlist parse hatas\u0131, master eklendi`);
+          console.log(`[V1RMulti V${VERSION}] VidLink: playlist parse hatas\u0131, master eklendi`);
         }
       }
       return streams;
     } catch (e) {
-      console.log(`[PatronMulti V${VERSION}] VidLink hatas\u0131: ${e.message}`);
+      console.log(`[V1RMulti V${VERSION}] VidLink hatas\u0131: ${e.message}`);
       return [];
     }
   });
@@ -259,7 +259,7 @@ function tryVidmody(imdbId, mediaType, season, episode, title, year) {
       }
       var checkRes = yield fetch(targetUrl.replace("#.m3u8", ""), { method: "HEAD" });
       if (checkRes.status === 200) {
-        console.log(`[PatronMulti V${VERSION}] Vidmody: i\xE7erik bulundu`);
+        console.log(`[V1RMulti V${VERSION}] Vidmody: i\xE7erik bulundu`);
         var meta = buildLabel("Vidmody", "Auto", displayTitle);
         return [{
           url: targetUrl,
@@ -272,10 +272,10 @@ function tryVidmody(imdbId, mediaType, season, episode, title, year) {
           }
         }];
       }
-      console.log(`[PatronMulti V${VERSION}] Vidmody: i\xE7erik bulunamad\u0131 (${checkRes.status})`);
+      console.log(`[V1RMulti V${VERSION}] Vidmody: i\xE7erik bulunamad\u0131 (${checkRes.status})`);
       return [];
     } catch (e) {
-      console.log(`[PatronMulti V${VERSION}] Vidmody hatas\u0131: ${e.message}`);
+      console.log(`[V1RMulti V${VERSION}] Vidmody hatas\u0131: ${e.message}`);
       return [];
     }
   });
@@ -285,34 +285,34 @@ function extractStreams(tmdbId, mediaType, season, episode) {
     try {
       var info = yield getTmdbInfo(tmdbId, mediaType);
       if (!info.imdbId || !info.imdbId.startsWith("tt")) {
-        console.log(`[PatronMulti V${VERSION}] IMDB ID bulunamad\u0131, iptal ediliyor.`);
+        console.log(`[V1RMulti V${VERSION}] IMDB ID bulunamad\u0131, iptal ediliyor.`);
         return [];
       }
-      console.log(`[PatronMulti V${VERSION}] Aran\u0131yor: ${info.imdbId} - ${info.title}`);
+      console.log(`[V1RMulti V${VERSION}] Aran\u0131yor: ${info.imdbId} - ${info.title}`);
       var allStreams = [];
       var vidlinkStreams = yield tryVidLink(tmdbId, mediaType, season, episode, info.title, info.year);
       allStreams = allStreams.concat(vidlinkStreams);
       var vidmodyStreams = yield tryVidmody(info.imdbId, mediaType, season, episode, info.title, info.year);
       allStreams = allStreams.concat(vidmodyStreams);
-      console.log(`[PatronMulti V${VERSION}] Toplam ${allStreams.length} stream bulundu`);
+      console.log(`[V1RMulti V${VERSION}] Toplam ${allStreams.length} stream bulundu`);
       return allStreams;
     } catch (e) {
-      console.error(`[PatronMulti V${VERSION}] KR\u0130T\u0130K HATA: ${e.message}`);
+      console.error(`[V1RMulti V${VERSION}] KR\u0130T\u0130K HATA: ${e.message}`);
       return [];
     }
   });
 }
 
-// src/patronMulti/index.js
+// src/V1RMulti/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[PatronMulti] Request: ${mediaType} ${tmdbId} S${season || "-"}E${episode || "-"}`);
+      console.log(`[V1RMulti] Request: ${mediaType} ${tmdbId} S${season || "-"}E${episode || "-"}`);
       var streams = yield extractStreams(tmdbId, mediaType, season, episode);
-      console.log(`[PatronMulti] Found ${streams.length} stream(s)`);
+      console.log(`[V1RMulti] Found ${streams.length} stream(s)`);
       return streams;
     } catch (error) {
-      console.error(`[PatronMulti] Error: ${error.message}`);
+      console.error(`[V1RMulti] Error: ${error.message}`);
       return [];
     }
   });

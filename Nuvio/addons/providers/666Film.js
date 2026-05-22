@@ -1,5 +1,5 @@
 /**
- * patron666Film - Built from src/patron666Film/
+ * V1R666Film - Built from src/V1R666Film/
  * Generated: 2026-04-29T15:18:05.552Z
  */
 var __create = Object.create;
@@ -64,14 +64,14 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patron666Film/index.js
-var patron666Film_exports = {};
-__export(patron666Film_exports, {
+// src/V1R666Film/index.js
+var V1R666Film_exports = {};
+__export(V1R666Film_exports, {
   getStreams: () => getStreams
 });
-module.exports = __toCommonJS(patron666Film_exports);
+module.exports = __toCommonJS(V1R666Film_exports);
 
-// src/patron666Film/http.js
+// src/V1R666Film/http.js
 var MAIN_URL = "https://666filmizle.site";
 var HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -101,9 +101,9 @@ function fixUrl(url) {
   return MAIN_URL + "/" + url;
 }
 
-// src/patron666Film/tmdb.js
+// src/V1R666Film/tmdb.js
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
-var PROVIDER_TAG = "[Patron666Film]";
+var PROVIDER_TAG = "[V1R666Film]";
 function getTmdbTitleFromHtml(tmdbId, mediaType) {
   return __async(this, null, function* () {
     try {
@@ -182,7 +182,7 @@ function getTmdbTitle(tmdbId, mediaType) {
   });
 }
 
-// src/patron666Film/extractor.js
+// src/V1R666Film/extractor.js
 var import_cheerio_without_node_native = __toESM(require("cheerio-without-node-native"));
 function inferLanguage(label = "") {
   const v = (label || "").toLowerCase();
@@ -198,7 +198,7 @@ function withMeta(player, label, quality) {
   const lang = inferLanguage(label);
   const q = quality || "Auto";
   return {
-    name: `Patron666Film - ${player} - ${lang}`,
+    name: `V1R666Film - ${player} - ${lang}`,
     title: `${player} | ${lang} | ${q} | ${label}`
   };
 }
@@ -285,7 +285,7 @@ function extractFromMoviePage(movieUrl) {
           });
         }
       } catch (err) {
-        console.error(`[Patron666Film] \xC7\u0131karma hatas\u0131: ${err.message}`);
+        console.error(`[V1R666Film] \xC7\u0131karma hatas\u0131: ${err.message}`);
       }
     }
     return streams;
@@ -296,7 +296,7 @@ function extractStreams(tmdbId, mediaType) {
     if (mediaType !== "movie")
       return [];
     const { trTitle, origTitle } = yield getTmdbTitle(tmdbId, mediaType);
-    console.log(`[Patron666Film] TMDB: ${tmdbId} | Ba\u015Fl\u0131k: ${trTitle}`);
+    console.log(`[V1R666Film] TMDB: ${tmdbId} | Ba\u015Fl\u0131k: ${trTitle}`);
     if (!trTitle && !origTitle)
       return [];
     let movieUrl = null;
@@ -307,28 +307,28 @@ function extractStreams(tmdbId, mediaType) {
       movieUrl = yield searchMovie(origTitle);
     }
     if (!movieUrl) {
-      console.warn(`[Patron666Film] Site'de i\xE7erik bulunamad\u0131: ${trTitle || origTitle}`);
+      console.warn(`[V1R666Film] Site'de i\xE7erik bulunamad\u0131: ${trTitle || origTitle}`);
       return [];
     }
-    console.log(`[Patron666Film] Sayfa bulundu: ${movieUrl}`);
+    console.log(`[V1R666Film] Sayfa bulundu: ${movieUrl}`);
     const streams = yield extractFromMoviePage(movieUrl);
-    console.log(`[Patron666Film] Toplam stream: ${streams.length}`);
+    console.log(`[V1R666Film] Toplam stream: ${streams.length}`);
     return streams;
   });
 }
 
-// src/patron666Film/index.js
+// src/V1R666Film/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[Patron666Film] \u0130stek: ${mediaType} | TMDB: ${tmdbId}`);
+      console.log(`[V1R666Film] \u0130stek: ${mediaType} | TMDB: ${tmdbId}`);
       if (mediaType !== "movie") {
         return [];
       }
       const streams = yield extractStreams(tmdbId, mediaType);
       return streams;
     } catch (error) {
-      console.error(`[Patron666Film] Hata: ${error.message}`);
+      console.error(`[V1R666Film] Hata: ${error.message}`);
       return [];
     }
   });

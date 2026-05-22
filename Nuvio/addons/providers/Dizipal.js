@@ -1,5 +1,5 @@
 /**
- * patronDizipal - Built from src/patronDizipal/
+ * V1RDizipal - Built from src/V1RDizipal/
  * Generated: 2026-04-29T13:28:27.454Z
  */
 var __defProp = Object.defineProperty;
@@ -57,23 +57,23 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronDizipal/index.js
-var patronDizipal_exports = {};
-__export(patronDizipal_exports, {
+// src/V1RDizipal/index.js
+var V1RDizipal_exports = {};
+__export(V1RDizipal_exports, {
   getStreams: () => getStreams
 });
-module.exports = __toCommonJS(patronDizipal_exports);
+module.exports = __toCommonJS(V1RDizipal_exports);
 
-// src/patronDizipal/http.js
-var MAIN_URL = "https://dizipal2064.com";
+// src/V1RDizipal/http.js
+var MAIN_URL = "https://dizipal2072.com";
 var HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
   "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
 };
 var KNOWN_DOMAINS = [
-  "https://dizipal2064.com",
-  "https://dizipal2065.com"
+  "https://dizipal2070.com",
+  "https://dizipal2071.com"
 ];
 var _resolvedUrl = null;
 function resolveMainUrl() {
@@ -141,7 +141,7 @@ function fetchJSON(_0) {
   });
 }
 
-// src/patronDizipal/tmdb.js
+// src/V1RDizipal/tmdb.js
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
 var PROVIDER_TAG = "[Dizipal]";
 function decodeHtml(text) {
@@ -231,7 +231,7 @@ function getTmdbTitle(tmdbId, mediaType) {
   });
 }
 
-// src/patronDizipal/extractor.js
+// src/V1RDizipal/extractor.js
 var PROVIDER_TAG2 = "[Dizipal]";
 function resolveDizipal(url, activeUrl) {
   return __async(this, null, function* () {
@@ -409,7 +409,7 @@ function resolveStandard(embedUrl, referer) {
   });
 }
 
-// src/patronDizipal/index.js
+// src/V1RDizipal/index.js
 var PROVIDER_TAG3 = "[Dizipal]";
 function getStreams(tmdbId, type, season, episode) {
   return __async(this, null, function* () {

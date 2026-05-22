@@ -1,5 +1,5 @@
 /**
- * patronDizify - Built from src/patronDizify/
+ * V1RDizify - Built from src/V1RDizify/
  * Generated: 2026-04-27T22:10:37.191Z
  */
 var __create = Object.create;
@@ -71,18 +71,18 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronDizify/index.js
-var patronDizify_exports = {};
-__export(patronDizify_exports, {
+// src/V1RDizify/index.js
+var V1RDizify_exports = {};
+__export(V1RDizify_exports, {
   getMainPage: () => getMainPage,
   getStreams: () => getStreams,
   loadItem: () => loadItem,
   loadLinks: () => loadLinks,
   search: () => search
 });
-module.exports = __toCommonJS(patronDizify_exports);
+module.exports = __toCommonJS(V1RDizify_exports);
 
-// src/patronDizify/http.js
+// src/V1RDizify/http.js
 var MAIN_URL = "https://dizify.org";
 var API_URL = `${MAIN_URL}/api/v1`;
 var HEADERS = {
@@ -121,7 +121,7 @@ function fetchJSON(_0) {
   });
 }
 
-// src/patronDizify/tmdb.js
+// src/V1RDizify/tmdb.js
 var import_cheerio_without_node_native = __toESM(require("cheerio-without-node-native"));
 var TMDB_API = "https://api.themoviedb.org/3";
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
@@ -206,7 +206,7 @@ function getTmdbCredits(tmdbId, itemType) {
   });
 }
 
-// src/patronDizify/index.js
+// src/V1RDizify/index.js
 var import_cheerio = require("cheerio");
 var import_crypto_js = __toESM(require("crypto-js"));
 function normalize(text) {

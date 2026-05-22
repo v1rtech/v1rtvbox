@@ -1,5 +1,5 @@
 /**
- * patronhdfcehennemi - Built from src/patronhdfcehennemi/
+ * V1Rhdfcehennemi - Built from src/V1Rhdfcehennemi/
  * Generated: 2026-04-29T15:14:47.825Z
  */
 var __create = Object.create;
@@ -67,17 +67,17 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronhdfcehennemi/index.js
-var patronhdfcehennemi_exports = {};
-__export(patronhdfcehennemi_exports, {
+// src/V1Rhdfcehennemi/index.js
+var V1Rhdfcehennemi_exports = {};
+__export(V1Rhdfcehennemi_exports, {
   getStreams: () => getStreams
 });
-module.exports = __toCommonJS(patronhdfcehennemi_exports);
+module.exports = __toCommonJS(V1Rhdfcehennemi_exports);
 
-// src/patronhdfcehennemi/extractor.js
+// src/V1Rhdfcehennemi/extractor.js
 var import_cheerio_without_node_native = __toESM(require("cheerio-without-node-native"));
 
-// src/patronhdfcehennemi/http.js
+// src/V1Rhdfcehennemi/http.js
 var MAIN_URL = "https://www.hdfilmcehennemi.nl";
 var HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0",
@@ -109,7 +109,7 @@ function fixUrl(url) {
   return `${MAIN_URL}/${url}`;
 }
 
-// src/patronhdfcehennemi/tmdb.js
+// src/V1Rhdfcehennemi/tmdb.js
 function getTmdbTitle(tmdbId, mediaType) {
   return __async(this, null, function* () {
     try {
@@ -144,14 +144,14 @@ function getTmdbTitle(tmdbId, mediaType) {
       }
       return { trTitle: title, origTitle };
     } catch (error) {
-      console.error(`[PatronHDFCehennemi] TMDB baslik hatasi: ${error.message}`);
+      console.error(`[V1RHDFCehennemi] TMDB baslik hatasi: ${error.message}`);
       return { trTitle: "", origTitle: "" };
     }
   });
 }
 
-// src/patronhdfcehennemi/extractor.js
-var PROVIDER_NAME = "PatronHDFCehennemi";
+// src/V1Rhdfcehennemi/extractor.js
+var PROVIDER_NAME = "V1RHDFCehennemi";
 function inferLangFromSource(source = "") {
   const value = source.toLowerCase();
   if (/\btr\b|turkce|türkçe/.test(value))
@@ -517,14 +517,14 @@ function extractStreams(tmdbId, mediaType, season, episode) {
   });
 }
 
-// src/patronhdfcehennemi/index.js
+// src/V1Rhdfcehennemi/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[PatronHDFCehennemi] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
+      console.log(`[V1RHDFCehennemi] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
       return yield extractStreams(tmdbId, mediaType, season, episode);
     } catch (error) {
-      console.error(`[PatronHDFCehennemi] Hata: ${error.message}`);
+      console.error(`[V1RHDFCehennemi] Hata: ${error.message}`);
       return [];
     }
   });

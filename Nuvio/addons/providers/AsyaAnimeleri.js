@@ -1,5 +1,5 @@
 /**
- * patronasyaAnimeleri - Built from src/patronasyaAnimeleri/
+ * V1RasyaAnimeleri - Built from src/V1RasyaAnimeleri/
  * Generated: 2026-04-18T23:15:26.823Z
  */
 var __create = Object.create;
@@ -62,7 +62,7 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronasyaAnimeleri/http.js
+// src/V1RasyaAnimeleri/http.js
 var MAIN_URL = "https://asyaanimeleri.top";
 var HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -72,7 +72,7 @@ var HEADERS = {
 };
 function fetchText(_0) {
   return __async(this, arguments, function* (url, options = {}) {
-    console.log(`[PatronAsyaAnimeleri] Fetching: ${url}`);
+    console.log(`[V1RAsyaAnimeleri] Fetching: ${url}`);
     const response = yield fetch(url, {
       headers: __spreadValues(__spreadValues({}, HEADERS), options.headers || {})
     });
@@ -94,7 +94,7 @@ function fixUrl(url) {
   return MAIN_URL + "/" + url;
 }
 
-// src/patronasyaAnimeleri/tmdb.js
+// src/V1RasyaAnimeleri/tmdb.js
 function getTmdbTitle(tmdbId, mediaType) {
   return __async(this, null, function* () {
     try {
@@ -122,16 +122,16 @@ function getTmdbTitle(tmdbId, mediaType) {
       }
       return { trTitle: title, origTitle: title };
     } catch (e) {
-      console.error(`[PatronAsyaAnimeleri] TMDB ba\u015Fl\u0131k hatas\u0131: ${e.message}`);
+      console.error(`[V1RAsyaAnimeleri] TMDB ba\u015Fl\u0131k hatas\u0131: ${e.message}`);
       return { trTitle: "", origTitle: "" };
     }
   });
 }
 
-// src/patronasyaAnimeleri/extractor.js
+// src/V1RasyaAnimeleri/extractor.js
 var import_cheerio_without_node_native = __toESM(require("cheerio-without-node-native"));
 
-// src/patronasyaAnimeleri/extractors/vidmoly.js
+// src/V1RasyaAnimeleri/extractors/vidmoly.js
 var cheerio = __toESM(require("cheerio-without-node-native"));
 function unpackJS(code) {
   try {
@@ -236,7 +236,7 @@ function extractVidMoly(url, referer) {
   });
 }
 
-// src/patronasyaAnimeleri/extractors/sibnet.js
+// src/V1RasyaAnimeleri/extractors/sibnet.js
 function extractSibnet(url) {
   return __async(this, null, function* () {
     try {
@@ -282,7 +282,7 @@ function extractSibnet(url) {
   });
 }
 
-// src/patronasyaAnimeleri/extractor.js
+// src/V1RasyaAnimeleri/extractor.js
 function searchAnime(query) {
   return __async(this, null, function* () {
     const searchUrl = `${MAIN_URL}/?s=${encodeURIComponent(query)}`;
@@ -359,7 +359,7 @@ function extractFromEpisodePage(episodeUrl) {
         const label = opt.text().trim() || `Mirror ${i + 1}`;
         if (streamUrl.includes(".m3u8") || streamUrl.includes(".mp4")) {
           streams.push({
-            name: "PatronAsyaAnimeleri",
+            name: "V1RAsyaAnimeleri",
             title: `${label}`,
             url: streamUrl,
             quality: detectQuality(streamUrl, label),
@@ -369,7 +369,7 @@ function extractFromEpisodePage(episodeUrl) {
           const embedResult = yield tryExtractFromEmbed(streamUrl, episodeUrl);
           if (embedResult) {
             streams.push({
-              name: "PatronAsyaAnimeleri",
+              name: "V1RAsyaAnimeleri",
               title: `${label}`,
               url: embedResult.url,
               quality: detectQuality(embedResult.url, label),
@@ -379,7 +379,7 @@ function extractFromEpisodePage(episodeUrl) {
           }
         }
       } catch (e) {
-        console.error(`[PatronAsyaAnimeleri] Mirror \xE7\xF6zme hatas\u0131: ${e.message}`);
+        console.error(`[V1RAsyaAnimeleri] Mirror \xE7\xF6zme hatas\u0131: ${e.message}`);
       }
     }
     const directIframes = [];
@@ -396,7 +396,7 @@ function extractFromEpisodePage(episodeUrl) {
           const alreadyAdded = streams.some((s) => s.url === streamUrl);
           if (!alreadyAdded) {
             streams.push({
-              name: "PatronAsyaAnimeleri",
+              name: "V1RAsyaAnimeleri",
               title: `Direkt Y\xF6nlendirme ${i + 1}`,
               url: streamUrl,
               quality: "720p",
@@ -409,7 +409,7 @@ function extractFromEpisodePage(episodeUrl) {
             const alreadyAdded = streams.some((s) => s.url === embedResult.url);
             if (!alreadyAdded) {
               streams.push({
-                name: "PatronAsyaAnimeleri",
+                name: "V1RAsyaAnimeleri",
                 title: `G\xF6m\xFCl\xFC Player ${i + 1}`,
                 url: embedResult.url,
                 quality: detectQuality(embedResult.url, ""),
@@ -454,7 +454,7 @@ function tryExtractFromEmbed(embedUrl, referer) {
         return { url: fileMatch[1] };
       return null;
     } catch (e) {
-      console.error(`[PatronAsyaAnimeleri] Embed \xE7\u0131karma hatas\u0131: ${e.message}`);
+      console.error(`[V1RAsyaAnimeleri] Embed \xE7\u0131karma hatas\u0131: ${e.message}`);
       return null;
     }
   });
@@ -474,10 +474,10 @@ function detectQuality(url, label) {
 function extractStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     const { trTitle, origTitle } = yield getTmdbTitle(tmdbId, mediaType);
-    console.log(`[PatronAsyaAnimeleri] TMDB: ${tmdbId} | T\xFCr: ${mediaType}`);
-    console.log(`[PatronAsyaAnimeleri] Ba\u015Fl\u0131k TR: ${trTitle} | Orijinal: ${origTitle}`);
+    console.log(`[V1RAsyaAnimeleri] TMDB: ${tmdbId} | T\xFCr: ${mediaType}`);
+    console.log(`[V1RAsyaAnimeleri] Ba\u015Fl\u0131k TR: ${trTitle} | Orijinal: ${origTitle}`);
     if (!trTitle && !origTitle) {
-      console.warn("[PatronAsyaAnimeleri] TMDB'den ba\u015Fl\u0131k al\u0131namad\u0131.");
+      console.warn("[V1RAsyaAnimeleri] TMDB'den ba\u015Fl\u0131k al\u0131namad\u0131.");
       return [];
     }
     let animeUrl = null;
@@ -494,37 +494,37 @@ function extractStreams(tmdbId, mediaType, season, episode) {
       animeUrl = yield searchAnime(queryOrig);
     }
     if (!animeUrl && mediaType === "tv" && season > 1) {
-      console.log(`[PatronAsyaAnimeleri] Sezonlu arama ba\u015Far\u0131s\u0131z, sezonsuz deneniyor...`);
+      console.log(`[V1RAsyaAnimeleri] Sezonlu arama ba\u015Far\u0131s\u0131z, sezonsuz deneniyor...`);
       if (trTitle)
         animeUrl = yield searchAnime(trTitle);
       if (!animeUrl && origTitle)
         animeUrl = yield searchAnime(origTitle);
     }
     if (!animeUrl) {
-      console.warn(`[PatronAsyaAnimeleri] Site'de i\xE7erik bulunamad\u0131: ${trTitle || origTitle}`);
+      console.warn(`[V1RAsyaAnimeleri] Site'de i\xE7erik bulunamad\u0131: ${trTitle || origTitle}`);
       return [];
     }
-    console.log(`[PatronAsyaAnimeleri] Anime sayfas\u0131 bulundu: ${animeUrl}`);
+    console.log(`[V1RAsyaAnimeleri] Anime sayfas\u0131 bulundu: ${animeUrl}`);
     let targetUrl = animeUrl;
     if (mediaType === "tv" && episode) {
       targetUrl = yield getEpisodeUrl(animeUrl, season, episode);
-      console.log(`[PatronAsyaAnimeleri] B\xF6l\xFCm URL: ${targetUrl}`);
+      console.log(`[V1RAsyaAnimeleri] B\xF6l\xFCm URL: ${targetUrl}`);
     }
     const streams = yield extractFromEpisodePage(targetUrl);
-    console.log(`[PatronAsyaAnimeleri] Toplam stream: ${streams.length}`);
+    console.log(`[V1RAsyaAnimeleri] Toplam stream: ${streams.length}`);
     return streams;
   });
 }
 
-// src/patronasyaAnimeleri/index.js
+// src/V1RasyaAnimeleri/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[PatronAsyaAnimeleri] \u0130stek: ${mediaType} | TMDB: ${tmdbId} | S${season}E${episode}`);
+      console.log(`[V1RAsyaAnimeleri] \u0130stek: ${mediaType} | TMDB: ${tmdbId} | S${season}E${episode}`);
       const streams = yield extractStreams(tmdbId, mediaType, season, episode);
       return streams;
     } catch (error) {
-      console.error(`[PatronAsyaAnimeleri] Hata: ${error.message}`);
+      console.error(`[V1RAsyaAnimeleri] Hata: ${error.message}`);
       return [];
     }
   });

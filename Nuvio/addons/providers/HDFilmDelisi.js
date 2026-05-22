@@ -1,5 +1,5 @@
 /**
- * patronHDFilmDelisi - Built from src/patronHDFilmDelisi/
+ * V1RHDFilmDelisi - Built from src/V1RHDFilmDelisi/
  * Generated: 2026-04-29T15:20:35.938Z
  */
 var __defProp = Object.defineProperty;
@@ -54,17 +54,17 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronHDFilmDelisi/index.js
-var patronHDFilmDelisi_exports = {};
-__export(patronHDFilmDelisi_exports, {
+// src/V1RHDFilmDelisi/index.js
+var V1RHDFilmDelisi_exports = {};
+__export(V1RHDFilmDelisi_exports, {
   getStreams: () => getStreams
 });
-module.exports = __toCommonJS(patronHDFilmDelisi_exports);
+module.exports = __toCommonJS(V1RHDFilmDelisi_exports);
 
-// src/patronHDFilmDelisi/extractor.js
+// src/V1RHDFilmDelisi/extractor.js
 var import_cheerio = require("cheerio");
 
-// src/patronHDFilmDelisi/http.js
+// src/V1RHDFilmDelisi/http.js
 var MAIN_URL = "https://hdfilmdelisi.one";
 var HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -95,9 +95,9 @@ function fixUrl(url) {
   return `${MAIN_URL}/${url}`;
 }
 
-// src/patronHDFilmDelisi/tmdb.js
+// src/V1RHDFilmDelisi/tmdb.js
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
-var PROVIDER_TAG = "[PatronHDFilmDelisi]";
+var PROVIDER_TAG = "[V1RHDFilmDelisi]";
 function getTmdbTitleFromHtml(tmdbId, mediaType) {
   return __async(this, null, function* () {
     try {
@@ -176,8 +176,8 @@ function getTmdbTitle(tmdbId, mediaType) {
   });
 }
 
-// src/patronHDFilmDelisi/extractor.js
-var PROVIDER_NAME = "PatronHDFilmDelisi";
+// src/V1RHDFilmDelisi/extractor.js
+var PROVIDER_NAME = "V1RHDFilmDelisi";
 function normalize(value) {
   return (value || "").toLowerCase().replace(/[^a-z0-9çğıöşü]+/gi, " ").trim();
 }
@@ -425,17 +425,17 @@ function extractStreams(tmdbId, mediaType) {
   });
 }
 
-// src/patronHDFilmDelisi/index.js
+// src/V1RHDFilmDelisi/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[PatronHDFilmDelisi] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
+      console.log(`[V1RHDFilmDelisi] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
       if (mediaType !== "movie") {
         return [];
       }
       return yield extractStreams(tmdbId, mediaType);
     } catch (error) {
-      console.error(`[PatronHDFilmDelisi] Hata: ${error.message}`);
+      console.error(`[V1RHDFilmDelisi] Hata: ${error.message}`);
       return [];
     }
   });

@@ -1,5 +1,5 @@
 /**
- * patronSinewix - Built from src/patronSinewix/
+ * V1RSinewix - Built from src/V1RSinewix/
  * Generated: 2026-04-27T22:06:50.013Z
  */
 var __create = Object.create;
@@ -71,16 +71,16 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronSinewix/index.js
-var patronSinewix_exports = {};
-__export(patronSinewix_exports, {
+// src/V1RSinewix/index.js
+var V1RSinewix_exports = {};
+__export(V1RSinewix_exports, {
   getMainPage: () => getMainPage,
   getStreams: () => getStreams,
   search: () => search
 });
-module.exports = __toCommonJS(patronSinewix_exports);
+module.exports = __toCommonJS(V1RSinewix_exports);
 
-// src/patronSinewix/http.js
+// src/V1RSinewix/http.js
 var BASE_URL = "https://ydfvfdizipanel.ru";
 var API_TOKEN = "9iQNC5HQwPlaFuJDkhncJ5XTJ8feGXOJatAA";
 var HEADERS = {
@@ -101,7 +101,7 @@ function fetchJSON(_0) {
   });
 }
 
-// src/patronSinewix/tmdb.js
+// src/V1RSinewix/tmdb.js
 var import_cheerio_without_node_native = __toESM(require("cheerio-without-node-native"));
 var TMDB_SCRAPE_HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
@@ -173,7 +173,7 @@ function getTmdbTitle(tmdbId, mediaType) {
   });
 }
 
-// src/patronSinewix/extractor.js
+// src/V1RSinewix/extractor.js
 var PROVIDER_NAME = "SineWix";
 function normalizeTitle(value) {
   return (value || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
@@ -329,7 +329,7 @@ function extractStreams(tmdbId, mediaType, season, episode) {
   });
 }
 
-// src/patronSinewix/index.js
+// src/V1RSinewix/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {

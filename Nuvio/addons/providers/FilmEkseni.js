@@ -1,5 +1,5 @@
 /**
- * patronFilmEkseni - Built from src/patronFilmEkseni/
+ * V1RFilmEkseni - Built from src/V1RFilmEkseni/
  * Generated: 2026-04-29T15:12:10.836Z
  */
 var __defProp = Object.defineProperty;
@@ -61,14 +61,14 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/patronFilmEkseni/index.js
-var patronFilmEkseni_exports = {};
-__export(patronFilmEkseni_exports, {
+// src/V1RFilmEkseni/index.js
+var V1RFilmEkseni_exports = {};
+__export(V1RFilmEkseni_exports, {
   getStreams: () => getStreams
 });
-module.exports = __toCommonJS(patronFilmEkseni_exports);
+module.exports = __toCommonJS(V1RFilmEkseni_exports);
 
-// src/patronFilmEkseni/http.js
+// src/V1RFilmEkseni/http.js
 var MAIN_URL = "https://filmekseni.cc";
 var HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0",
@@ -111,9 +111,9 @@ function fixUrl(url) {
   return MAIN_URL + "/" + url;
 }
 
-// src/patronFilmEkseni/tmdb.js
+// src/V1RFilmEkseni/tmdb.js
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
-var PROVIDER_TAG = "[patronFilmEkseni]";
+var PROVIDER_TAG = "[V1RFilmEkseni]";
 function getTmdbTitleFromHtml(tmdbId, mediaType) {
   return __async(this, null, function* () {
     try {
@@ -192,7 +192,7 @@ function getTmdbTitle(tmdbId, mediaType) {
   });
 }
 
-// src/patronFilmEkseni/extractor.js
+// src/V1RFilmEkseni/extractor.js
 var import_cheerio = require("cheerio");
 var VIDEO_HOST = "https://fmdzihoilrvjfvcvvhlbwlkypjsmemvyfxvppedcdqszdxotre.firgunedavay.shop";
 function inferPlayerName(itemTitle = "", url = "") {
@@ -293,24 +293,24 @@ function extractFromMoviePage(movieUrl) {
               }
             });
           } catch (e) {
-            console.error(`[patronFilmEkseni] Sunucu sekmesi hatas\u0131 (${srv.url}): ${e.message}`);
+            console.error(`[V1RFilmEkseni] Sunucu sekmesi hatas\u0131 (${srv.url}): ${e.message}`);
           }
         }
       } catch (e) {
-        console.error(`[patronFilmEkseni] Dil sekmesi hatas\u0131 (${langTab.url}): ${e.message}`);
+        console.error(`[V1RFilmEkseni] Dil sekmesi hatas\u0131 (${langTab.url}): ${e.message}`);
       }
     }
     for (const item of toProcess) {
       try {
         const embedUrl = item.url;
-        console.log(`[patronFilmEkseni] \u0130\u015Fleniyor: ${embedUrl} (${item.title})`);
+        console.log(`[V1RFilmEkseni] \u0130\u015Fleniyor: ${embedUrl} (${item.title})`);
         if (embedUrl.includes("eksenload") || embedUrl.includes("vidload.top") || embedUrl.includes("firgunedavay.shop")) {
           const streamResults = yield parseEksenLoad(embedUrl, movieUrl);
           for (const s of streamResults) {
             if (!addedUrls.has(s.url)) {
               addedUrls.add(s.url);
               s.title = `${item.title} - EksenLoad`;
-              s.name = `patronFilmEkseni - ${inferPlayerName(s.title, s.url)}`;
+              s.name = `V1RFilmEkseni - ${inferPlayerName(s.title, s.url)}`;
               streams.push(s);
             }
           }
@@ -319,20 +319,20 @@ function extractFromMoviePage(movieUrl) {
             const extracted = yield VidMolyExtractor.extract(embedUrl, movieUrl);
             if (extracted) {
               extracted.title = `${item.title} - VidMoly`;
-              extracted.name = `patronFilmEkseni - ${inferPlayerName(extracted.title, extracted.url)}`;
+              extracted.name = `V1RFilmEkseni - ${inferPlayerName(extracted.title, extracted.url)}`;
               if (!addedUrls.has(extracted.url)) {
                 addedUrls.add(extracted.url);
                 streams.push(extracted);
               }
             }
           } catch (err) {
-            console.error(`[patronFilmEkseni] VidMoly parse hatas\u0131: ${err.message}`);
+            console.error(`[V1RFilmEkseni] VidMoly parse hatas\u0131: ${err.message}`);
           }
         } else if (embedUrl.includes(".m3u8") || embedUrl.includes(".mp4")) {
           if (!addedUrls.has(embedUrl)) {
             addedUrls.add(embedUrl);
             streams.push({
-              name: `patronFilmEkseni - ${inferPlayerName(`${item.title} - Direkt Link`, embedUrl)}`,
+              name: `V1RFilmEkseni - ${inferPlayerName(`${item.title} - Direkt Link`, embedUrl)}`,
               title: `${item.title} - Direkt Link`,
               url: embedUrl,
               quality: "Auto",
@@ -343,7 +343,7 @@ function extractFromMoviePage(movieUrl) {
           if (!addedUrls.has(embedUrl)) {
             addedUrls.add(embedUrl);
             streams.push({
-              name: `patronFilmEkseni - ${inferPlayerName(`${item.title} - Embed`, embedUrl)}`,
+              name: `V1RFilmEkseni - ${inferPlayerName(`${item.title} - Embed`, embedUrl)}`,
               title: `${item.title} - Embed`,
               url: embedUrl,
               quality: "Auto",
@@ -352,7 +352,7 @@ function extractFromMoviePage(movieUrl) {
           }
         }
       } catch (err) {
-        console.error(`[patronFilmEkseni] Embed parse hatas\u0131: ${err.message}`);
+        console.error(`[V1RFilmEkseni] Embed parse hatas\u0131: ${err.message}`);
       }
     }
     return streams;
@@ -410,7 +410,7 @@ function parseEksenLoad(embedUrl, referer) {
         }
         if (finalUrl.includes("m3u8")) {
           streams.push({
-            name: "patronFilmEkseni",
+            name: "V1RFilmEkseni",
             title: "EksenLoad m3u8",
             url: finalUrl,
             quality: "Auto",
@@ -424,7 +424,7 @@ function parseEksenLoad(embedUrl, referer) {
           });
         } else {
           streams.push({
-            name: "patronFilmEkseni",
+            name: "V1RFilmEkseni",
             title: "EksenLoad Video",
             url: finalUrl,
             quality: "Auto",
@@ -439,7 +439,7 @@ function parseEksenLoad(embedUrl, referer) {
         }
       }
     } catch (err) {
-      console.error(`[patronFilmEkseni] EksenLoad parse hatas\u0131: ${err.message}`);
+      console.error(`[V1RFilmEkseni] EksenLoad parse hatas\u0131: ${err.message}`);
     }
     return streams;
   });
@@ -449,7 +449,7 @@ function extractStreams(tmdbId, mediaType) {
     if (mediaType !== "movie")
       return [];
     const { trTitle, origTitle } = yield getTmdbTitle(tmdbId, mediaType);
-    console.log(`[patronFilmEkseni] TMDB: ${tmdbId} | Ba\u015Fl\u0131k: ${trTitle}`);
+    console.log(`[V1RFilmEkseni] TMDB: ${tmdbId} | Ba\u015Fl\u0131k: ${trTitle}`);
     if (!trTitle && !origTitle)
       return [];
     let movieUrl = null;
@@ -458,12 +458,12 @@ function extractStreams(tmdbId, mediaType) {
     if (!movieUrl && origTitle && origTitle !== trTitle)
       movieUrl = yield searchMovie(origTitle);
     if (!movieUrl) {
-      console.warn(`[patronFilmEkseni] Site'de bulunamad\u0131: ${trTitle || origTitle}`);
+      console.warn(`[V1RFilmEkseni] Site'de bulunamad\u0131: ${trTitle || origTitle}`);
       return [];
     }
-    console.log(`[patronFilmEkseni] Sayfa: ${movieUrl}`);
+    console.log(`[V1RFilmEkseni] Sayfa: ${movieUrl}`);
     const streams = yield extractFromMoviePage(movieUrl);
-    console.log(`[patronFilmEkseni] Stream say\u0131s\u0131: ${streams.length}`);
+    console.log(`[V1RFilmEkseni] Stream say\u0131s\u0131: ${streams.length}`);
     return streams;
   });
 }
@@ -621,17 +621,17 @@ var VidMolyExtractor = class {
 __publicField(VidMolyExtractor, "name", "VidMoly");
 __publicField(VidMolyExtractor, "supportedDomains", ["vidmoly.to", "vidmoly.me", "vidmoly.net", "vidmoly.biz", "videobin.co"]);
 
-// src/patronFilmEkseni/index.js
+// src/V1RFilmEkseni/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[patronFilmEkseni] \u0130stek: ${mediaType} | TMDB: ${tmdbId}`);
+      console.log(`[V1RFilmEkseni] \u0130stek: ${mediaType} | TMDB: ${tmdbId}`);
       if (mediaType !== "movie")
         return [];
       const streams = yield extractStreams(tmdbId, mediaType);
       return streams;
     } catch (error) {
-      console.error(`[patronFilmEkseni] Hata: ${error.message}`);
+      console.error(`[V1RFilmEkseni] Hata: ${error.message}`);
       return [];
     }
   });
