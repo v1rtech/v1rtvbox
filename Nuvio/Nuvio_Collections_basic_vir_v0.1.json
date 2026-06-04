@@ -870,6 +870,21 @@
         "focusGifEnabled": false
       },
       {
+        "id": "folder-CKV5RZTH",
+        "title": "Fast & Furious Universe",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/zOCnMPoUxgJK1RFPfN4PcnT16gr.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159901"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
         "id": "folder-J3XUXYTU",
         "title": "The Hobbit",
         "hideTitle": true,
@@ -896,21 +911,6 @@
             "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.159955"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-CKV5RZTH",
-        "title": "Fast & Furious Universe",
-        "hideTitle": true,
-        "tileShape": "POSTER",
-        "coverImageUrl": "https://image.tmdb.org/t/p/original/zOCnMPoUxgJK1RFPfN4PcnT16gr.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159901"
           }
         ],
         "focusGifEnabled": false
@@ -1727,6 +1727,7 @@
         "title": "DC",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.imgur.com/iXcaSS9.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -1747,36 +1748,6 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.159997"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-6U9GVTZ2",
-        "title": "Walt Disney",
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/64f8f8e3-5e6e-46eb-8c56-85d54f8e6e79.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159700"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-VPP0H5I8",
-        "title": "Pixar",
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/aba80c00-dc90-481f-b477-a91c7ce337e3.png",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159678"
           }
         ],
         "focusGifEnabled": false
@@ -1837,6 +1808,36 @@
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.159689"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6U9GVTZ2",
+        "title": "Walt Disney",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/64f8f8e3-5e6e-46eb-8c56-85d54f8e6e79.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159700"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-VPP0H5I8",
+        "title": "Pixar",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/aba80c00-dc90-481f-b477-a91c7ce337e3.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159678"
           }
         ],
         "focusGifEnabled": false
