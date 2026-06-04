@@ -1772,7 +1772,7 @@
         "title": "Universal Pictures",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://i.postimg.cc/8ChLYL58/universal-(1).gif",
+        "coverImageUrl": "https://i.postimg.cc/sX4jMCH3/IGn-EJh-S.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -1843,48 +1843,17 @@
         "focusGifEnabled": false
       },
       {
-        "id": "folder-ZPTIZVBV",
-        "title": "A24",
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://max-streams.gleeze.com/images/A24.gif",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5fde56a8-49c4-4543-9a9f-2c8752e1276d.png",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159693"
-          }
-        ],
-        "focusGifEnabled": true
-      },
-      {
         "id": "folder-WRU0BTV7",
         "title": "Blumhouse",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://max-streams.gleeze.com/images/Blumhouse.gif",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/66d67cfc-80fb-43fe-9bc7-25198eefd611.jpeg",
+        "coverImageUrl": "https://iili.io/BNYw4iF.gif",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.96197"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-LNFTFXUH",
-        "title": "Illumination",
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://imglink.cc/cdn/RKfxbt24Qx.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159699"
           }
         ],
         "focusGifEnabled": false
@@ -1950,6 +1919,21 @@
         "focusGifEnabled": false
       },
       {
+        "id": "folder-VXG53N4E",
+        "title": "Lucasfilm",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://yt3.googleusercontent.com/G0PCRG5dpLR7te7vsCBOJ5s8m3YFvK6Hg9FaSw_ewoaY7pBHwm-y14mCU0v9tSjubt-Dgk0G=s900-c-k-c0x00ffffff-no-rj",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159677"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
         "id": "folder-5K99UEKX",
         "title": "Studio Ghibli",
         "hideTitle": true,
@@ -1965,19 +1949,35 @@
         "focusGifEnabled": false
       },
       {
-        "id": "folder-VXG53N4E",
-        "title": "Lucasfilm",
+        "id": "folder-LNFTFXUH",
+        "title": "Illumination",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://yt3.googleusercontent.com/G0PCRG5dpLR7te7vsCBOJ5s8m3YFvK6Hg9FaSw_ewoaY7pBHwm-y14mCU0v9tSjubt-Dgk0G=s900-c-k-c0x00ffffff-no-rj",
+        "coverImageUrl": "https://imglink.cc/cdn/RKfxbt24Qx.jpg",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.159677"
+            "catalogId": "mdblist.159699"
           }
         ],
         "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ZPTIZVBV",
+        "title": "A24",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://max-streams.gleeze.com/images/A24.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5fde56a8-49c4-4543-9a9f-2c8752e1276d.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159693"
+          }
+        ],
+        "focusGifEnabled": true
       }
     ],
     "pinToTop": true,
@@ -1990,11 +1990,41 @@
     "title": "Yıllara Göre Filmler",
     "folders": [
       {
+        "id": "folder-N0O4TY4I",
+        "title": "20s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/starman2908/Strem/refs/heads/main/2000s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158796"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-RTDIH0YV",
+        "title": "10s Movies",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/starman2908/Strem/refs/heads/main/2010s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158791"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
         "id": "folder-VMYWM6ZK",
         "title": "90s Movies",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://i.postimg.cc/44Q6Xk7t/EBR_TVA_WW_1990s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/starman2908/Strem/refs/heads/main/1990s.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -2009,7 +2039,7 @@
         "title": "80s Movies",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://i.postimg.cc/3rXn1yXc/1000012645.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/starman2908/Strem/refs/heads/main/1980s.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -2024,57 +2054,12 @@
         "title": "70s Movies",
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://i.imgur.com/U1JiIwG.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/starman2908/Strem/refs/heads/main/1970s.jpg",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.158795"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-N0O4TY4I",
-        "title": "20s Movies",
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://i.postimg.cc/c1BRdyg3/EBR_TVA_WW_2000s.png",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.158796"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-NEK4LQ1T",
-        "title": "00s Movies",
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/3d70da09-2d0e-489e-b76a-d6c04f851e33.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.158792"
-          }
-        ],
-        "focusGifEnabled": false
-      },
-      {
-        "id": "folder-RTDIH0YV",
-        "title": "10s Movies",
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://i.postimg.cc/9FXGM8Zp/EBR_TVA_WW_2010s.png",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.158791"
           }
         ],
         "focusGifEnabled": false
