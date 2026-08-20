@@ -269,9 +269,6 @@ function decryptNative(html) {
     if (!(arrayMatch == null ? void 0 : arrayMatch[1]))
       return null;
     const parts = arrayMatch[1].split(",").map((s) => s.trim().replace(/^"|"$/g, "").replace(/\\\//g, "/"));
-    const moduloMatch = scriptContent.match(/(\d+)\s*%\s*\(i\s*\+\s*(\d+)\)/);
-    const magicNum = (moduloMatch == null ? void 0 : moduloMatch[1]) ? Number(moduloMatch[1]) : 399756995;
-    const magicOffset = (moduloMatch == null ? void 0 : moduloMatch[2]) ? Number(moduloMatch[2]) : 5;
     const funcStartIdx = scriptContent.indexOf("function dc_");
     const funcEndIdx = scriptContent.indexOf("function d1x()", funcStartIdx);
     const functionBody = funcStartIdx !== -1 ? scriptContent.substring(funcStartIdx, funcEndIdx !== -1 ? funcEndIdx : scriptContent.length) : scriptContent;
@@ -294,13 +291,39 @@ function decryptNative(html) {
       else if (op === "rot")
         result = rotN(result, rotShift);
     }
-    let unmix = "";
+    // Şema 1: acc + adım tabanlı XOR (CS3 referansı)
+    const accInitMatch = scriptContent.match(/var\s+acc\s*=\s*(\d+)/);
+    const accStepMatch = scriptContent.match(/acc\s*=\s*\(\s*acc\s*\+\s*(\d+)\s*\)/);
+    const baseOffsetMatch = scriptContent.match(/o\s*-\s*base\s*\+\s*(\d+)/);
+    const xorMode = scriptContent.includes("xor") || (accInitMatch && accStepMatch);
+    if (xorMode && accInitMatch) {
+      const accInit = Number(accInitMatch[1]);
+      const accStep = accStepMatch ? Number(accStepMatch[1]) : 1;
+      const baseOffset = baseOffsetMatch ? Number(baseOffsetMatch[1]) : 0;
+      let acc = accInit;
+      let unmix = "";
+      for (let i = 0; i < result.length; i++) {
+        const o = result.charCodeAt(i);
+        const base = acc % 256;
+        const decryptedCode = ((o - base + baseOffset) ^ (acc & 0xff) + 256) % 256;
+        unmix += String.fromCharCode(decryptedCode);
+        acc = (acc + accStep) & 0xffffffff;
+      }
+      if (unmix && /^https?:\/\//i.test(unmix)) {
+        return unmix;
+      }
+    }
+    // Şema 2: magicNum % (i + offset) tabanlı (eski yöntem)
+    const moduloMatch = scriptContent.match(/(\d+)\s*%\s*\(i\s*\+\s*(\d+)\)/);
+    const magicNum = (moduloMatch == null ? void 0 : moduloMatch[1]) ? Number(moduloMatch[1]) : 399756995;
+    const magicOffset = (moduloMatch == null ? void 0 : moduloMatch[2]) ? Number(moduloMatch[2]) : 5;
+    let unmix2 = "";
     for (let i = 0; i < result.length; i++) {
       const decryptedCode = (result.charCodeAt(i) - magicNum % (i + magicOffset) + 256) % 256;
-      unmix += String.fromCharCode(decryptedCode);
+      unmix2 += String.fromCharCode(decryptedCode);
     }
-    if (unmix && /^https?:\/\//i.test(unmix)) {
-      return unmix;
+    if (unmix2 && /^https?:\/\//i.test(unmix2)) {
+      return unmix2;
     }
     return null;
   } catch (e) {
@@ -555,24 +578,14 @@ function extractRapid(url, referer) {
         return null;
       }
       const html = yield response.text();
-      const pLoc = html.indexOf("eval(function(p,a,c,k,e,d)");
-      if (pLoc !== -1) {
-        let count = 0, endObj = pLoc;
-        for (let i = pLoc + 4; i < html.length; i++) {
-          if (html[i] === "(")
-            count++;
-          else if (html[i] === ")") {
-            count--;
-            if (count === 0) {
-              endObj = i + 1;
-              break;
-            }
-          }
-        }
-        const packed = html.substring(pLoc, endObj);
-        const evalStr = packed.replace(/^eval\(/, "(");
-        try {
-          const unpacked = new Function(`return ${evalStr}`)();
+      if (html.includes("challenge-platform") || html.includes("_cf_chl_opt") || html.includes("Just a moment")) {
+        console.warn("[Rapid] Cloudflare korumas\u0131, atlan\u0131yor:", url);
+        return null;
+      }
+      const scriptMatches = html.match(/eval\(function\(p,a,c,k,e,?[d]?\).*?\)\)/g);
+      if (scriptMatches) {
+        for (let script of scriptMatches) {
+          const unpacked = unpackJS(script);
           const streamMatch = unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || unpacked.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || unpacked.match(/file\s*[=:]\s*["']([^"']+\.(?:m3u8|mp4)[^"']*)['"]/i);
           if (streamMatch == null ? void 0 : streamMatch[1]) {
             return {
@@ -585,7 +598,6 @@ function extractRapid(url, referer) {
               }
             };
           }
-        } catch (e) {
         }
       }
       const directMatch = html.match(/file\s*:\s*["']([^"']+\.m3u8[^"']*)['"]/i) || html.match(/file\s*:\s*["']([^"']+\.mp4[^"']*)['"]/i) || html.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || html.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || html.match(/source\s*:\s*["']([^"']+\.m3u8[^"']*)['"]/i);
