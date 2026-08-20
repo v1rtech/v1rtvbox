@@ -1,0 +1,301 @@
+{
+  "name": "V1R Eklentileri",
+  "version": "2.0",
+  "scrapers": [
+    {
+      "id": "asya-animeleri",
+      "name": "AsyaAnimeleri",
+      "description": "AsyaAnimeleri.top uzerinden Turkce dublajli ve altyazili Asya animeleri. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "tv",
+        "movie"
+      ],
+      "filename": "providers/AsyaAnimeleri.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "film-makinesi",
+      "name": "FilmMakinesi",
+      "description": "FilmMakinesi.to uzerinden Turkce dublajli ve altyazili filmler. @V1R tarafindan gelistirildi.",
+      "version": "1.0.1",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/FilmMakinesi.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "multi",
+      "name": "Multi",
+      "description": "Birden fazla kaynaktan film ve dizi stream linkleri. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/Multi.js",
+      "enabled": true,
+      "logo": "",
+      "contentLanguage": [
+        "en",
+        "tr"
+      ],
+      "formats": [
+        "m3u8"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "666-film",
+      "name": "666Film",
+      "description": "666filmizle.site uzerinden filmler. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/666Film.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "hd-film-delisi",
+      "name": "HDFilmDelisi",
+      "description": "hdfilmdelisi.one uzerinden filmler. @V1R tarafindan gelistirildi.",
+      "version": "0.1.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/HDFilmDelisi.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=%size%",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "mp4",
+        "m3u8",
+        "hls",
+        "mkv"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "dort-khd",
+      "name": "DortKHD",
+      "description": "4KHDHub tabanli film ve dizi stream linkleri. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/dortkhd.js",
+      "enabled": true,
+      "logo": "",
+      "contentLanguage": [
+        "en",
+        "hi"
+      ],
+      "formats": [
+        "mp4",
+        "m3u8",
+        "mkv"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "hdf-cehennemi",
+      "name": "HDFCehennemi",
+      "description": "HDFilmCehennemi tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/hdfcehennemi.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "sinewix",
+      "name": "SineWix",
+      "description": "SineWix tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
+      "version": "1.1.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/Sinewix.js",
+      "enabled": true,
+      "logo": "https://ydfvfdizipanel.ru/favicon.ico",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "m3u8",
+        "mp4",
+        "mkv"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "setfilm",
+      "name": "SetFilmIzle",
+      "description": "SetFilmIzle tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/Setfilm.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=setfilmizle.uk&sz=64",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "m3u8",
+        "mp4",
+        "mkv"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "dizipal",
+      "name": "Dizipal",
+      "description": "Dizipal tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/Dizipal.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=dizipal2063.com&sz=64",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "m3u8",
+        "mp4",
+        "mkv"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "dizify",
+      "name": "Dizify",
+      "description": "Dizify.org tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
+      "version": "1.1.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/Dizify.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=dizify.org&sz=64",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "m3u8",
+        "mp4",
+        "mkv"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "film-ekseni",
+      "name": "FilmEkseni",
+      "description": "FilmEkseni.cc tabanli film saglayicisi. @V1R tarafindan gelistirildi.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/FilmEkseni.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=filmekseni.cc&sz=64",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "m3u8",
+        "mp4",
+        "mkv",
+        "hls"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    }
+  ]
+}
