@@ -604,6 +604,31 @@ function extractRapid(url, referer) {
           for (let j = 0; j < unpacked.length; j += 500) {
             console.log("[Rapid] unpacked[" + i + "][" + j + "]=" + unpacked.substring(j, j + 500).replace(/\n/g, " "));
           }
+          // dc_ decrypt fonksiyonu: reverse + N×atob + acc/xor
+          try {
+            const dcFnMatch = unpacked.match(/(function\s+dc_\w+\s*\([\s\S]*?return\s+unmix\s*\})/);
+            const sVarMatch = unpacked.match(/var\s+(s_\w+)\s*=\s*(dc_\w+\s*\(\[[\s\S]*?\]\s*\))\s*;/);
+            if (dcFnMatch && sVarMatch) {
+              const dcCode = dcFnMatch[1] + "; var __url = " + sVarMatch[2] + "; __url;";
+              const dcResult = (function() {
+                try { return (0, eval)(dcCode); } catch(e2) { return null; }
+              })();
+              console.log("[Rapid] dc_decrypt result=" + (dcResult ? dcResult.substring(0, 100) : "null"));
+              if (dcResult && (dcResult.includes(".m3u8") || dcResult.includes(".mp4") || dcResult.startsWith("http"))) {
+                return {
+                  url: dcResult.trim(),
+                  quality: "Auto",
+                  headers: {
+                    "User-Agent": headers["User-Agent"],
+                    "Referer": origin + "/",
+                    "Origin": origin
+                  }
+                };
+              }
+            }
+          } catch (dcErr) {
+            console.warn("[Rapid] dc_decrypt hata:", dcErr && dcErr.message);
+          }
           const streamMatch = unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || unpacked.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || unpacked.match(/file\s*[=:]\s*["']([^"']+\.(?:m3u8|mp4)[^"']*)['"]/i) || unpacked.match(/["']file["']\s*:\s*["']([^"']+)["']/i) || unpacked.match(/sources\s*:\s*\[\s*\{[^}]*["']?file["']?\s*:\s*["']([^"']+)["']/i);
           if (streamMatch == null ? void 0 : streamMatch[1]) {
             return {
