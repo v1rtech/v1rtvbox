@@ -573,6 +573,7 @@ function extractRapid(url, referer) {
         "Origin": origin
       };
       const response = yield fetch(url, { headers });
+      console.log("[Rapid] status=" + response.status + " ok=" + response.ok + " url=" + url);
       if (!response.ok) {
         console.warn(`[Rapid] HTTP ${response.status} \u2014 ${url}`);
         return null;
