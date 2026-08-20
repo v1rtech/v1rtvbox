@@ -579,8 +579,10 @@ function extractRapid(url, referer) {
         return null;
       }
       const html = yield response.text();
-      console.log("[Rapid] HTML len=" + html.length + " preview=" + html.substring(0, 300).replace(/\n/g, " "));
-      if (html.includes("challenge-platform") || html.includes("_cf_chl_opt") || html.includes("Just a moment")) {
+      console.log("[Rapid] HTML len=" + html.length + " p1=" + html.substring(0, 300).replace(/\n/g, " "));
+      console.log("[Rapid] p2=" + html.substring(300, 600).replace(/\n/g, " "));
+      const cfCheck = html.substring(0, 2000);
+      if (cfCheck.includes("challenge-platform") || cfCheck.includes("_cf_chl_opt") || cfCheck.includes("<title>Just a moment")) {
         console.warn("[Rapid] Cloudflare korumas\u0131, atlan\u0131yor:", url);
         return null;
       }
