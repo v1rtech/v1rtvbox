@@ -600,7 +600,10 @@ function extractRapid(url, referer) {
         for (let i = 0; i < scriptBlocks.length; i++) {
           const unpacked = unpackJS(scriptBlocks[i]);
           const changed = unpacked !== scriptBlocks[i];
-          console.log("[Rapid] unpacked[" + i + "] changed=" + changed + " len=" + unpacked.length + " preview=" + unpacked.substring(0, 300).replace(/\n/g, " "));
+          console.log("[Rapid] unpacked[" + i + "] changed=" + changed + " len=" + unpacked.length);
+          for (let j = 0; j < unpacked.length; j += 500) {
+            console.log("[Rapid] unpacked[" + i + "][" + j + "]=" + unpacked.substring(j, j + 500).replace(/\n/g, " "));
+          }
           const streamMatch = unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || unpacked.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || unpacked.match(/file\s*[=:]\s*["']([^"']+\.(?:m3u8|mp4)[^"']*)['"]/i) || unpacked.match(/["']file["']\s*:\s*["']([^"']+)["']/i) || unpacked.match(/sources\s*:\s*\[\s*\{[^}]*["']?file["']?\s*:\s*["']([^"']+)["']/i);
           if (streamMatch == null ? void 0 : streamMatch[1]) {
             return {
