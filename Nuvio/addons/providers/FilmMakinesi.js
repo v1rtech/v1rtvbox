@@ -578,7 +578,8 @@ function extractRapid(url, referer) {
         return null;
       }
       const html = yield response.text();
-      console.log("[Rapid] HTML len=" + html.length + " has_eval=" + html.includes("eval(function(p,a,c,k") + " has_file=" + html.includes("file:") + " has_m3u8=" + html.includes(".m3u8"));
+      console.log("[Rapid] len=" + html.length + " eval=" + html.includes("eval(function(p,a,c,k") + " m3u8=" + html.includes(".m3u8") + " sources=" + html.includes("sources") + " jwplayer=" + html.includes("jwplayer") + " playmix=" + html.includes("playmix") + " file=" + html.includes("\"file\""));
+      console.log("[Rapid] mid=" + html.substring(2000, 2400).replace(/\n/g, " "));
       const scriptMatches = html.match(/eval\(function\(p,a,c,k,e,?[d]?\).*?\)\)/g);
       console.log("[Rapid] scriptMatches=" + (scriptMatches ? scriptMatches.length : 0));
       if (scriptMatches) {
