@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesiPlugin",
+    "description": "FilmMakinesi.to uzerinden Turkce dublajli ve altyazili filmler. @V1R tarafindan gelistirildi.",
+    "version": 1,
+    "apiVersion": 1,
+    "status": 1,
+    "authors": ["V1R"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=64",
+    "url": "https://raw.githubusercontent.com/v1rtech/v1rtvbox/refs/heads/master/Nuvio/addons/providers-cs/FilmMakinesi.cs3"
+  }
+]
