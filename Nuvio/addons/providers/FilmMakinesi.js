@@ -583,9 +583,10 @@ function extractRapid(url, referer) {
       const scriptMatches = html.match(/eval\(function\(p,a,c,k,e,?[d]?\).*?\)\)/g);
       console.log("[Rapid] scriptMatches=" + (scriptMatches ? scriptMatches.length : 0));
       if (scriptMatches) {
-        for (let script of scriptMatches) {
-          const unpacked = unpackJS(script);
-          const streamMatch = unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || unpacked.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || unpacked.match(/file\s*[=:]\s*["']([^"']+\.(?:m3u8|mp4)[^"']*)['"]/i);
+        for (let i = 0; i < scriptMatches.length; i++) {
+          const unpacked = unpackJS(scriptMatches[i]);
+          console.log("[Rapid] unpacked[" + i + "]=" + unpacked.substring(0, 400).replace(/\n/g, " "));
+          const streamMatch = unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || unpacked.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || unpacked.match(/file\s*[=:]\s*["']([^"']+\.(?:m3u8|mp4)[^"']*)['"]/i) || unpacked.match(/["']file["']\s*:\s*["']([^"']+)["']/i) || unpacked.match(/sources\s*:\s*\[\s*\{[^}]*["']?file["']?\s*:\s*["']([^"']+)["']/i);
           if (streamMatch == null ? void 0 : streamMatch[1]) {
             return {
               url: streamMatch[1].trim(),
