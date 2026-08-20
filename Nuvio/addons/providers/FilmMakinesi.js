@@ -582,12 +582,24 @@ function extractRapid(url, referer) {
       const html = yield response.text();
       console.log("[Rapid] len=" + html.length + " eval=" + html.includes("eval(function(p,a,c,k") + " m3u8=" + html.includes(".m3u8") + " sources=" + html.includes("sources") + " jwplayer=" + html.includes("jwplayer") + " playmix=" + html.includes("playmix") + " file=" + html.includes("\"file\""));
       console.log("[Rapid] mid=" + html.substring(2000, 2400).replace(/\n/g, " "));
-      const scriptMatches = html.match(/eval\(function\(p,a,c,k,e,?[d]?\).*?\)\)/g);
-      console.log("[Rapid] scriptMatches=" + (scriptMatches ? scriptMatches.length : 0));
-      if (scriptMatches) {
-        for (let i = 0; i < scriptMatches.length; i++) {
-          const unpacked = unpackJS(scriptMatches[i]);
-          const changed = unpacked !== scriptMatches[i];
+      const scriptBlocks = [];
+      const scriptTagRegex = /<script[^>]*>([\s\S]*?)<\/script>/gi;
+      let scriptTagMatch;
+      while ((scriptTagMatch = scriptTagRegex.exec(html)) !== null) {
+        const content = scriptTagMatch[1];
+        if (content.includes("eval(function(p,a,c,k")) {
+          scriptBlocks.push(content.trim());
+        }
+      }
+      console.log("[Rapid] scriptBlocks=" + scriptBlocks.length);
+      if (scriptBlocks.length === 0) {
+        const inlineMatch = html.match(/eval\(function\(p,a,c,k[\s\S]*?\}\(['"]([\s\S]*?)['"],\s*\d+,\s*\d+,\s*['"][\s\S]*?['"]\s*\.split\(['"|]\|['"|]\)\s*\)\)/g);
+        if (inlineMatch) scriptBlocks.push(...inlineMatch);
+      }
+      if (scriptBlocks.length > 0) {
+        for (let i = 0; i < scriptBlocks.length; i++) {
+          const unpacked = unpackJS(scriptBlocks[i]);
+          const changed = unpacked !== scriptBlocks[i];
           console.log("[Rapid] unpacked[" + i + "] changed=" + changed + " len=" + unpacked.length + " preview=" + unpacked.substring(0, 300).replace(/\n/g, " "));
           const streamMatch = unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || unpacked.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || unpacked.match(/file\s*[=:]\s*["']([^"']+\.(?:m3u8|mp4)[^"']*)['"]/i) || unpacked.match(/["']file["']\s*:\s*["']([^"']+)["']/i) || unpacked.match(/sources\s*:\s*\[\s*\{[^}]*["']?file["']?\s*:\s*["']([^"']+)["']/i);
           if (streamMatch == null ? void 0 : streamMatch[1]) {
