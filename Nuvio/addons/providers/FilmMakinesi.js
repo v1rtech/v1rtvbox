@@ -413,7 +413,9 @@ function extractCloseLoad(url, referer) {
 var cheerio2 = __toESM(require("cheerio-without-node-native"));
 function unpackJS(code) {
   try {
-    const match = code.match(/}\('([^']*)',(\d+),(\d+),'([^']*)'\.split\('\|'\)/);
+    const matchSingle = code.match(/}\('([\s\S]*?)',\s*(\d+),\s*(\d+),\s*'([\s\S]*?)'\.split\('\|'\)/);
+    const matchDouble = code.match(/}\("([\s\S]*?)",\s*(\d+),\s*(\d+),\s*"([\s\S]*?)"\.split\("\|"\)/);
+    const match = matchSingle || matchDouble;
     if (!match)
       return code;
     let p = match[1];
@@ -585,7 +587,8 @@ function extractRapid(url, referer) {
       if (scriptMatches) {
         for (let i = 0; i < scriptMatches.length; i++) {
           const unpacked = unpackJS(scriptMatches[i]);
-          console.log("[Rapid] unpacked[" + i + "]=" + unpacked.substring(0, 400).replace(/\n/g, " "));
+          const changed = unpacked !== scriptMatches[i];
+          console.log("[Rapid] unpacked[" + i + "] changed=" + changed + " len=" + unpacked.length + " preview=" + unpacked.substring(0, 300).replace(/\n/g, " "));
           const streamMatch = unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)['"]/i) || unpacked.match(/["'](https?:\/\/[^"']+\.mp4[^"']*)['"]/i) || unpacked.match(/file\s*[=:]\s*["']([^"']+\.(?:m3u8|mp4)[^"']*)['"]/i) || unpacked.match(/["']file["']\s*:\s*["']([^"']+)["']/i) || unpacked.match(/sources\s*:\s*\[\s*\{[^}]*["']?file["']?\s*:\s*["']([^"']+)["']/i);
           if (streamMatch == null ? void 0 : streamMatch[1]) {
             return {
