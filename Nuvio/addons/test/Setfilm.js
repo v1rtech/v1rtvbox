@@ -1,5 +1,5 @@
 /**
- * V1RSetfilm - Built from src/V1RSetfilm/
+ * patronSetfilm - Built from src/patronSetfilm/
  * Generated: 2026-05-04T15:05:22.235Z
  */
 var __create = Object.create;
@@ -67,17 +67,17 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// src/V1RSetfilm/index.js
-var V1RSetfilm_exports = {};
-__export(V1RSetfilm_exports, {
+// src/patronSetfilm/index.js
+var patronSetfilm_exports = {};
+__export(patronSetfilm_exports, {
   getStreams: () => getStreams
 });
-module.exports = __toCommonJS(V1RSetfilm_exports);
+module.exports = __toCommonJS(patronSetfilm_exports);
 
-// src/V1RSetfilm/extractor.js
+// src/patronSetfilm/extractor.js
 var import_cheerio_without_node_native2 = __toESM(require("cheerio-without-node-native"));
 
-// src/V1RSetfilm/http.js
+// src/patronSetfilm/http.js
 var MAIN_URL = "https://www.setfilmizle.uk";
 var AJAX_URL = `${MAIN_URL}/wp-admin/admin-ajax.php`;
 var HEADERS = {
@@ -122,7 +122,7 @@ function fetchJSON(_0) {
   });
 }
 
-// src/V1RSetfilm/tmdb.js
+// src/patronSetfilm/tmdb.js
 var import_cheerio_without_node_native = __toESM(require("cheerio-without-node-native"));
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
 var PROVIDER_TAG = "[SetFilmIzle]";
@@ -226,7 +226,7 @@ function getTmdbTitle(tmdbId, mediaType) {
   });
 }
 
-// src/V1RSetfilm/extractor.js
+// src/patronSetfilm/extractor.js
 var PROVIDER_NAME = "SetFilmIzle";
 function normalizeTitle(value) {
   return (value || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
@@ -608,7 +608,7 @@ function extractStreams(tmdbId, mediaType, season, episode) {
   });
 }
 
-// src/V1RSetfilm/index.js
+// src/patronSetfilm/index.js
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
