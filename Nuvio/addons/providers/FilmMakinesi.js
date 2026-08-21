@@ -618,20 +618,36 @@ function extractRapid(url, referer) {
               const stepMatch = fnBody.match(/acc\s*=\s*\(\s*acc\s*\+\s*(\d+)\s*\)/);
               const accInit = accMatch ? parseInt(accMatch[1]) : 0;
               const step = stepMatch ? parseInt(stepMatch[1]) : 1;
-              // Operasyon sırasını satır satır çıkar (atob / reverse)
+              // Operasyon sırasını satır satır çıkar (atob / reverse / rot)
               const ops = [];
-              const opRegex = /result\s*=\s*(atob\(result\)|result\.split\(''\)\.reverse\(\)\.join\(''\))/g;
-              let opM;
-              while ((opM = opRegex.exec(fnBody)) !== null) {
-                ops.push(opM[1].startsWith("atob") ? "atob" : "reverse");
+              const opRegex = /result\s*=\s*(atob\(result\)|result\.split\(''\)\.reverse\(\)\.join\(''\)|result\.replace\([^)]+\+\s*(\d+)\s*\)%26\+base\)\s*\}\))/g;
+              const rotRegex = /result\.replace[^;]+\(o-base\+(\d+)\)%26\+base/g;
+              // Satır satır tara
+              const lines = fnBody.split(";");
+              for (const line of lines) {
+                const t = line.trim();
+                if (t.includes("atob(result)")) {
+                  ops.push({ type: "atob" });
+                } else if (t.includes(".reverse()")) {
+                  ops.push({ type: "reverse" });
+                } else if (t.includes("result.replace") && t.includes("charCodeAt")) {
+                  const rotM = t.match(/\(o-base\+(\d+)\)%26/);
+                  ops.push({ type: "rot", n: rotM ? parseInt(rotM[1]) : 13 });
+                }
               }
-              console.log("[Rapid] dc ops=" + ops.join(",") + " acc=" + accInit + " step=" + step);
+              console.log("[Rapid] dc ops=" + ops.map(function(o){return o.type+(o.n!=null?o.n:"");}).join(",") + " acc=" + accInit + " step=" + step);
               // Operasyonları uygula
-              for (let op of ops) {
-                if (op === "atob") {
+              for (const op of ops) {
+                if (op.type === "atob") {
                   val = atob(val);
-                } else {
+                } else if (op.type === "reverse") {
                   val = val.split("").reverse().join("");
+                } else if (op.type === "rot") {
+                  val = val.replace(/[a-zA-Z]/g, function(c) {
+                    const o = c.charCodeAt(0);
+                    const base = o <= 90 ? 65 : 97;
+                    return String.fromCharCode((o - base + op.n) % 26 + base);
+                  });
                 }
               }
               // acc/xor
