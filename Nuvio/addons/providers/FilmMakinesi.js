@@ -636,11 +636,15 @@ function extractRapid(url, referer) {
                 }
               }
               console.log("[Rapid] dc ops=" + ops.map(function(o){return o.type+(o.n!=null?o.n:"");}).join(",") + " acc=" + accInit + " step=" + step);
+              console.log("[Rapid] dc val[0]=" + val.substring(0, 80));
               // Operasyonları uygula
-              for (const op of ops) {
+              for (let oi = 0; oi < ops.length; oi++) {
+                const op = ops[oi];
                 if (op.type === "atob") {
+                  val = val.replace(/[^A-Za-z0-9+/=]/g, "");
                   while (val.length % 4 !== 0) val += "=";
-                  val = atob(val);
+                  try { val = atob(val); } catch(e3) { console.warn("[Rapid] atob[" + oi + "] hata len=" + val.length + " sample=" + val.substring(0,40)); throw e3; }
+                  console.log("[Rapid] dc after atob[" + oi + "] len=" + val.length + " sample=" + val.substring(0,40).replace(/\n/g," "));
                 } else if (op.type === "reverse") {
                   val = val.split("").reverse().join("");
                 } else if (op.type === "rot") {
