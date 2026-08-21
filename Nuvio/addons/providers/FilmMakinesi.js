@@ -642,13 +642,28 @@ function extractRapid(url, referer) {
               }
               console.log("[Rapid] dc ops=" + ops.map(function(o){return o.type+(o.n!=null?o.n:"");}).join(",") + " acc=" + accInit + " step=" + step);
               console.log("[Rapid] dc val[0]=" + val.substring(0, 80));
+              // isBinary: atob sonrası binary string mi, base64 string mi
+              let isBinary = false;
               // Operasyonları uygula
               for (let oi = 0; oi < ops.length; oi++) {
                 const op = ops[oi];
                 if (op.type === "atob") {
-                  val = val.replace(/[^A-Za-z0-9+/=]/g, "");
-                  while (val.length % 4 !== 0) val += "=";
-                  try { val = atob(val); } catch(e3) { console.warn("[Rapid] atob[" + oi + "] hata len=" + val.length + " sample=" + val.substring(0,40)); throw e3; }
+                  try {
+                    let b64;
+                    if (isBinary) {
+                      // Binary string → base64 → binary: btoa ile çevir
+                      b64 = btoa(val);
+                    } else {
+                      // İlk atob: base64 string temizle
+                      b64 = val.replace(/[^A-Za-z0-9+/=]/g, "");
+                      while (b64.length % 4 !== 0) b64 += "=";
+                    }
+                    val = atob(b64);
+                    isBinary = true;
+                  } catch(e3) {
+                    console.warn("[Rapid] atob[" + oi + "] hata len=" + val.length + " sample=" + val.substring(0,40));
+                    throw e3;
+                  }
                   console.log("[Rapid] dc after atob[" + oi + "] len=" + val.length + " sample=" + val.substring(0,40).replace(/\n/g," "));
                 } else if (op.type === "reverse") {
                   val = val.split("").reverse().join("");
@@ -658,6 +673,7 @@ function extractRapid(url, referer) {
                     const base = o <= 90 ? 65 : 97;
                     return String.fromCharCode((o - base + op.n) % 26 + base);
                   });
+                  // rot sonrası artık binary değil (harfler değişti ama byte değerleri aynı aralıkta)
                 }
               }
               // acc/xor
