@@ -270,6 +270,21 @@ function decryptNative(html) {
     const scriptContent = scriptBlockMatch == null ? void 0 : scriptBlockMatch[1];
     if (!scriptContent)
       return null;
+    // Function constructor ile çalıştır
+    const dcFnMatch2 = scriptContent.match(/function\s+(dc_\w+)\s*\(value_parts\)\s*\{([\s\S]*?)return\s+unmix\s*\}/);
+    const sVarMatch2 = scriptContent.match(/var\s+s_\w+\s*=\s*(dc_\w+)\s*\(\[([\s\S]*?)\]\s*\)\s*;/);
+    if (dcFnMatch2 && sVarMatch2) {
+      try {
+        const dc2 = new Function("value_parts", dcFnMatch2[2] + "\nreturn unmix;");
+        const partsList2 = sVarMatch2[2].match(/"((?:[^"\\]|\\.)*)"/g)
+          .map(function(s) { return s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\'); });
+        const res2 = dc2(partsList2);
+        console.log("[CloseLoad] Function() result=" + (res2 ? res2.substring(0,120) : "null"));
+        if (res2 && /^https?:\/\//i.test(res2)) return res2;
+      } catch(fnErr2) {
+        console.warn("[CloseLoad] Function() hata:", fnErr2 && fnErr2.message);
+      }
+    }
     const arrayMatch = scriptContent.match(/\(\[((?:"[^"]+",?\s*)+)\]\)/);
     if (!(arrayMatch == null ? void 0 : arrayMatch[1]))
       return null;
@@ -611,23 +626,41 @@ function extractRapid(url, referer) {
           }
           // dc_ decrypt: operasyon sırasını parse et, manuel uygula
           try {
-            const dcFnMatch = unpacked.match(/function\s+dc_\w+\s*\(value_parts\)\s*\{([\s\S]*?)return\s+unmix\s*\}/);
-            const sVarMatch = unpacked.match(/var\s+s_\w+\s*=\s*dc_\w+\s*\(\[([\s\S]*?)\]\s*\)\s*;/);
+            const dcFnMatch = unpacked.match(/function\s+(dc_\w+)\s*\(value_parts\)\s*\{([\s\S]*?)return\s+unmix\s*\}/);
+            const sVarMatch = unpacked.match(/var\s+s_\w+\s*=\s*(dc_\w+)\s*\(\[([\s\S]*?)\]\s*\)\s*;/);
             if (dcFnMatch && sVarMatch) {
-              const fnBody = dcFnMatch[1];
-              // Parçaları birleştir
-              const parts = sVarMatch[1].match(/"([^"]*)"/g) || [];
+              const fnName = dcFnMatch[1];
+              const fnBody = dcFnMatch[2];
+              const partsRaw = sVarMatch[2];
+              // Function constructor ile çalıştır
+              try {
+                const dc = new Function("value_parts", fnBody + "\nreturn unmix;");
+                const partsList = partsRaw.match(/"((?:[^"\\]|\\.)*)"/g)
+                  .map(function(s) { return s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\'); });
+                const result = dc(partsList);
+                console.log("[Rapid] Function() result=" + (result ? result.substring(0,120) : "null"));
+                if (result && (result.includes(".m3u8") || result.includes(".mp4") || result.startsWith("http"))) {
+                  return {
+                    url: result.trim(),
+                    quality: "Auto",
+                    headers: {
+                      "User-Agent": headers["User-Agent"],
+                      "Referer": origin + "/",
+                      "Origin": origin
+                    }
+                  };
+                }
+              } catch (fnErr) {
+                console.warn("[Rapid] Function() hata:", fnErr && fnErr.message, "- manuel parse deneniyor");
+              }
+              // Fallback: manuel parse
+              const parts = partsRaw.match(/"([^"]*)"/g) || [];
               let val = parts.map(function(p) { return p.slice(1, -1); }).join("");
-              // acc ve step parametrelerini çıkar
               const accMatch = fnBody.match(/var\s+acc\s*=\s*(\d+)/);
               const stepMatch = fnBody.match(/acc\s*=\s*\(\s*acc\s*\+\s*(\d+)\s*\)/);
               const accInit = accMatch ? parseInt(accMatch[1]) : 0;
               const step = stepMatch ? parseInt(stepMatch[1]) : 1;
-              // Operasyon sırasını satır satır çıkar (atob / reverse / rot)
               const ops = [];
-              const opRegex = /result\s*=\s*(atob\(result\)|result\.split\(''\)\.reverse\(\)\.join\(''\)|result\.replace\([^)]+\+\s*(\d+)\s*\)%26\+base\)\s*\}\))/g;
-              const rotRegex = /result\.replace[^;]+\(o-base\+(\d+)\)%26\+base/g;
-              // Satır satır tara
               const lines = fnBody.split(";");
               for (const line of lines) {
                 const t = line.trim();
@@ -641,52 +674,65 @@ function extractRapid(url, referer) {
                 }
               }
               console.log("[Rapid] dc ops=" + ops.map(function(o){return o.type+(o.n!=null?o.n:"");}).join(",") + " acc=" + accInit + " step=" + step);
-              console.log("[Rapid] dc val[0]=" + val.substring(0, 80));
-              // isBinary: atob sonrası binary string mi, base64 string mi
-              let isBinary = false;
-              // Operasyonları uygula
+              // Uint8Array tabanlı işlem: binary sorununu önle
+              let bytes = null; // null = henüz string, array = byte array
               for (let oi = 0; oi < ops.length; oi++) {
                 const op = ops[oi];
                 if (op.type === "atob") {
-                  try {
-                    let b64;
-                    if (isBinary) {
-                      // Binary string → base64 → binary: btoa ile çevir
-                      b64 = btoa(val);
-                    } else {
-                      // İlk atob: base64 string temizle
-                      b64 = val.replace(/[^A-Za-z0-9+/=]/g, "");
-                      while (b64.length % 4 !== 0) b64 += "=";
-                    }
-                    val = atob(b64);
-                    isBinary = true;
-                  } catch(e3) {
-                    console.warn("[Rapid] atob[" + oi + "] hata len=" + val.length + " sample=" + val.substring(0,40));
-                    throw e3;
+                  let b64;
+                  if (bytes !== null) {
+                    // byte array → latin1 string → base64
+                    let tmp = "";
+                    for (let bi = 0; bi < bytes.length; bi++) tmp += String.fromCharCode(bytes[bi]);
+                    b64 = btoa(tmp);
+                  } else {
+                    b64 = val.replace(/[^A-Za-z0-9+/=]/g, "");
+                    while (b64.length % 4 !== 0) b64 += "=";
                   }
-                  console.log("[Rapid] dc after atob[" + oi + "] len=" + val.length + " sample=" + val.substring(0,40).replace(/\n/g," "));
+                  const decoded = atob(b64);
+                  bytes = new Uint8Array(decoded.length);
+                  for (let bi = 0; bi < decoded.length; bi++) bytes[bi] = decoded.charCodeAt(bi) & 0xff;
+                  console.log("[Rapid] atob[" + oi + "] len=" + bytes.length + " sample=" + Array.from(bytes.slice(0,8)).map(function(b){return b.toString(16)}).join(" "));
                 } else if (op.type === "reverse") {
-                  val = val.split("").reverse().join("");
+                  if (bytes !== null) {
+                    bytes = bytes.slice().reverse();
+                  } else {
+                    val = val.split("").reverse().join("");
+                  }
                 } else if (op.type === "rot") {
-                  val = val.replace(/[a-zA-Z]/g, function(c) {
-                    const o = c.charCodeAt(0);
-                    const base = o <= 90 ? 65 : 97;
-                    return String.fromCharCode((o - base + op.n) % 26 + base);
-                  });
-                  // rot sonrası artık binary değil (harfler değişti ama byte değerleri aynı aralıkta)
+                  if (bytes !== null) {
+                    for (let bi = 0; bi < bytes.length; bi++) {
+                      const c = bytes[bi];
+                      if ((c >= 65 && c <= 90) || (c >= 97 && c <= 122)) {
+                        const base = c <= 90 ? 65 : 97;
+                        bytes[bi] = (c - base + op.n) % 26 + base;
+                      }
+                    }
+                  } else {
+                    val = val.replace(/[a-zA-Z]/g, function(c) {
+                      const o = c.charCodeAt(0);
+                      const base = o <= 90 ? 65 : 97;
+                      return String.fromCharCode((o - base + op.n) % 26 + base);
+                    });
+                  }
                 }
+              }
+              // bytes'ı string'e çevir
+              if (bytes !== null) {
+                val = "";
+                for (let bi = 0; bi < bytes.length; bi++) val += String.fromCharCode(bytes[bi]);
               }
               // acc/xor
               let acc2 = accInit;
               let unmix = "";
               for (let k = 0; k < val.length; k++) {
-                const b = val.charCodeAt(k);
+                const b = val.charCodeAt(k) & 0xff;
                 acc2 = (acc2 + step) % 256;
                 const plain = b ^ acc2;
                 acc2 = (acc2 + b) % 256;
                 unmix += String.fromCharCode(plain);
               }
-              console.log("[Rapid] dc_decrypt result=" + unmix.substring(0, 120));
+              console.log("[Rapid] dc_decrypt fallback result=" + unmix.substring(0, 120));
               if (unmix && (unmix.includes(".m3u8") || unmix.includes(".mp4") || unmix.startsWith("http"))) {
                 return {
                   url: unmix.trim(),
