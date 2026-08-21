@@ -639,6 +639,7 @@ function extractRapid(url, referer) {
               // Operasyonları uygula
               for (const op of ops) {
                 if (op.type === "atob") {
+                  while (val.length % 4 !== 0) val += "=";
                   val = atob(val);
                 } else if (op.type === "reverse") {
                   val = val.split("").reverse().join("");
