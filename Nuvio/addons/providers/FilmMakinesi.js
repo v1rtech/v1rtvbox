@@ -604,19 +604,50 @@ function extractRapid(url, referer) {
           for (let j = 0; j < unpacked.length; j += 500) {
             console.log("[Rapid] unpacked[" + i + "][" + j + "]=" + unpacked.substring(j, j + 500).replace(/\n/g, " "));
           }
-          // dc_ decrypt fonksiyonu: reverse + N×atob + acc/xor
+          // dc_ decrypt: operasyon sırasını parse et, manuel uygula
           try {
-            const dcFnMatch = unpacked.match(/(function\s+dc_\w+\s*\([\s\S]*?return\s+unmix\s*\})/);
-            const sVarMatch = unpacked.match(/var\s+(s_\w+)\s*=\s*(dc_\w+\s*\(\[[\s\S]*?\]\s*\))\s*;/);
+            const dcFnMatch = unpacked.match(/function\s+dc_\w+\s*\(value_parts\)\s*\{([\s\S]*?)return\s+unmix\s*\}/);
+            const sVarMatch = unpacked.match(/var\s+s_\w+\s*=\s*dc_\w+\s*\(\[([\s\S]*?)\]\s*\)\s*;/);
             if (dcFnMatch && sVarMatch) {
-              const dcCode = dcFnMatch[1] + "; var __url = " + sVarMatch[2] + "; __url;";
-              const dcResult = (function() {
-                try { return (0, eval)(dcCode); } catch(e2) { return null; }
-              })();
-              console.log("[Rapid] dc_decrypt result=" + (dcResult ? dcResult.substring(0, 100) : "null"));
-              if (dcResult && (dcResult.includes(".m3u8") || dcResult.includes(".mp4") || dcResult.startsWith("http"))) {
+              const fnBody = dcFnMatch[1];
+              // Parçaları birleştir
+              const parts = sVarMatch[1].match(/"([^"]*)"/g) || [];
+              let val = parts.map(function(p) { return p.slice(1, -1); }).join("");
+              // acc ve step parametrelerini çıkar
+              const accMatch = fnBody.match(/var\s+acc\s*=\s*(\d+)/);
+              const stepMatch = fnBody.match(/acc\s*=\s*\(\s*acc\s*\+\s*(\d+)\s*\)/);
+              const accInit = accMatch ? parseInt(accMatch[1]) : 0;
+              const step = stepMatch ? parseInt(stepMatch[1]) : 1;
+              // Operasyon sırasını satır satır çıkar (atob / reverse)
+              const ops = [];
+              const opRegex = /result\s*=\s*(atob\(result\)|result\.split\(''\)\.reverse\(\)\.join\(''\))/g;
+              let opM;
+              while ((opM = opRegex.exec(fnBody)) !== null) {
+                ops.push(opM[1].startsWith("atob") ? "atob" : "reverse");
+              }
+              console.log("[Rapid] dc ops=" + ops.join(",") + " acc=" + accInit + " step=" + step);
+              // Operasyonları uygula
+              for (let op of ops) {
+                if (op === "atob") {
+                  val = atob(val);
+                } else {
+                  val = val.split("").reverse().join("");
+                }
+              }
+              // acc/xor
+              let acc2 = accInit;
+              let unmix = "";
+              for (let k = 0; k < val.length; k++) {
+                const b = val.charCodeAt(k);
+                acc2 = (acc2 + step) % 256;
+                const plain = b ^ acc2;
+                acc2 = (acc2 + b) % 256;
+                unmix += String.fromCharCode(plain);
+              }
+              console.log("[Rapid] dc_decrypt result=" + unmix.substring(0, 120));
+              if (unmix && (unmix.includes(".m3u8") || unmix.includes(".mp4") || unmix.startsWith("http"))) {
                 return {
-                  url: dcResult.trim(),
+                  url: unmix.trim(),
                   quality: "Auto",
                   headers: {
                     "User-Agent": headers["User-Agent"],
