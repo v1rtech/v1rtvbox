@@ -6,7 +6,7 @@
       "id": "film-makinesi",
       "name": "FilmMakinesi",
       "description": "FilmMakinesi.to uzerinden Turkce dublajli ve altyazili filmler. @V1R tarafindan gelistirildi.",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": "V1R",
       "supportedTypes": [
         "movie",

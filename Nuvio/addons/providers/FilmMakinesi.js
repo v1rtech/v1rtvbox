@@ -921,21 +921,21 @@ function extractFromMoviePage(movieUrl) {
       if (!embedUrl || embedUrl.includes("youtube"))
         continue;
       try {
-        if (embedUrl.includes("closeload")) {
-          const clRes = yield extractCloseLoad(embedUrl, movieUrl);
-          if (clRes) {
-            const meta = buildMeta("CloseLoad", label);
-            streams.push({
-              name: meta.name,
-              title: meta.title,
-              url: clRes.url,
-              quality: clRes.quality || "720p",
-              type: "hls",
-              headers: clRes.headers || { Referer: MAIN_URL + "/" }
-            });
-            continue;
-          }
-        }
+        // if (embedUrl.includes("closeload")) {
+        //   const clRes = yield extractCloseLoad(embedUrl, movieUrl);
+        //   if (clRes) {
+        //     const meta = buildMeta("CloseLoad", label);
+        //     streams.push({
+        //       name: meta.name,
+        //       title: meta.title,
+        //       url: clRes.url,
+        //       quality: clRes.quality || "720p",
+        //       type: "hls",
+        //       headers: clRes.headers || { Referer: MAIN_URL + "/" }
+        //     });
+        //     continue;
+        //   }
+        // }
         if (embedUrl.includes("rapid")) {
           const rapidRes = yield extractRapid(embedUrl, movieUrl);
           if (rapidRes) {
