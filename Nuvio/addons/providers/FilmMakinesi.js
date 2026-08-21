@@ -190,8 +190,11 @@ function getTmdbTitleFromHtml(tmdbId, mediaType) {
       }
       if (!trTitle)
         return null;
-      console.log(`${PROVIDER_TAG} [HTML] Baslik bulundu: ${trTitle}`);
-      return { trTitle, origTitle };
+      let year = null;
+      const yearMatch = html.match(/release_date["\s:]+(\d{4})-\d{2}-\d{2}/) || html.match(/<span class="release"[^>]*>\s*(\d{4})/) || html.match(/\((\d{4})\)/);
+      if (yearMatch) year = parseInt(yearMatch[1], 10);
+      console.log(`${PROVIDER_TAG} [HTML] Baslik bulundu: ${trTitle} (${year})`);
+      return { trTitle, origTitle, year };
     } catch (e) {
       console.warn(`${PROVIDER_TAG} [HTML] Scraping basarisiz: ${e.message}`);
       return null;
@@ -212,8 +215,10 @@ function getTmdbTitleFromApi(tmdbId, mediaType) {
       const origTitle = data.original_title || data.original_name || trTitle;
       if (!trTitle)
         return null;
-      console.log(`${PROVIDER_TAG} [API] Baslik bulundu: ${trTitle}`);
-      return { trTitle, origTitle };
+      const dateStr = data.release_date || data.first_air_date || "";
+      const year = dateStr ? parseInt(dateStr.slice(0, 4), 10) : null;
+      console.log(`${PROVIDER_TAG} [API] Baslik bulundu: ${trTitle} (${year})`);
+      return { trTitle, origTitle, year };
     } catch (e) {
       console.warn(`${PROVIDER_TAG} [API] REST API basarisiz: ${e.message}`);
       return null;
@@ -755,7 +760,7 @@ function buildMeta(player, label) {
     title: `${player} | ${lang} | ${label}`
   };
 }
-function searchMovie(query) {
+function searchMovie(query, year) {
   return __async(this, null, function* () {
     const searchUrl = `${MAIN_URL}/arama/?s=${encodeURIComponent(query)}`;
     const html = yield fetchText(searchUrl);
@@ -776,11 +781,26 @@ function searchMovie(query) {
     if (results.length === 0)
       return null;
     const queryLower = query.toLowerCase();
-    let exact = results.find((r) => r.title.toLowerCase() === queryLower) || results.find((r) => r.title.toLowerCase().startsWith(queryLower));
-    if (!exact) {
-      exact = results.find((r) => r.title.toLowerCase().includes(queryLower));
+    const titleMatches = results.filter((r) => {
+      const tl = r.title.toLowerCase();
+      return tl === queryLower || tl.startsWith(queryLower) || tl.includes(queryLower);
+    });
+    const candidates = titleMatches.length > 0 ? titleMatches : results;
+    if (year && candidates.length > 1) {
+      const byYear = candidates.find((r) => {
+        const urlYearMatch = r.href.match(/[-\/](\d{4})[\/\-]?(?:izle|film)?[\/]?$/);
+        const titleYearMatch = r.title.match(/\((\d{4})\)/);
+        const urlYear = urlYearMatch ? parseInt(urlYearMatch[1], 10) : null;
+        const titleYear = titleYearMatch ? parseInt(titleYearMatch[1], 10) : null;
+        return urlYear === year || titleYear === year;
+      });
+      if (byYear) {
+        console.log(`${PROVIDER_TAG} Yil eslesmesi bulundu: ${byYear.href} (${year})`);
+        return byYear.href;
+      }
+      console.warn(`${PROVIDER_TAG} Yil (${year}) eslesmiyor, ilk baslik eslesimi kullaniliyor`);
     }
-    return exact ? exact.href : results[0].href;
+    return candidates[0] ? candidates[0].href : results[0].href;
   });
 }
 function extractFromMoviePage(movieUrl) {
@@ -926,16 +946,16 @@ function extractStreams(tmdbId, mediaType) {
   return __async(this, null, function* () {
     if (mediaType !== "movie")
       return [];
-    const { trTitle, origTitle } = yield getTmdbTitle(tmdbId, mediaType);
-    console.log(`[V1RFilmMakinesi] TMDB: ${tmdbId} | Baslik: ${trTitle}`);
+    const { trTitle, origTitle, year } = yield getTmdbTitle(tmdbId, mediaType);
+    console.log(`[V1RFilmMakinesi] TMDB: ${tmdbId} | Baslik: ${trTitle} | Yil: ${year}`);
     if (!trTitle && !origTitle)
       return [];
     let movieUrl = null;
     if (trTitle) {
-      movieUrl = yield searchMovie(trTitle);
+      movieUrl = yield searchMovie(trTitle, year);
     }
     if (!movieUrl && origTitle && origTitle !== trTitle) {
-      movieUrl = yield searchMovie(origTitle);
+      movieUrl = yield searchMovie(origTitle, year);
     }
     if (!movieUrl) {
       console.warn(`[V1RFilmMakinesi] Site'de icerik bulunamadi: ${trTitle || origTitle}`);
