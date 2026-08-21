@@ -275,7 +275,8 @@ function decryptNative(html) {
     const sVarMatch2 = scriptContent.match(/var\s+s_\w+\s*=\s*(dc_\w+)\s*\(\[([\s\S]*?)\]\s*\)\s*;/);
     if (dcFnMatch2 && sVarMatch2) {
       try {
-        const dc2 = new Function("value_parts", dcFnMatch2[2] + "\nreturn unmix;");
+        const cleanBody2 = dcFnMatch2[2].replace(/\\'/g, "'").replace(/\\\\/g, "\\");
+        const dc2 = new Function("value_parts", cleanBody2 + "\nreturn unmix;");
         const partsList2 = sVarMatch2[2].match(/"((?:[^"\\]|\\.)*)"/g)
           .map(function(s) { return s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\'); });
         const res2 = dc2(partsList2);
@@ -634,7 +635,8 @@ function extractRapid(url, referer) {
               const partsRaw = sVarMatch[2];
               // Function constructor ile çalıştır
               try {
-                const dc = new Function("value_parts", fnBody + "\nreturn unmix;");
+                const cleanBody = fnBody.replace(/\\'/g, "'").replace(/\\\\/g, "\\");
+                const dc = new Function("value_parts", cleanBody + "\nreturn unmix;");
                 const partsList = partsRaw.match(/"((?:[^"\\]|\\.)*)"/g)
                   .map(function(s) { return s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\'); });
                 const result = dc(partsList);
@@ -674,25 +676,26 @@ function extractRapid(url, referer) {
                 }
               }
               console.log("[Rapid] dc ops=" + ops.map(function(o){return o.type+(o.n!=null?o.n:"");}).join(",") + " acc=" + accInit + " step=" + step);
-              // Uint8Array tabanlı işlem: binary sorununu önle
-              let bytes = null; // null = henüz string, array = byte array
+              // Her adımda Uint8Array ile çalış
+              let bytes = null; // null = string aşaması, array = binary aşama
               for (let oi = 0; oi < ops.length; oi++) {
                 const op = ops[oi];
                 if (op.type === "atob") {
-                  let b64;
+                  // Her atob adımında: mevcut değeri latin1 string olarak al,
+                  // base64 olmayan karakterleri filtrele, decode et
+                  let src;
                   if (bytes !== null) {
-                    // byte array → latin1 string → base64
-                    let tmp = "";
-                    for (let bi = 0; bi < bytes.length; bi++) tmp += String.fromCharCode(bytes[bi]);
-                    b64 = btoa(tmp);
+                    src = "";
+                    for (let bi = 0; bi < bytes.length; bi++) src += String.fromCharCode(bytes[bi]);
                   } else {
-                    b64 = val.replace(/[^A-Za-z0-9+/=]/g, "");
-                    while (b64.length % 4 !== 0) b64 += "=";
+                    src = val;
                   }
+                  let b64 = src.replace(/[^A-Za-z0-9+/=]/g, "");
+                  while (b64.length % 4 !== 0) b64 += "=";
                   const decoded = atob(b64);
                   bytes = new Uint8Array(decoded.length);
                   for (let bi = 0; bi < decoded.length; bi++) bytes[bi] = decoded.charCodeAt(bi) & 0xff;
-                  console.log("[Rapid] atob[" + oi + "] len=" + bytes.length + " sample=" + Array.from(bytes.slice(0,8)).map(function(b){return b.toString(16)}).join(" "));
+                  console.log("[Rapid] atob[" + oi + "] b64len=" + b64.length + " outlen=" + bytes.length);
                 } else if (op.type === "reverse") {
                   if (bytes !== null) {
                     bytes = bytes.slice().reverse();
@@ -717,7 +720,7 @@ function extractRapid(url, referer) {
                   }
                 }
               }
-              // bytes'ı string'e çevir
+              // bytes → string
               if (bytes !== null) {
                 val = "";
                 for (let bi = 0; bi < bytes.length; bi++) val += String.fromCharCode(bytes[bi]);
