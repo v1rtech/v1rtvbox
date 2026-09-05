@@ -1,47 +1,73 @@
 // ============================================================
-//  DDizi — Nuvio Provider  v1.0
+//  DDizi — Nuvio Provider  v1.1
 //  Site: https://www.ddizi.im
 // ============================================================
 
 var BASE_URL     = "https://www.ddizi.im";
 var TMDB_API_KEY = "500330721680edb6d5f7f12ba7cd9023";
 
-var UA = "Mozilla/5.0 (Linux; Android 14; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36";
+// Desktop UA — site bot-detection'ı geçmek için
+var UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36";
 
 var TR_CHAR_MAP = {
   "ğ":"g","ü":"u","ş":"s","ı":"i","ö":"o","ç":"c",
   "Ğ":"g","Ü":"u","Ş":"s","İ":"i","Ö":"o","Ç":"c"
 };
 
-// ─── HTTP ─────────────────────────────────────────────────────────────────────
+// Cached session cookie (PHPSESSID) — her getStreams çağrısında bir kez alınır
+var _sessionCookie = null;
 
-function get(url, referer) {
-  return fetch(url, {
+function fetchSessionCookie() {
+  if (_sessionCookie) return Promise.resolve(_sessionCookie);
+  return fetch(BASE_URL + "/", {
     headers: {
       "User-Agent"      : UA,
       "Accept"          : "text/html,application/xhtml+xml,*/*;q=0.8",
-      "Accept-Language" : "tr-TR,tr;q=0.9,en;q=0.8",
-      "Referer"         : referer || BASE_URL + "/"
+      "Accept-Language" : "tr-TR,tr;q=0.9,en;q=0.8"
     }
-  }).then(function(r) {
-    if (!r.ok) throw new Error("HTTP " + r.status + " " + url);
-    return r.text();
-  });
+  })
+  .then(function(r) {
+    var sc = r.headers.get("set-cookie") || "";
+    // PHPSESSID=xxx; path=/ formatından değeri çıkar
+    var parts = sc.split(",").map(function(c) { return c.trim().split(";")[0]; });
+    _sessionCookie = parts.filter(Boolean).join("; ") || "";
+    console.log("[DDizi] session cookie: " + _sessionCookie.substring(0, 40));
+    return _sessionCookie;
+  })
+  .catch(function() { return ""; });
 }
 
-function post(url, body, referer) {
-  return fetch(url, {
-    method  : "POST",
-    headers : {
-      "User-Agent"   : UA,
-      "Content-Type" : "application/x-www-form-urlencoded",
-      "Referer"      : referer || BASE_URL + "/"
-    },
-    body: body
-  }).then(function(r) {
-    if (!r.ok) throw new Error("HTTP " + r.status + " " + url);
-    return r.text();
-  });
+// ─── HTTP ─────────────────────────────────────────────────────────────────────
+
+function get(url, referer, cookie) {
+  var hdrs = {
+    "User-Agent"      : UA,
+    "Accept"          : "text/html,application/xhtml+xml,*/*;q=0.8",
+    "Accept-Language" : "tr-TR,tr;q=0.9,en;q=0.8",
+    "Referer"         : referer || BASE_URL + "/"
+  };
+  if (cookie) hdrs["Cookie"] = cookie;
+  return fetch(url, { headers: hdrs })
+    .then(function(r) {
+      if (!r.ok) throw new Error("HTTP " + r.status + " " + url);
+      return r.text();
+    });
+}
+
+function post(url, body, referer, cookie) {
+  var hdrs = {
+    "User-Agent"   : UA,
+    "Content-Type" : "application/x-www-form-urlencoded",
+    "Referer"      : referer || BASE_URL + "/",
+    "Accept"       : "text/html,application/xhtml+xml,*/*;q=0.8",
+    "Accept-Language": "tr-TR,tr;q=0.9,en;q=0.8"
+  };
+  if (cookie) hdrs["Cookie"] = cookie;
+  return fetch(url, { method: "POST", headers: hdrs, body: body })
+    .then(function(r) {
+      if (!r.ok) throw new Error("HTTP " + r.status + " " + url);
+      return r.text();
+    });
 }
 
 // ─── TMDB ─────────────────────────────────────────────────────────────────────
@@ -86,8 +112,8 @@ function similarity(a, b) {
 
 // ─── DDizi Arama ──────────────────────────────────────────────────────────────
 
-function searchDdizi(query) {
-  return post(BASE_URL + "/arama/", "arama=" + encodeURIComponent(query))
+function searchDdizi(query, cookie) {
+  return post(BASE_URL + "/arama/", "arama=" + encodeURIComponent(query), BASE_URL + "/", cookie)
     .then(function(html) {
       var results = [];
       var re = /<div[^>]+dizi-boxpost-cat[^>]*>[\s\S]*?<a[^>]+href="([^"]+)"[^>]*title="([^"]+)"[\s\S]*?<\/div>/gi;
@@ -120,8 +146,8 @@ function findBestResult(results, titleTr, titleOrig) {
 // DDizi URL formatı: /diziler/{id}/{slug}-{bolum}-son-bolum-izle
 // Dizi sayfasında bölümler div.dizi-boxpost-cat içinde, sayfalama /sayfa-N
 
-function fetchEpisodeUrls(diziUrl, targetEpisode) {
-  return fetchAllEpisodes(diziUrl).then(function(eps) {
+function fetchEpisodeUrls(diziUrl, targetEpisode, cookie) {
+  return fetchAllEpisodes(diziUrl, cookie).then(function(eps) {
     // Bölüm numarasına göre sırala ve hedefi bul
     var match = null;
     eps.forEach(function(ep) {
@@ -132,15 +158,15 @@ function fetchEpisodeUrls(diziUrl, targetEpisode) {
   });
 }
 
-function fetchAllEpisodes(diziUrl) {
-  return get(diziUrl).then(function(html) {
+function fetchAllEpisodes(diziUrl, cookie) {
+  return get(diziUrl, BASE_URL + "/", cookie).then(function(html) {
     var eps      = parseEpisodeList(html);
     var pageUrls = extractPageUrls(html, diziUrl);
 
     if (pageUrls.length === 0) return eps;
 
     var promises = pageUrls.map(function(pu) {
-      return get(pu)
+      return get(pu, diziUrl, cookie)
         .then(function(ph) { return parseEpisodeList(ph); })
         .catch(function() { return []; });
     });
@@ -184,8 +210,8 @@ function extractPageUrls(html, baseUrl) {
 // ─── Video Çözümleme ──────────────────────────────────────────────────────────
 // Bölüm sayfası → iframe /player/oynat/{hash} → JWPlayer sources
 
-function extractVideoUrl(episodeUrl) {
-  return get(episodeUrl, BASE_URL + "/")
+function extractVideoUrl(episodeUrl, cookie) {
+  return get(episodeUrl, BASE_URL + "/", cookie)
     .then(function(html) {
       // iframe src çıkar
       var iframeM = html.match(/<iframe[^>]+src="(\/player\/oynat\/[^"]+)"/i)
@@ -201,7 +227,7 @@ function extractVideoUrl(episodeUrl) {
 
       console.log("[DDizi] Player: " + playerUrl);
 
-      return get(playerUrl, episodeUrl)
+      return get(playerUrl, episodeUrl, cookie)
         .then(function(playerHtml) {
           // JWPlayer sources: {file:"URL", label:"360p", type:"mp4"}
           var streams = [];
@@ -252,24 +278,26 @@ function extractVideoUrl(episodeUrl) {
 function getStreams(tmdbId, mediaType, season, episode) {
   console.log("[DDizi] tmdbId=" + tmdbId + " type=" + mediaType + " S" + season + "E" + episode);
 
-  return getTmdbInfo(tmdbId, mediaType)
-    .then(function(info) {
+  // DDizi yalnızca dizi içeriyor
+  if (mediaType === "movie") {
+    console.log("[DDizi] Film desteklenmiyor");
+    return Promise.resolve([]);
+  }
+
+  // Session cookie + TMDB bilgisi paralel al
+  return Promise.all([fetchSessionCookie(), getTmdbInfo(tmdbId, mediaType)])
+    .then(function(init) {
+      var cookie = init[0];
+      var info   = init[1];
       console.log("[DDizi] TMDB: " + info.title + " / " + info.origTitle);
 
-      // DDizi yalnızca dizi içeriyor
-      if (mediaType === "movie") {
-        console.log("[DDizi] Film desteklenmiyor");
-        return [];
-      }
-
-      // Türkçe ve orijinal başlıkla arama yap
       var queries = [];
       if (info.title) queries.push(info.title);
       if (info.origTitle && info.origTitle !== info.title) queries.push(info.origTitle);
 
       function tryNextQuery(i) {
         if (i >= queries.length) return Promise.resolve(null);
-        return searchDdizi(queries[i]).then(function(results) {
+        return searchDdizi(queries[i], cookie).then(function(results) {
           var best = findBestResult(results, info.title, info.origTitle);
           if (best) return best;
           return tryNextQuery(i + 1);
@@ -284,7 +312,7 @@ function getStreams(tmdbId, mediaType, season, episode) {
 
         console.log("[DDizi] Dizi: " + best.title + " → " + best.url);
 
-        return fetchEpisodeUrls(best.url, episode)
+        return fetchEpisodeUrls(best.url, episode, cookie)
           .then(function(epUrl) {
             if (!epUrl) {
               console.warn("[DDizi] S" + season + "E" + episode + " bulunamadı");
@@ -292,7 +320,7 @@ function getStreams(tmdbId, mediaType, season, episode) {
             }
 
             console.log("[DDizi] Bölüm URL: " + epUrl);
-            return extractVideoUrl(epUrl).then(function(stream) {
+            return extractVideoUrl(epUrl, cookie).then(function(stream) {
               return stream ? [stream] : [];
             });
           });

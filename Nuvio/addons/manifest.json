@@ -1,6 +1,6 @@
 {
   "name": "V1R Eklentileri",
-  "version": "3.1",
+  "version": "3.2",
   "scrapers": [
     {
       "id": "film-makinesi",
@@ -153,7 +153,7 @@
       "id": "ddizi",
       "name": "DDizi",
       "description": "Yerli ve yabancı diziler — ddizi.im üzerinden JWPlayer mp4 stream sağlar.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "V1R",
       "supportedTypes": ["tv"],
       "filename": "providers/DDizi.js",
