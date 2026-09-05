@@ -1,6 +1,6 @@
 {
   "name": "V1R Eklentileri",
-  "version": "3.0",
+  "version": "3.1",
   "scrapers": [
     {
       "id": "film-makinesi",
@@ -146,6 +146,21 @@
       "logo": "https://www.google.com/s2/favicons?domain=dizi62.life&sz=128",
       "contentLanguage": ["tr"],
       "formats": ["m3u8"],
+      "limited": false,
+      "disabledPlatforms": []
+    },
+    {
+      "id": "ddizi",
+      "name": "DDizi",
+      "description": "Yerli ve yabancı diziler — ddizi.im üzerinden JWPlayer mp4 stream sağlar.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": ["tv"],
+      "filename": "providers/DDizi.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=128",
+      "contentLanguage": ["tr"],
+      "formats": ["mp4"],
       "limited": false,
       "disabledPlatforms": []
     },
