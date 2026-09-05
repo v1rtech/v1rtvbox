@@ -229,15 +229,24 @@ function extractVideoUrl(episodeUrl, cookie) {
 
       return get(playerUrl, episodeUrl, cookie)
         .then(function(playerHtml) {
-          // JWPlayer sources: {file:"URL", label:"360p", type:"mp4"}
           var streams = [];
-          var srcRe   = /\{file:"([^"]+)",\s*label:\s*"([^"]+)",\s*type:\s*"([^"]+)"\}/gi;
+
+          // sources: [{file:"URL", label:"...", type:"..."}, ...]
+          var srcRe = /\{[^}]*file\s*:\s*"([^"]+)"[^}]*label\s*:\s*"([^"]*)"[^}]*type\s*:\s*"([^"]+)"[^}]*\}/gi;
           var m;
           while ((m = srcRe.exec(playerHtml)) !== null) {
-            streams.push({ url: m[1], label: m[2], type: m[3] });
+            streams.push({ url: m[1], label: m[2] || "HD", type: m[3] });
           }
 
-          // Alternatif: tek file: "..." formatı (label olmadan)
+          // Alternatif sıra: label önce, file sonra
+          if (streams.length === 0) {
+            var srcRe2 = /\{[^}]*label\s*:\s*"([^"]*)"[^}]*file\s*:\s*"([^"]+)"[^}]*type\s*:\s*"([^"]+)"[^}]*\}/gi;
+            while ((m = srcRe2.exec(playerHtml)) !== null) {
+              streams.push({ url: m[2], label: m[1] || "HD", type: m[3] });
+            }
+          }
+
+          // Son çare: herhangi bir file: "..." ile mp4/m3u8
           if (streams.length === 0) {
             var singleM = playerHtml.match(/file\s*:\s*"([^"]+\.(?:mp4|m3u8)[^"]*)"/i);
             if (singleM) {
