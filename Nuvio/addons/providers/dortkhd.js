@@ -1,5 +1,5 @@
 /**
- * dortkhd - Built from src/dortkhd/
+ * patrondortkhd - Built from src/patrondortkhd/
  * Generated: 2026-08-02T11:28:04.474Z
  */
 var __create = Object.create;
@@ -96,7 +96,7 @@ function getDomains() {
         throw new Error(`HTTP ${res.status}`);
       cachedDomains = yield res.json();
     } catch (error) {
-      console.warn(`[DortKHD] domains.json alinamadi: ${error.message}`);
+      console.warn(`[PatronDortKHD] domains.json alinamadi: ${error.message}`);
       cachedDomains = {};
     }
     return cachedDomains;
@@ -167,14 +167,14 @@ function getTmdbTitle(tmdbId, mediaType) {
       }
       return { trTitle, origTitle, shortTitle };
     } catch (error) {
-      console.error(`[DortKHD] TMDB baslik hatasi: ${error.message}`);
+      console.error(`[PatronDortKHD] TMDB baslik hatasi: ${error.message}`);
       return { trTitle: "", origTitle: "", shortTitle: "" };
     }
   });
 }
 
 // src/patrondortkhd/extractor.js
-var PROVIDER_NAME = "DortKHD";
+var PROVIDER_NAME = "PatronDortKHD";
 var REDIRECT_REGEX = /s\('o','([A-Za-z0-9+/=]+)'|ck\('_wp_http_\d+','([^']+)'/g;
 function dedupeStreams(streams) {
   const seen = /* @__PURE__ */ new Set();
@@ -624,10 +624,10 @@ function extractStreams(tmdbId, mediaType, season, episode) {
 function getStreams(tmdbId, mediaType, season, episode) {
   return __async(this, null, function* () {
     try {
-      console.log(`[DortKHD] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
+      console.log(`[PatronDortKHD] Istek: ${mediaType} | TMDB: ${tmdbId} | S:${season} E:${episode}`);
       return yield extractStreams(tmdbId, mediaType, season, episode);
     } catch (error) {
-      console.error(`[DortKHD] Hata: ${error.message}`);
+      console.error(`[PatronDortKHD] Hata: ${error.message}`);
       return [];
     }
   });
