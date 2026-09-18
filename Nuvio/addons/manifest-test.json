@@ -195,19 +195,30 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "jetfilmizle",
+      "id": "jet-filmizle",
       "name": "JetFilmizle",
-      "description": "Türkçe dublaj full HD filmler. jetfilmizle.net üzerinden Pixeldrain mp4 stream sağlar.",
+      "description": "JetFilmizle.com üzerinden Türkçe dublajlı ve altyazılı filmler. @V1R tarafından geliştirildi.",
       "version": "1.0.0",
       "author": "V1R",
-      "supportedTypes": ["movie"],
-      "filename": "providers/jetfilmizle.js",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/JetFilmizle.js",
       "enabled": true,
-      "logo": "https://jetfilmizle.net/public/icons/apple-touch-icon.png",
-      "contentLanguage": ["tr"],
-      "formats": ["mp4", "m3u8"],
+      "logo": "https://www.google.com/s2/favicons?domain=jetfilmizle.com&sz=64",
+      "contentLanguage": [
+        "tr"
+      ],
+      "formats": [
+        "m3u8",
+        "mp4",
+        "mkv",
+        "hls"
+      ],
       "limited": false,
-      "disabledPlatforms": []
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
     },
     {
       "id": "cizgimax",
@@ -234,6 +245,79 @@
       "filename": "providers/cizgivedizi.js",
       "enabled": true,
       "logo": "https://www.google.com/s2/favicons?domain=cizgivedizi.com&sz=64",
+      "contentLanguage": ["tr"],
+      "formats": ["mp4", "m3u8"],
+      "limited": false,
+      "disabledPlatforms": []
+    },
+    {
+      "id": "filmmodu",
+      "name": "FilmModu",
+      "description": "Türkçe dublaj ve altyazılı full HD filmler. filmmodu.ws üzerinden stream sağlar.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": ["movie"],
+      "filename": "providers/filmmodu.js",
+      "enabled": true,
+      "logo": "https://filmmodu.rip/wp-content/uploads/2023/07/logo.png",
+      "contentLanguage": ["tr"],
+      "formats": ["mp4", "m3u8"],
+      "limited": false,
+      "disabledPlatforms": []
+    },
+    {
+      "id": "dizilife",
+      "name": "DiziLife",
+      "description": "Türk dizi ve filmler — Türkçe & İngilizce ses + altyazı",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/dizilife.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=dizi62.life&sz=128",
+      "contentLanguage": ["tr"],
+      "formats": ["m3u8"],
+      "limited": false,
+      "disabledPlatforms": []
+    },
+    {
+      "id": "diziyo",
+      "name": "Diziyo",
+      "description": "Türkçe dublaj ve altyazılı diziler.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": ["tv"],
+      "filename": "providers/diziyo.js",
+      "enabled": true,
+      "contentLanguage": ["tr"],
+      "formats": ["mp4", "m3u8"],
+      "limited": false,
+      "disabledPlatforms": []
+    },
+    {
+      "id": "sezonlukdizi",
+      "name": "SezonlukDizi",
+      "description": "Türkçe dublaj ve altyazılı diziler. sezonlukdizi8.com üzerinden VidMoly/Sibnet stream sağlar.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": ["tv"],
+      "filename": "providers/sezonlukdizi.js",
+      "enabled": true,
+      "contentLanguage": ["tr"],
+      "formats": ["mp4", "m3u8"],
+      "limited": false,
+      "disabledPlatforms": []
+    },
+    {
+      "id": "webteizle",
+      "name": "WebteIzle",
+      "description": "Türkçe dublaj ve altyazılı filmler ve diziler. webteizle3.xyz üzerinden VidMoly/Sibnet/FileMoon/Dzen stream sağlar.",
+      "version": "1.0.0",
+      "author": "V1R",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/webteizle.js",
+      "enabled": true,
+      "logo": "https://webteizle3.xyz/images/logo.png",
       "contentLanguage": ["tr"],
       "formats": ["mp4", "m3u8"],
       "limited": false,

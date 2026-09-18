@@ -1,31 +1,15 @@
 {
   "name": "V1R Eklentileri",
-  "version": "3.3",
+  "version": "3.4",
   "scrapers": [
     {
       "id": "film-makinesi",
-      "name": "FilmMakinesi-v1",
+      "name": "FilmMakinesi",
       "description": "FilmMakinesi.to uzerinden Turkce dublajli ve altyazili filmler. @V1R tarafindan gelistirildi.",
       "version": "1.0.4",
       "author": "V1R",
       "supportedTypes": ["movie", "tv"],
-      "filename": "providers/FilmMakinesi-v1.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
-      "contentLanguage": ["tr"],
-      "formats": ["mp4", "m3u8"],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
-    },
-    {
-      "id": "film-makinesi",
-      "name": "FilmMakinesi-v2",
-      "description": "FilmMakinesi.to uzerinden Turkce dublajli ve altyazili filmler. @V1R tarafindan gelistirildi.",
-      "version": "1.0.1",
-      "author": "V1R",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/FilmMakinesi-v2.js",
+      "filename": "providers/FilmMakinesi.js",
       "enabled": true,
       "logo": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
       "contentLanguage": ["tr"],
@@ -51,57 +35,34 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "filmmodu",
-      "name": "FilmModu",
-      "description": "Türkçe dublaj ve altyazılı full HD filmler. filmmodu.ws üzerinden stream sağlar.",
+      "id": "hdf-cehennemi",
+      "name": "HDFCehennemi-v1",
+      "description": "HDFilmCehennemi tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
       "version": "1.0.0",
       "author": "V1R",
-      "supportedTypes": ["movie"],
-      "filename": "providers/filmmodu.js",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/hdfcehennemi-v1.js",
       "enabled": true,
-      "logo": "https://filmmodu.rip/wp-content/uploads/2023/07/logo.png",
+      "logo": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
       "contentLanguage": ["tr"],
-      "formats": ["mp4", "m3u8"],
+      "formats": ["m3u8", "mp4"],
       "limited": false,
-      "disabledPlatforms": []
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
     },
     {
       "id": "hdfilmcehennemi",
-      "name": "HDFilmCehennemi",
+      "name": "HDFilmCehennemi-v2",
       "description": "Türkçe dublaj ve altyazılı full HD film ve diziler. hdfilmcehennemi üzerinden stream sağlar.",
       "version": "1.0.0",
       "author": "V1R",
       "supportedTypes": ["movie", "tv"],
-      "filename": "providers/hdfilmcehennemi.js",
+      "filename": "providers/hdfilmcehennemi-v2.js",
       "enabled": true,
       "contentLanguage": ["tr"],
       "formats": ["mp4", "m3u8"],
       "limited": false,
       "disabledPlatforms": []
-    },
-    {
-      "id": "hdf-cehennemi",
-      "name": "HDFCehennemi",
-      "description": "HDFilmCehennemi tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/hdfcehennemi.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
     },
     {
       "id": "dizipal",
@@ -109,21 +70,12 @@
       "description": "Dizipal tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
       "version": "4.0.0",
       "author": "V1R",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
+      "supportedTypes": ["movie", "tv"],
       "filename": "providers/Dizipal.js",
       "enabled": true,
       "logo": "https://www.google.com/s2/favicons?domain=dizipal2063.com&sz=64",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv"
-      ],
+      "contentLanguage": ["tr"],
+      "formats": ["m3u8", "mp4", "mkv"],
       "limited": false,
       "disabledPlatforms": [],
       "supportsExternalPlayer": true
@@ -134,75 +86,12 @@
       "description": "4KHDHub tabanli film ve dizi stream linkleri. @v1r tarafindan gelistirildi.",
       "version": "2.0.0",
       "author": "v1r",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
+      "supportedTypes": ["movie", "tv"],
       "filename": "providers/dortkhd.js",
       "enabled": true,
       "logo": "",
-      "contentLanguage": [
-        "en",
-        "hi"
-      ],
-      "formats": [
-        "mp4",
-        "m3u8",
-        "mkv"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
-    },
-
-    {
-      "id": "fullhd-filmizlesene",
-      "name": "FullHDFilmizlesene",
-      "description": "FullHDFilmizlesene.now üzerinden Türkçe dublajlı ve altyazılı filmler. @V1R tarafından geliştirildi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/FullHDFilmizlesene.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now&sz=64",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv",
-        "hls"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
-    },
-    {
-      "id": "jet-filmizle",
-      "name": "JetFilmizle",
-      "description": "JetFilmizle.com üzerinden Türkçe dublajlı ve altyazılı filmler. @V1R tarafından geliştirildi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/JetFilmizle.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=jetfilmizle.com&sz=64",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv",
-        "hls"
-      ],
+      "contentLanguage": ["en", "hi"],
+      "formats": ["mp4", "m3u8", "mkv"],
       "limited": false,
       "disabledPlatforms": [],
       "supportsExternalPlayer": true
@@ -218,78 +107,6 @@
       "enabled": true,
       "contentLanguage": ["tr"],
       "formats": ["mp4", "m3u8"],
-      "limited": false,
-      "disabledPlatforms": []
-    },
-    {
-      "id": "webteizle",
-      "name": "WebteIzle",
-      "description": "Türkçe dublaj ve altyazılı filmler ve diziler. webteizle3.xyz üzerinden VidMoly/Sibnet/FileMoon/Dzen stream sağlar.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/webteizle.js",
-      "enabled": true,
-      "logo": "https://webteizle3.xyz/images/logo.png",
-      "contentLanguage": ["tr"],
-      "formats": ["mp4", "m3u8"],
-      "limited": false,
-      "disabledPlatforms": []
-    },
-    {
-      "id": "sezonlukdizi",
-      "name": "SezonlukDizi",
-      "description": "Türkçe dublaj ve altyazılı diziler. sezonlukdizi8.com üzerinden VidMoly/Sibnet stream sağlar.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": ["tv"],
-      "filename": "providers/sezonlukdizi.js",
-      "enabled": true,
-      "contentLanguage": ["tr"],
-      "formats": ["mp4", "m3u8"],
-      "limited": false,
-      "disabledPlatforms": []
-    },
-    {
-      "id": "diziyo",
-      "name": "Diziyo",
-      "description": "Türkçe dublaj ve altyazılı diziler.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": ["tv"],
-      "filename": "providers/diziyo.js",
-      "enabled": true,
-      "contentLanguage": ["tr"],
-      "formats": ["mp4", "m3u8"],
-      "limited": false,
-      "disabledPlatforms": []
-    },
-    {
-      "id": "fullhdfilmizlesene",
-      "name": "FullHDFilmizlesene",
-      "description": "Türkçe dublaj ve altyazılı full HD filmler. fullhdfilmizlesene.live üzerinden stream sağlar.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": ["movie"],
-      "filename": "providers/fullhdfilmizlesene.js",
-      "enabled": true,
-      "contentLanguage": ["tr"],
-      "formats": ["mp4", "m3u8"],
-      "limited": false,
-      "disabledPlatforms": []
-    },
-    {
-      "id": "dizilife",
-      "name": "DiziLife",
-      "description": "Türk dizi ve filmler — Türkçe & İngilizce ses + altyazı",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/dizilife.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=dizi62.life&sz=128",
-      "contentLanguage": ["tr"],
-      "formats": ["m3u8"],
       "limited": false,
       "disabledPlatforms": []
     },
