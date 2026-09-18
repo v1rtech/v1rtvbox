@@ -1,5 +1,5 @@
 /**
- * patronhdfcehennemi - Built from src/patronhdfcehennemi/
+ * hdfcehennemi - Built from src/hdfcehennemi/
  * Generated: 2026-08-02T11:23:11.584Z
  */
 var __create = Object.create;
